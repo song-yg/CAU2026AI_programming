@@ -44,8 +44,7 @@ class UnitManager:
         "pt" : "ml",
         "qt" : "ml"
     }
-    def unit_conversion(self, target=[0,0,0,0]): #타겟
-
+    def unit_conversion(self, target):
         '''
         냉장고 재료 추가가 다음과 같은 형식이라 가정하고 코드를 작성하겠다.
         target = [재료명, 수량, 단위, 유통기한]
