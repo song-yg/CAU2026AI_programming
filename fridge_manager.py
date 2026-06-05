@@ -195,10 +195,6 @@ class FridgeManager:
         
         ai_helper = self.get_usable_ai_helper()
 
-        '''
-        ai를 통한 교차 검증!!
-        '''
-
         if ai_helper is not None:
             print("[AI 재료명/단위 정규화 시도]")
             ai_target = ai_convert_ingredient_unit(name, quantity, unit, expire_days)
@@ -212,6 +208,8 @@ class FridgeManager:
                         print(f"오류 내용: {e}")
                         ai_target = None
 
+            if ai_target is not None:
+
                 ai_name = ai_target[0]
                 ai_unit = ai_target[2]
 
@@ -220,52 +218,58 @@ class FridgeManager:
                 
                 print(f'[AI 정규화 실패] AI 결과값이 표준 단위가 아닙니다. : {ai_unit}')
 
-                '''
-                AI가 실패해도 로컬 정규화가 성공할 수도 있다
-                '''
 
             if local_is_standard:
                     print("[로컬 정규화 성공] AI는 실패했지만 로컬 규칙으로 정규화에 성공했습니다.")
                     return local_target, False
 
-            print("[추가 실패]")
+            print("[일괄적 실패]")
             print('AI와 로컬 정규화 모두 실패했습니다.')
             print('해결 방법: g, ml, 개처럼 표준 단위를 사용하여 재료를 추가하거나 openrouter_key.txt를 확인하세요.')
             return None, False
 
         if local_is_standard:
+            print("[로컬 정규화 성공] AI가 존재하지 않지만 로컬 규칙으로 정규화에 성공했습니다.")
             return local_target, False
         
         print("[추가 실패]")
 
         if local_error is not None:
-            print('입력값을 숫자/단위로 해석하지 못했습니다.')
+            print('입력값을 숫자/단위로 해석하지 못했습니다.', local_error)
         elif local_target is not None:
             print('로컬 정규화로 처리하기 어려운 입력입니다.', local_target[0], local_target[1], local_target[2])
 
         print('이 경우에는 AI 정규화가 필요합니다. openrouter_key.txt 또는 OPENROUTER_API_KEY를 설정해 주세요.')
-        return None, False          0.
+        return None, False          
             
         
     def add_ingredient(self, name, quantity, unit, expire_days):
-        unit_manager = UnitManager()
 
         try:
-            target = [name, quantity, unit, expire_days]
-
             before_quantity = float(quantity)
             before_unit = str(unit).strip()
 
-            target = unit_manager.unit_conversion(target)
+            result = self.convert_with_ai_if_needed(name, quantity, unit, expire_days)
+            target = result[0]
+            used_ai = result[1]
+
+            if target is None:
+                return
 
             name = target[0]
             quantity = target[1]
             unit = target[2]
             expire_days = int(target[3])
 
-        except:
+            changed = before_quantity != str(quantity) or before_unit != str(unit)
+
+        except Exception as e:
             print("[추가 실패]")
-            print("수량 또는 유통기한이 올바르지 않습니다.")
+            print("입력값이 올바르지 않습니다.")
+            print("오류 내용 :", e)
+            return
+
+        if 
 
 
 
