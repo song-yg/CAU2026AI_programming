@@ -142,6 +142,7 @@ def calculate_expire_urgency(recipe, fridge_manager):
     urgent_ingredients = []
 
     for required in get_required_items(recipe):
+        #이거 amount랑 unit이 없긴 한데 일단 받긴 하는거.
         name, amount, unit = normalize_required_item(required)
 
         #물 유통기한 제외
