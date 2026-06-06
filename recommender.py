@@ -142,7 +142,7 @@ def calculate_expire_urgency(recipe, fridge_manager):
     urgent_ingredients = []
 
     for required in get_required_items(recipe):
-        name = required["name"]
+        name, amount, unit = normalize_required_item(required)
 
         #물 유통기한 제외
         if name in ALWAYS_AVAILABLE:
@@ -173,6 +173,7 @@ def calculate_score(recipe, fridge_manager):
     urgency, urgent_ingredients = calculate_expire_urgency(recipe, fridge_manager)
 
     score = match_rate + 20 * urgency - 5 * len(missing) - 0.3 * recipe.minutes
+
     result = RecommendationResult(
         recipe,
         score,
@@ -180,14 +181,17 @@ def calculate_score(recipe, fridge_manager):
         missing,
         urgent_ingredients,
     )
+
     return result
 
 
 # 레시피 목록과 냉장고를 비교해서 점수가 높은 순으로 레시피를 추천한다.
 def recommend_recipes(recipes, fridge_manager, top_n):
     results = []
+
     for recipe in recipes:
         result = calculate_score(recipe, fridge_manager)
         results.append(result)
     results.sort(key=lambda x: x.score, reverse=True)
+
     return results[:top_n]
