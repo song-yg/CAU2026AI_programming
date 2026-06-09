@@ -305,7 +305,7 @@ class FridgeManager:
             local_is_recipe_compatible = local_is_standard and self.is_recipe_compatible(local_name, local_unit)
 
         except Exception as e:
-            local_error = e
+            local_error = e 
 
         if local_is_recipe_compatible:
             return local_target, False
@@ -550,14 +550,135 @@ class FridgeManager:
             return False
 
         print("\n[재료 일부 삭제]")
+        self.consume_one_ingredient(name, quantity, unit)
+
+        new_list = []
+
+        for ingredient in self.ingredients:
+            if ingredient.quantity > 0:
+                new_list.append(ingredient)
+
+        self.ingredients = new_list
+        self.save()
+
+        print("선택한 수량만 삭제했습니다.")
+        return True
 
 
 
+    def check_available_for_recipe(self, recipe):
 
-        
+        if len(recipe.used_ingredients) == 0:
+            print("[재료 차감 실패]")
+            print("이 레시피에는 차감용 재료 정보가 없습니다.")
+            return False
+
+        always_available = ["물"]
+        unit_manager = UnitManager()
+
+        for used in recipe.used_ingredients:
+            name = unit_manager.normalize_name(used['name'])
+            amount = used['amount']
+            unit = unit_manager.normalize_name(used['unit'])
+            
+            if name in always_available:
+                continue
+
+            batches = self.get_batches(name)
+
+            if len(batches) == 0:
+                print("[재료 차감 실패]")
+                print(name, "재료가 냉장고에 없습니다.")
+                print("냉장고 재료는 변경되지 않았습니다.")
+                return False
 
 
+            total = self.get_total_quantity(name, unit)
 
 
+            if total == 0:
+                print("[재료 차감 실패]")
+                print(name, "의 단위가 일치하지 않습니다")
+                print("레시피 필요 단위:", unit)
+                print("냉장고 저장 단위:", batches[0].unit)
+                print("냉장고 재료는 변경되지 않았습니다.")
+                return False
 
 
+            if total < amount:
+                print("[재료 차감 실패]")
+                print(name, "수량이 부족합니다.")
+                print("필요 수량:", amount, unit)
+                print("현재 총수량", round(total,2), unit)
+                print("냉장고 재료는 변경되지 않았습니다.")
+                return False
+
+     return True
+
+                
+    def consume_one_ingredient(self, name, amount, unit):
+        unit_manager = UnitManager()
+        name = unit_manager.normalize_name(name)
+        unit = unit_manager.normalize_unit_name(unit)
+        batches = self.get_batches(name)
+        remaining = amount
+
+        for ingredient in batches:
+            if ingredient.unit != unit:
+                continue
+
+            if remaining <= 0:
+                break
+
+            before = ingredient.quantity
+
+            if ingredient.quantity >= remaining:
+                ingredient.quantity -= remaining
+                used_amount = remaining
+                remaining = 0
+            else:
+                used_amount = ingredient.quantity
+                remaining = remaining - ingredient.quantity
+                ingredient.quantity = 0
+
+            after = ingredient.quantity
+
+           print(
+                name + "(" + str(ingredient.expire_days) + "일 남음): " +
+                str(round(before, 2)) + unit +
+	                " -> " +
+                str(round(after, 2)) + unit +
+                "  / 사용 " + str(round(used_amount, 2)) + unit
+            )
+
+   def consume_ingredients(self, recipe):
+    if self.check_available_for_recipe(recipe) == False:
+        return False
+
+    print("\n[" + recipe.name + "재료 차감]")
+
+    always_available = ["물"]
+    unit_manager = UnitManager()
+
+    for used in recipe.used_ingredients:
+        name = unit_manager.normalize_name(name)
+        unit = unit_manager.normalize_unit_name(unit)
+        amount = used['amount']
+
+        if name in always_available:
+            continue
+
+        self.consume_one_ingredient(name, amount, unit)
+
+    new_list = []
+
+    for ingredient in self.ingredients:
+        if ingredient.quantity > 0:
+            new_list.append(ingredient)
+
+   
+    self.ingredients = new_list
+    self.save()
+
+    print("요리에 사용된 재료가 냉장고에서 차감되었습니다.")
+    return True
