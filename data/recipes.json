@@ -3353,5 +3353,3489 @@
       }
     ],
     "instructions_ko": "1. 핫케이크가루에 우유와 계란을 넣고 덩어리 없이 섞는다.\n2. 팬을 약불로 달군 뒤 버터를 살짝 녹인다.\n3. 반죽을 둥글게 붓고 표면에 기포가 올라오면 뒤집는다.\n4. 반대쪽도 노릇하게 익힌다.\n5. 접시에 담고 시럽을 곁들여 완성한다."
+  },{
+    "recipe_id": "R076",
+    "recipe_name_ko": "치킨샐러드",
+    "recipe_name_en": "Chicken Salad",
+    "cuisine": "Western",
+    "category": "Salad",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "닭가슴살, 양상추, 토마토, 오이, 드레싱",
+    "essential_ingredients_ko": "닭가슴살, 양상추, 토마토, 오이",
+    "used_ingredients": [
+      {
+        "name": "닭가슴살",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "양상추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "드레싱",
+        "amount": 60,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 채소와 과일은 깨끗이 씻고 물기를 충분히 제거한다.\n2. 닭가슴살, 양상추, 토마토, 오이 같은 재료는 한입 크기로 썰고, 익혀야 하는 재료는 먼저 익혀 식힌다.\n3. 큰 볼에 손질한 재료를 담는다.\n4. 드레싱을 넣고 재료가 으깨지지 않게 가볍게 섞는다.\n5. 접시에 담아 차갑게 내면 완성된다."
+  },
+  {
+    "recipe_id": "R077",
+    "recipe_name_ko": "참치샐러드",
+    "recipe_name_en": "Tuna Salad",
+    "cuisine": "Western",
+    "category": "Salad",
+    "minutes": 10,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "참치캔, 양상추, 오이, 옥수수콘, 마요네즈",
+    "essential_ingredients_ko": "참치캔, 양상추, 오이, 옥수수콘",
+    "used_ingredients": [
+      {
+        "name": "참치캔",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "양상추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "옥수수콘",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "마요네즈",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 채소와 과일은 깨끗이 씻고 물기를 충분히 제거한다.\n2. 참치캔, 양상추, 오이, 옥수수콘 같은 재료는 한입 크기로 썰고, 익혀야 하는 재료는 먼저 익혀 식힌다.\n3. 큰 볼에 손질한 재료를 담는다.\n4. 마요네즈을 넣고 재료가 으깨지지 않게 가볍게 섞는다.\n5. 접시에 담아 차갑게 내면 완성된다."
+  },
+  {
+    "recipe_id": "R078",
+    "recipe_name_ko": "감자샐러드",
+    "recipe_name_en": "Potato Salad",
+    "cuisine": "Western",
+    "category": "Salad",
+    "minutes": 25,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "감자, 계란, 오이, 마요네즈, 소금, 후추",
+    "essential_ingredients_ko": "감자, 계란, 오이, 마요네즈",
+    "used_ingredients": [
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "마요네즈",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "소금",
+        "amount": 4,
+        "unit": "g"
+      },
+      {
+        "name": "후추",
+        "amount": 2,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 채소와 과일은 깨끗이 씻고 물기를 충분히 제거한다.\n2. 감자, 계란, 오이 같은 재료는 한입 크기로 썰고, 익혀야 하는 재료는 먼저 익혀 식힌다.\n3. 큰 볼에 손질한 재료를 담는다.\n4. 마요네즈, 소금, 후추을 넣고 재료가 으깨지지 않게 가볍게 섞는다.\n5. 접시에 담아 차갑게 내면 완성된다."
+  },
+  {
+    "recipe_id": "R079",
+    "recipe_name_ko": "카프레제샐러드",
+    "recipe_name_en": "Caprese Salad",
+    "cuisine": "Italian",
+    "category": "Salad",
+    "minutes": 10,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "토마토, 모짜렐라치즈, 바질, 올리브유, 발사믹식초",
+    "essential_ingredients_ko": "토마토, 모짜렐라치즈, 바질, 올리브유",
+    "used_ingredients": [
+      {
+        "name": "토마토",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "모짜렐라치즈",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "바질",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "올리브유",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "발사믹식초",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 채소와 과일은 깨끗이 씻고 물기를 충분히 제거한다.\n2. 토마토, 모짜렐라치즈, 바질 같은 재료는 한입 크기로 썰고, 익혀야 하는 재료는 먼저 익혀 식힌다.\n3. 큰 볼에 손질한 재료를 담는다.\n4. 올리브유, 발사믹식초을 넣고 재료가 으깨지지 않게 가볍게 섞는다.\n5. 접시에 담아 차갑게 내면 완성된다."
+  },
+  {
+    "recipe_id": "R080",
+    "recipe_name_ko": "그릭샐러드",
+    "recipe_name_en": "Greek Salad",
+    "cuisine": "Greek",
+    "category": "Salad",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "오이, 토마토, 양파, 올리브, 페타치즈, 올리브유",
+    "essential_ingredients_ko": "오이, 토마토, 양파, 올리브",
+    "used_ingredients": [
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "올리브",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "페타치즈",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "올리브유",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 채소와 과일은 깨끗이 씻고 물기를 충분히 제거한다.\n2. 오이, 토마토, 양파, 올리브, 페타치즈 같은 재료는 한입 크기로 썰고, 익혀야 하는 재료는 먼저 익혀 식힌다.\n3. 큰 볼에 손질한 재료를 담는다.\n4. 올리브유을 넣고 재료가 으깨지지 않게 가볍게 섞는다.\n5. 접시에 담아 차갑게 내면 완성된다."
+  },
+  {
+    "recipe_id": "R081",
+    "recipe_name_ko": "시저샐러드",
+    "recipe_name_en": "Caesar Salad",
+    "cuisine": "Western",
+    "category": "Salad",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "로메인, 닭가슴살, 크루통, 파마산치즈, 시저드레싱",
+    "essential_ingredients_ko": "로메인, 닭가슴살, 크루통, 파마산치즈",
+    "used_ingredients": [
+      {
+        "name": "로메인",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "닭가슴살",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "크루통",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "파마산치즈",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "시저드레싱",
+        "amount": 60,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 채소와 과일은 깨끗이 씻고 물기를 충분히 제거한다.\n2. 로메인, 닭가슴살, 크루통, 파마산치즈 같은 재료는 한입 크기로 썰고, 익혀야 하는 재료는 먼저 익혀 식힌다.\n3. 큰 볼에 손질한 재료를 담는다.\n4. 시저드레싱을 넣고 재료가 으깨지지 않게 가볍게 섞는다.\n5. 접시에 담아 차갑게 내면 완성된다."
+  },
+  {
+    "recipe_id": "R082",
+    "recipe_name_ko": "햄치즈샌드위치",
+    "recipe_name_en": "Ham Cheese Sandwich",
+    "cuisine": "Western",
+    "category": "Sandwich",
+    "minutes": 10,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "식빵, 햄, 치즈, 양상추, 마요네즈",
+    "essential_ingredients_ko": "식빵, 햄, 치즈, 양상추",
+    "used_ingredients": [
+      {
+        "name": "식빵",
+        "amount": 4,
+        "unit": "장"
+      },
+      {
+        "name": "햄",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 2,
+        "unit": "장"
+      },
+      {
+        "name": "양상추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "마요네즈",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 빵이나 또띠아를 준비하고, 햄, 치즈, 양상추 같은 재료는 먹기 좋게 손질한다.\n2. 고기나 계란처럼 익혀야 하는 재료는 팬에서 먼저 익힌다.\n3. 빵이나 또띠아에 소스를 얇게 바른다.\n4. 준비한 속재료를 올리고 흐르지 않게 단단히 접거나 덮는다.\n5. 반으로 잘라 먹기 좋게 담아 완성한다."
+  },
+  {
+    "recipe_id": "R083",
+    "recipe_name_ko": "에그마요샌드위치",
+    "recipe_name_en": "Egg Mayo Sandwich",
+    "cuisine": "Western",
+    "category": "Sandwich",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "식빵, 계란, 마요네즈, 오이, 소금, 후추",
+    "essential_ingredients_ko": "식빵, 계란, 마요네즈, 오이",
+    "used_ingredients": [
+      {
+        "name": "식빵",
+        "amount": 4,
+        "unit": "장"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "마요네즈",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "소금",
+        "amount": 4,
+        "unit": "g"
+      },
+      {
+        "name": "후추",
+        "amount": 2,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 빵이나 또띠아를 준비하고, 계란, 오이 같은 재료는 먹기 좋게 손질한다.\n2. 고기나 계란처럼 익혀야 하는 재료는 팬에서 먼저 익힌다.\n3. 빵이나 또띠아에 소스를 얇게 바른다.\n4. 준비한 속재료를 올리고 흐르지 않게 단단히 접거나 덮는다.\n5. 반으로 잘라 먹기 좋게 담아 완성한다."
+  },
+  {
+    "recipe_id": "R084",
+    "recipe_name_ko": "BLT샌드위치",
+    "recipe_name_en": "BLT Sandwich",
+    "cuisine": "Western",
+    "category": "Sandwich",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "식빵, 베이컨, 양상추, 토마토, 마요네즈",
+    "essential_ingredients_ko": "식빵, 베이컨, 양상추, 토마토",
+    "used_ingredients": [
+      {
+        "name": "식빵",
+        "amount": 4,
+        "unit": "장"
+      },
+      {
+        "name": "베이컨",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "양상추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "마요네즈",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 빵이나 또띠아를 준비하고, 베이컨, 양상추, 토마토 같은 재료는 먹기 좋게 손질한다.\n2. 고기나 계란처럼 익혀야 하는 재료는 팬에서 먼저 익힌다.\n3. 빵이나 또띠아에 소스를 얇게 바른다.\n4. 준비한 속재료를 올리고 흐르지 않게 단단히 접거나 덮는다.\n5. 반으로 잘라 먹기 좋게 담아 완성한다."
+  },
+  {
+    "recipe_id": "R085",
+    "recipe_name_ko": "닭가슴살랩",
+    "recipe_name_en": "Chicken Wrap",
+    "cuisine": "Western",
+    "category": "Sandwich",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "또띠아, 닭가슴살, 양상추, 토마토, 드레싱",
+    "essential_ingredients_ko": "또띠아, 닭가슴살, 양상추, 토마토",
+    "used_ingredients": [
+      {
+        "name": "또띠아",
+        "amount": 2,
+        "unit": "장"
+      },
+      {
+        "name": "닭가슴살",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "양상추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "드레싱",
+        "amount": 60,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 빵이나 또띠아를 준비하고, 닭가슴살, 양상추, 토마토 같은 재료는 먹기 좋게 손질한다.\n2. 고기나 계란처럼 익혀야 하는 재료는 팬에서 먼저 익힌다.\n3. 빵이나 또띠아에 소스를 얇게 바른다.\n4. 준비한 속재료를 올리고 흐르지 않게 단단히 접거나 덮는다.\n5. 반으로 잘라 먹기 좋게 담아 완성한다."
+  },
+  {
+    "recipe_id": "R086",
+    "recipe_name_ko": "햄버거",
+    "recipe_name_en": "Homemade Burger",
+    "cuisine": "Western",
+    "category": "Main",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "햄버거번, 소고기패티, 양상추, 토마토, 치즈, 케첩",
+    "essential_ingredients_ko": "햄버거번, 소고기패티, 양상추, 토마토",
+    "used_ingredients": [
+      {
+        "name": "햄버거번",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "소고기패티",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "양상추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 2,
+        "unit": "장"
+      },
+      {
+        "name": "케첩",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 햄버거번, 소고기패티, 양상추, 토마토, 치즈 같은 재료는 준비하고 필요한 재료는 먹기 좋은 크기로 손질한다.\n2. 팬이나 냄비를 예열한 뒤 익는 데 오래 걸리는 재료부터 넣는다.\n3. 재료가 어느 정도 익으면 케첩을 넣어 간을 맞춘다.\n4. 중간중간 저어가며 재료가 고르게 익도록 조리한다.\n5. 그릇에 담고 고명을 올려 완성한다."
+  },
+  {
+    "recipe_id": "R087",
+    "recipe_name_ko": "치킨스테이크",
+    "recipe_name_en": "Chicken Steak",
+    "cuisine": "Western",
+    "category": "Main",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "닭다리살, 마늘, 버터, 소금, 후추, 브로콜리",
+    "essential_ingredients_ko": "닭다리살, 마늘, 버터, 소금",
+    "used_ingredients": [
+      {
+        "name": "닭다리살",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "버터",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "소금",
+        "amount": 4,
+        "unit": "g"
+      },
+      {
+        "name": "후추",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "브로콜리",
+        "amount": 160,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 주재료는 키친타월로 물기를 제거하고 소금, 후추로 밑간한다.\n2. 팬을 달군 뒤 기름이나 버터를 두르고 주재료를 올린다.\n3. 앞뒤로 노릇하게 굽고, 두꺼운 재료는 약불에서 속까지 익힌다.\n4. 마늘, 레몬, 버터 같은 향 재료를 넣어 풍미를 더한다.\n5. 곁들일 채소와 함께 접시에 담아 완성한다."
+  },
+  {
+    "recipe_id": "R088",
+    "recipe_name_ko": "함박스테이크",
+    "recipe_name_en": "Hamburg Steak",
+    "cuisine": "Japanese-Western",
+    "category": "Main",
+    "minutes": 40,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "다진소고기, 양파, 계란, 빵가루, 케첩, 우스터소스",
+    "essential_ingredients_ko": "다진소고기, 양파, 계란, 빵가루",
+    "used_ingredients": [
+      {
+        "name": "다진소고기",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "빵가루",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "케첩",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "우스터소스",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 주재료는 키친타월로 물기를 제거하고 소금, 후추로 밑간한다.\n2. 팬을 달군 뒤 기름이나 버터를 두르고 주재료를 올린다.\n3. 앞뒤로 노릇하게 굽고, 두꺼운 재료는 약불에서 속까지 익힌다.\n4. 마늘, 레몬, 버터 같은 향 재료를 넣어 풍미를 더한다.\n5. 곁들일 채소와 함께 접시에 담아 완성한다."
+  },
+  {
+    "recipe_id": "R089",
+    "recipe_name_ko": "연어스테이크",
+    "recipe_name_en": "Salmon Steak",
+    "cuisine": "Western",
+    "category": "Main",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "연어, 레몬, 버터, 마늘, 소금, 후추",
+    "essential_ingredients_ko": "연어, 레몬, 버터, 마늘",
+    "used_ingredients": [
+      {
+        "name": "연어",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "레몬",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "버터",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "소금",
+        "amount": 4,
+        "unit": "g"
+      },
+      {
+        "name": "후추",
+        "amount": 2,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 주재료는 키친타월로 물기를 제거하고 소금, 후추로 밑간한다.\n2. 팬을 달군 뒤 기름이나 버터를 두르고 주재료를 올린다.\n3. 앞뒤로 노릇하게 굽고, 두꺼운 재료는 약불에서 속까지 익힌다.\n4. 마늘, 레몬, 버터 같은 향 재료를 넣어 풍미를 더한다.\n5. 곁들일 채소와 함께 접시에 담아 완성한다."
+  },
+  {
+    "recipe_id": "R090",
+    "recipe_name_ko": "마늘버터새우",
+    "recipe_name_en": "Garlic Butter Shrimp",
+    "cuisine": "Western",
+    "category": "Main",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "새우, 마늘, 버터, 레몬, 소금, 후추",
+    "essential_ingredients_ko": "새우, 마늘, 버터, 레몬",
+    "used_ingredients": [
+      {
+        "name": "새우",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "버터",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "레몬",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "소금",
+        "amount": 4,
+        "unit": "g"
+      },
+      {
+        "name": "후추",
+        "amount": 2,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 새우, 마늘, 레몬 같은 재료는 준비하고 필요한 재료는 먹기 좋은 크기로 손질한다.\n2. 팬이나 냄비를 예열한 뒤 익는 데 오래 걸리는 재료부터 넣는다.\n3. 재료가 어느 정도 익으면 버터, 소금, 후추을 넣어 간을 맞춘다.\n4. 중간중간 저어가며 재료가 고르게 익도록 조리한다.\n5. 그릇에 담고 고명을 올려 완성한다."
+  },
+  {
+    "recipe_id": "R091",
+    "recipe_name_ko": "마파두부",
+    "recipe_name_en": "Mapo Tofu",
+    "cuisine": "Chinese",
+    "category": "Main",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 3,
+    "servings": 2,
+    "ingredients_ko": "두부, 다진돼지고기, 두반장, 대파, 마늘, 고춧가루",
+    "essential_ingredients_ko": "두부, 다진돼지고기, 두반장, 대파",
+    "used_ingredients": [
+      {
+        "name": "두부",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "다진돼지고기",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "두반장",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 두부, 다진돼지고기, 대파, 마늘 같은 재료는 준비하고 필요한 재료는 먹기 좋은 크기로 손질한다.\n2. 팬이나 냄비를 예열한 뒤 익는 데 오래 걸리는 재료부터 넣는다.\n3. 재료가 어느 정도 익으면 두반장, 고춧가루을 넣어 간을 맞춘다.\n4. 중간중간 저어가며 재료가 고르게 익도록 조리한다.\n5. 그릇에 담고 고명을 올려 완성한다."
+  },
+  {
+    "recipe_id": "R092",
+    "recipe_name_ko": "계란볶음면",
+    "recipe_name_en": "Egg Chow Mein",
+    "cuisine": "Chinese",
+    "category": "Noodle",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "중화면, 계란, 양파, 양배추, 간장, 굴소스",
+    "essential_ingredients_ko": "중화면, 계란, 양파, 양배추",
+    "used_ingredients": [
+      {
+        "name": "중화면",
+        "amount": 360,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "양파",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양배추",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "굴소스",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 면은 포장 기준에 맞게 삶거나 데친 뒤 물기를 뺀다.\n2. 계란, 양파, 양배추 같은 재료는 먹기 좋은 크기로 손질한다.\n3. 팬에 기름을 두르고 단단한 재료부터 볶는다.\n4. 면과 간장, 굴소스을 넣고 센 불에서 빠르게 섞어 볶는다.\n5. 간을 확인하고 고명을 올려 완성한다."
+  },
+  {
+    "recipe_id": "R093",
+    "recipe_name_ko": "새우볶음밥",
+    "recipe_name_en": "Shrimp Fried Rice",
+    "cuisine": "Chinese",
+    "category": "Rice",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "밥, 새우, 계란, 대파, 당근, 간장",
+    "essential_ingredients_ko": "밥, 새우, 계란, 대파",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 420,
+        "unit": "g"
+      },
+      {
+        "name": "새우",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "대파",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 새우, 계란, 대파, 당근 같은 재료는 먹기 좋은 크기로 썰고, 밥은 덩어리지지 않게 가볍게 풀어둔다.\n2. 팬에 기름을 두르고 대파나 마늘처럼 향을 내는 재료를 먼저 볶는다.\n3. 주재료를 넣어 중불에서 볶다가 밥을 넣고 골고루 섞는다.\n4. 간장 같은 양념을 넣어 간을 맞추고, 밥알에 양념이 고르게 배도록 1~2분 더 볶는다.\n5. 계란이나 김, 참기름을 곁들여 완성한다."
+  },
+  {
+    "recipe_id": "R094",
+    "recipe_name_ko": "마라샹궈",
+    "recipe_name_en": "Mala Stir Fry",
+    "cuisine": "Chinese",
+    "category": "Main",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 4,
+    "servings": 2,
+    "ingredients_ko": "마라소스, 숙주, 청경채, 소고기, 두부, 버섯",
+    "essential_ingredients_ko": "마라소스, 숙주, 청경채, 소고기",
+    "used_ingredients": [
+      {
+        "name": "마라소스",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "숙주",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "청경채",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "소고기",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "두부",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "버섯",
+        "amount": 140,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 숙주, 청경채, 소고기, 두부, 버섯 같은 재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물이 있으면 마라소스으로 먼저 밑간한다.\n3. 팬에 기름을 두르고 향을 내는 재료를 먼저 볶은 뒤 주재료를 넣는다.\n4. 센 불에서 재료를 볶다가 양념을 넣고 골고루 섞는다.\n5. 재료가 완전히 익고 양념이 배면 완성한다."
+  },
+  {
+    "recipe_id": "R095",
+    "recipe_name_ko": "팟타이",
+    "recipe_name_en": "Pad Thai",
+    "cuisine": "Thai",
+    "category": "Noodle",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "쌀국수면, 새우, 계란, 숙주, 땅콩, 피시소스",
+    "essential_ingredients_ko": "쌀국수면, 새우, 계란, 숙주",
+    "used_ingredients": [
+      {
+        "name": "쌀국수면",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "새우",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "숙주",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "땅콩",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "피시소스",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 면은 포장 기준에 맞게 삶거나 데친 뒤 물기를 뺀다.\n2. 새우, 계란, 숙주, 땅콩 같은 재료는 먹기 좋은 크기로 손질한다.\n3. 팬에 기름을 두르고 단단한 재료부터 볶는다.\n4. 면과 피시소스을 넣고 센 불에서 빠르게 섞어 볶는다.\n5. 간을 확인하고 고명을 올려 완성한다."
+  },
+  {
+    "recipe_id": "R096",
+    "recipe_name_ko": "나시고렝",
+    "recipe_name_en": "Nasi Goreng",
+    "cuisine": "Indonesian",
+    "category": "Rice",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "밥, 계란, 닭고기, 양파, 케찹마니스, 고추",
+    "essential_ingredients_ko": "밥, 계란, 닭고기, 양파",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 420,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "케찹마니스",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "고추",
+        "amount": 2,
+        "unit": "개"
+      }
+    ],
+    "instructions_ko": "1. 밥, 계란, 닭고기, 양파, 고추 같은 재료는 준비하고 필요한 재료는 먹기 좋은 크기로 손질한다.\n2. 팬이나 냄비를 예열한 뒤 익는 데 오래 걸리는 재료부터 넣는다.\n3. 재료가 어느 정도 익으면 케찹마니스을 넣어 간을 맞춘다.\n4. 중간중간 저어가며 재료가 고르게 익도록 조리한다.\n5. 그릇에 담고 고명을 올려 완성한다."
+  },
+  {
+    "recipe_id": "R097",
+    "recipe_name_ko": "치킨커리",
+    "recipe_name_en": "Chicken Curry",
+    "cuisine": "Indian",
+    "category": "Main",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 카레가루, 양파, 토마토, 요거트, 마늘, 물",
+    "essential_ingredients_ko": "닭고기, 카레가루, 양파, 토마토",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "요거트",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 200,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 양파, 토마토, 요거트, 마늘 같은 재료는 한입 크기로 썰어 준비한다.\n2. 냄비에 기름을 두르고 고기와 단단한 채소를 먼저 볶는다.\n3. 물이나 육수를 붓고 재료가 부드러워질 때까지 끓인다.\n4. 카레가루를 넣고 덩어리가 없게 풀어가며 농도를 맞춘다.\n5. 밥이나 곁들일 재료 위에 카레를 부어 완성한다."
+  },
+  {
+    "recipe_id": "R098",
+    "recipe_name_ko": "달걀카레",
+    "recipe_name_en": "Egg Curry",
+    "cuisine": "Indian",
+    "category": "Main",
+    "minutes": 30,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "계란, 카레가루, 양파, 토마토, 마늘, 밥",
+    "essential_ingredients_ko": "계란, 카레가루, 양파, 토마토",
+    "used_ingredients": [
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "밥",
+        "amount": 420,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 계란, 양파, 토마토, 마늘, 밥 같은 재료는 한입 크기로 썰어 준비한다.\n2. 냄비에 기름을 두르고 고기와 단단한 채소를 먼저 볶는다.\n3. 물이나 육수를 붓고 재료가 부드러워질 때까지 끓인다.\n4. 카레가루를 넣고 덩어리가 없게 풀어가며 농도를 맞춘다.\n5. 밥이나 곁들일 재료 위에 카레를 부어 완성한다."
+  },
+  {
+    "recipe_id": "R099",
+    "recipe_name_ko": "타코",
+    "recipe_name_en": "Tacos",
+    "cuisine": "Mexican",
+    "category": "Main",
+    "minutes": 25,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "또띠아, 다진소고기, 양상추, 토마토, 치즈, 살사",
+    "essential_ingredients_ko": "또띠아, 다진소고기, 양상추, 토마토",
+    "used_ingredients": [
+      {
+        "name": "또띠아",
+        "amount": 2,
+        "unit": "장"
+      },
+      {
+        "name": "다진소고기",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "양상추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 2,
+        "unit": "장"
+      },
+      {
+        "name": "살사",
+        "amount": 60,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 빵이나 또띠아를 준비하고, 다진소고기, 양상추, 토마토, 치즈 같은 재료는 먹기 좋게 손질한다.\n2. 고기나 계란처럼 익혀야 하는 재료는 팬에서 먼저 익힌다.\n3. 빵이나 또띠아에 소스를 얇게 바른다.\n4. 준비한 속재료를 올리고 흐르지 않게 단단히 접거나 덮는다.\n5. 반으로 잘라 먹기 좋게 담아 완성한다."
+  },
+  {
+    "recipe_id": "R100",
+    "recipe_name_ko": "부리토볼",
+    "recipe_name_en": "Burrito Bowl",
+    "cuisine": "Mexican",
+    "category": "Rice",
+    "minutes": 25,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "밥, 닭고기, 옥수수콘, 콩, 양상추, 살사",
+    "essential_ingredients_ko": "밥, 닭고기, 옥수수콘, 콩",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 420,
+        "unit": "g"
+      },
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "옥수수콘",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "콩",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "양상추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "살사",
+        "amount": 60,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 빵이나 또띠아를 준비하고, 밥, 닭고기, 옥수수콘, 콩, 양상추 같은 재료는 먹기 좋게 손질한다.\n2. 고기나 계란처럼 익혀야 하는 재료는 팬에서 먼저 익힌다.\n3. 빵이나 또띠아에 소스를 얇게 바른다.\n4. 준비한 속재료를 올리고 흐르지 않게 단단히 접거나 덮는다.\n5. 반으로 잘라 먹기 좋게 담아 완성한다."
+  },
+  {
+    "recipe_id": "R101",
+    "recipe_name_ko": "케밥랩",
+    "recipe_name_en": "Kebab Wrap",
+    "cuisine": "Middle Eastern",
+    "category": "Sandwich",
+    "minutes": 25,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "또띠아, 닭고기, 양상추, 토마토, 요거트소스",
+    "essential_ingredients_ko": "또띠아, 닭고기, 양상추, 토마토",
+    "used_ingredients": [
+      {
+        "name": "또띠아",
+        "amount": 2,
+        "unit": "장"
+      },
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "양상추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "요거트소스",
+        "amount": 60,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 빵이나 또띠아를 준비하고, 닭고기, 양상추, 토마토 같은 재료는 먹기 좋게 손질한다.\n2. 고기나 계란처럼 익혀야 하는 재료는 팬에서 먼저 익힌다.\n3. 빵이나 또띠아에 소스를 얇게 바른다.\n4. 준비한 속재료를 올리고 흐르지 않게 단단히 접거나 덮는다.\n5. 반으로 잘라 먹기 좋게 담아 완성한다."
+  },
+  {
+    "recipe_id": "R102",
+    "recipe_name_ko": "후무스샐러드",
+    "recipe_name_en": "Hummus Salad",
+    "cuisine": "Middle Eastern",
+    "category": "Salad",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "병아리콩, 올리브유, 레몬, 마늘, 오이, 토마토",
+    "essential_ingredients_ko": "병아리콩, 올리브유, 레몬, 마늘",
+    "used_ingredients": [
+      {
+        "name": "병아리콩",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "올리브유",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "레몬",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 200,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 채소와 과일은 깨끗이 씻고 물기를 충분히 제거한다.\n2. 병아리콩, 레몬, 마늘, 오이, 토마토 같은 재료는 한입 크기로 썰고, 익혀야 하는 재료는 먼저 익혀 식힌다.\n3. 큰 볼에 손질한 재료를 담는다.\n4. 올리브유을 넣고 재료가 으깨지지 않게 가볍게 섞는다.\n5. 접시에 담아 차갑게 내면 완성된다."
+  },
+  {
+    "recipe_id": "R103",
+    "recipe_name_ko": "스시볼",
+    "recipe_name_en": "Sushi Bowl",
+    "cuisine": "Japanese",
+    "category": "Rice",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "밥, 연어, 오이, 아보카도, 김, 간장",
+    "essential_ingredients_ko": "밥, 연어, 오이, 아보카도",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 420,
+        "unit": "g"
+      },
+      {
+        "name": "연어",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "아보카도",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "김",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 밥, 연어, 오이, 아보카도, 김 같은 재료는 준비하고 필요한 재료는 먹기 좋은 크기로 손질한다.\n2. 팬이나 냄비를 예열한 뒤 익는 데 오래 걸리는 재료부터 넣는다.\n3. 재료가 어느 정도 익으면 간장을 넣어 간을 맞춘다.\n4. 중간중간 저어가며 재료가 고르게 익도록 조리한다.\n5. 그릇에 담고 고명을 올려 완성한다."
+  },
+  {
+    "recipe_id": "R104",
+    "recipe_name_ko": "가츠동",
+    "recipe_name_en": "Katsudon",
+    "cuisine": "Japanese",
+    "category": "Rice",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "밥, 돈가스, 계란, 양파, 간장, 설탕",
+    "essential_ingredients_ko": "밥, 돈가스, 계란, 양파",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 420,
+        "unit": "g"
+      },
+      {
+        "name": "돈가스",
+        "amount": 2,
+        "unit": "장"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "양파",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 16,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 밥을 그릇에 담아 준비하고, 돈가스, 계란, 양파 같은 재료는 먹기 좋은 크기로 손질한다.\n2. 팬에 양파나 대파를 먼저 볶아 향을 낸 뒤 주재료를 넣고 익힌다.\n3. 간장, 설탕을 넣어 간을 맞추고, 재료에 양념이 배도록 잠시 끓이거나 볶는다.\n4. 계란이 들어가는 경우 마지막에 풀어 넣어 부드럽게 익힌다.\n5. 완성된 토핑을 밥 위에 올려 가츠동으로 완성한다."
+  },
+  {
+    "recipe_id": "R105",
+    "recipe_name_ko": "오야코동",
+    "recipe_name_en": "Oyakodon",
+    "cuisine": "Japanese",
+    "category": "Rice",
+    "minutes": 25,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "밥, 닭고기, 계란, 양파, 간장, 설탕",
+    "essential_ingredients_ko": "밥, 닭고기, 계란, 양파",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 420,
+        "unit": "g"
+      },
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "양파",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 16,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 밥을 그릇에 담아 준비하고, 닭고기, 계란, 양파 같은 재료는 먹기 좋은 크기로 손질한다.\n2. 팬에 양파나 대파를 먼저 볶아 향을 낸 뒤 주재료를 넣고 익힌다.\n3. 간장, 설탕을 넣어 간을 맞추고, 재료에 양념이 배도록 잠시 끓이거나 볶는다.\n4. 계란이 들어가는 경우 마지막에 풀어 넣어 부드럽게 익힌다.\n5. 완성된 토핑을 밥 위에 올려 오야코동으로 완성한다."
+  },
+  {
+    "recipe_id": "R106",
+    "recipe_name_ko": "초코머그케이크",
+    "recipe_name_en": "Chocolate Mug Cake",
+    "cuisine": "Western",
+    "category": "Dessert",
+    "minutes": 7,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 1,
+    "ingredients_ko": "밀가루, 코코아가루, 설탕, 우유, 식용유",
+    "essential_ingredients_ko": "밀가루, 코코아가루, 설탕, 우유",
+    "used_ingredients": [
+      {
+        "name": "밀가루",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "코코아가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "설탕",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "우유",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "식용유",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 머그컵에 밀가루, 코코아가루, 설탕을 넣고 섞는다.\n2. 우유와 식용유를 넣어 덩어리 없이 반죽한다.\n3. 컵의 절반 정도만 차도록 담아 전자레인지에서 익힌다.\n4. 가운데까지 익었는지 확인하고 부족하면 조금 더 돌린다.\n5. 한 김 식힌 뒤 바로 먹는다."
+  },
+  {
+    "recipe_id": "R107",
+    "recipe_name_ko": "바나나팬케이크",
+    "recipe_name_en": "Banana Pancakes",
+    "cuisine": "Western",
+    "category": "Dessert",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 1,
+    "ingredients_ko": "바나나, 계란, 밀가루, 우유, 버터",
+    "essential_ingredients_ko": "바나나, 계란, 밀가루, 우유",
+    "used_ingredients": [
+      {
+        "name": "바나나",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "계란",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "밀가루",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "우유",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "버터",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 머그컵에 밀가루, 코코아가루, 설탕을 넣고 섞는다.\n2. 우유와 식용유를 넣어 덩어리 없이 반죽한다.\n3. 컵의 절반 정도만 차도록 담아 전자레인지에서 익힌다.\n4. 가운데까지 익었는지 확인하고 부족하면 조금 더 돌린다.\n5. 한 김 식힌 뒤 바로 먹는다."
+  },
+  {
+    "recipe_id": "R108",
+    "recipe_name_ko": "계란푸딩",
+    "recipe_name_en": "Egg Pudding",
+    "cuisine": "Asian",
+    "category": "Dessert",
+    "minutes": 25,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 1,
+    "ingredients_ko": "계란, 우유, 설탕, 바닐라익스트랙",
+    "essential_ingredients_ko": "계란, 우유, 설탕, 바닐라익스트랙",
+    "used_ingredients": [
+      {
+        "name": "계란",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "우유",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "바닐라익스트랙",
+        "amount": 2,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 계란을 풀고 우유, 설탕, 바닐라익스트랙을 넣어 섞는다.\n2. 체에 한 번 걸러 부드러운 푸딩 반죽을 만든다.\n3. 컵에 담고 중탕이나 약한 열로 천천히 익힌다.\n4. 표면이 굳으면 식힌 뒤 냉장고에 넣어 차갑게 만든다.\n5. 숟가락으로 떠먹기 좋게 낸다."
+  },
+  {
+    "recipe_id": "R109",
+    "recipe_name_ko": "프루트샐러드",
+    "recipe_name_en": "Fruit Salad",
+    "cuisine": "Western",
+    "category": "Dessert",
+    "minutes": 10,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 1,
+    "ingredients_ko": "사과, 바나나, 딸기, 요거트, 꿀",
+    "essential_ingredients_ko": "사과, 바나나, 딸기, 요거트",
+    "used_ingredients": [
+      {
+        "name": "사과",
+        "amount": 0.5,
+        "unit": "개"
+      },
+      {
+        "name": "바나나",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "딸기",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "요거트",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "꿀",
+        "amount": 15,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 채소와 과일은 깨끗이 씻고 물기를 충분히 제거한다.\n2. 사과, 바나나, 딸기, 요거트 같은 재료는 한입 크기로 썰고, 익혀야 하는 재료는 먼저 익혀 식힌다.\n3. 큰 볼에 손질한 재료를 담는다.\n4. 꿀을 넣고 재료가 으깨지지 않게 가볍게 섞는다.\n5. 접시에 담아 차갑게 내면 완성된다."
+  },
+  {
+    "recipe_id": "R110",
+    "recipe_name_ko": "사과토스트",
+    "recipe_name_en": "Apple Toast",
+    "cuisine": "Western",
+    "category": "Dessert",
+    "minutes": 12,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 1,
+    "ingredients_ko": "식빵, 사과, 버터, 설탕, 계피",
+    "essential_ingredients_ko": "식빵, 사과, 버터, 설탕",
+    "used_ingredients": [
+      {
+        "name": "식빵",
+        "amount": 2,
+        "unit": "장"
+      },
+      {
+        "name": "사과",
+        "amount": 0.5,
+        "unit": "개"
+      },
+      {
+        "name": "버터",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "설탕",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "계피",
+        "amount": 1,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 식빵과 속재료를 준비하고, 채소는 얇게 썬다.\n2. 계란이나 양배추가 들어가면 팬에서 먼저 익혀 속재료를 만든다.\n3. 식빵은 버터를 두른 팬에서 앞뒤로 노릇하게 굽는다.\n4. 빵 사이에 사과과 소스를 넣는다.\n5. 먹기 좋게 반으로 잘라 완성한다."
+  },
+  {
+    "recipe_id": "R111",
+    "recipe_name_ko": "고구마라떼",
+    "recipe_name_en": "Sweet Potato Latte",
+    "cuisine": "Korean-Western",
+    "category": "Drink",
+    "minutes": 10,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 1,
+    "ingredients_ko": "고구마, 우유, 꿀, 계피",
+    "essential_ingredients_ko": "고구마, 우유, 꿀, 계피",
+    "used_ingredients": [
+      {
+        "name": "고구마",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "우유",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "꿀",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "계피",
+        "amount": 1,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 고구마 같은 재료는 껍질이나 꼭지를 제거하고 먹기 좋게 준비한다.\n2. 믹서 컵에 준비한 재료와 우유, 요거트, 꿀 등 필요한 재료를 넣는다.\n3. 덩어리가 남지 않도록 곱게 갈아준다.\n4. 농도가 너무 되직하면 우유나 물을 조금 더 넣어 조절한다.\n5. 컵에 담아 차갑게 마신다."
+  },
+  {
+    "recipe_id": "R112",
+    "recipe_name_ko": "딸기요거트파르페",
+    "recipe_name_en": "Strawberry Yogurt Parfait",
+    "cuisine": "Western",
+    "category": "Dessert",
+    "minutes": 8,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 1,
+    "ingredients_ko": "딸기, 요거트, 그래놀라, 꿀",
+    "essential_ingredients_ko": "딸기, 요거트, 그래놀라, 꿀",
+    "used_ingredients": [
+      {
+        "name": "딸기",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "요거트",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "그래놀라",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "꿀",
+        "amount": 15,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 딸기, 요거트, 그래놀라 같은 재료는 먹기 좋은 크기로 준비한다.\n2. 팬에 굽거나 볼에 섞는 등 레시피에 맞게 주재료를 먼저 준비한다.\n3. 꿀을 넣어 단맛과 향을 조절한다.\n4. 재료가 부드럽게 섞이도록 가볍게 버무리거나 익힌다.\n5. 접시나 컵에 담아 완성한다."
+  },
+  {
+    "recipe_id": "R113",
+    "recipe_name_ko": "초코바나나토스트",
+    "recipe_name_en": "Chocolate Banana Toast",
+    "cuisine": "Western",
+    "category": "Dessert",
+    "minutes": 10,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 1,
+    "ingredients_ko": "식빵, 바나나, 초콜릿스프레드, 버터",
+    "essential_ingredients_ko": "식빵, 바나나, 초콜릿스프레드, 버터",
+    "used_ingredients": [
+      {
+        "name": "식빵",
+        "amount": 2,
+        "unit": "장"
+      },
+      {
+        "name": "바나나",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "초콜릿스프레드",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "버터",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 식빵과 속재료를 준비하고, 채소는 얇게 썬다.\n2. 계란이나 양배추가 들어가면 팬에서 먼저 익혀 속재료를 만든다.\n3. 식빵은 버터를 두른 팬에서 앞뒤로 노릇하게 굽는다.\n4. 빵 사이에 바나나과 소스를 넣는다.\n5. 먹기 좋게 반으로 잘라 완성한다."
+  },
+  {
+    "recipe_id": "R114",
+    "recipe_name_ko": "시나몬롤토스트",
+    "recipe_name_en": "Cinnamon Roll Toast",
+    "cuisine": "Western",
+    "category": "Dessert",
+    "minutes": 12,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 1,
+    "ingredients_ko": "식빵, 버터, 설탕, 계피, 우유",
+    "essential_ingredients_ko": "식빵, 버터, 설탕, 계피",
+    "used_ingredients": [
+      {
+        "name": "식빵",
+        "amount": 2,
+        "unit": "장"
+      },
+      {
+        "name": "버터",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "설탕",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "계피",
+        "amount": 1,
+        "unit": "g"
+      },
+      {
+        "name": "우유",
+        "amount": 200,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 식빵과 속재료를 준비하고, 채소는 얇게 썬다.\n2. 계란이나 양배추가 들어가면 팬에서 먼저 익혀 속재료를 만든다.\n3. 식빵은 버터를 두른 팬에서 앞뒤로 노릇하게 굽는다.\n4. 빵 사이에 재료과 소스를 넣는다.\n5. 먹기 좋게 반으로 잘라 완성한다."
+  },
+  {
+    "recipe_id": "R115",
+    "recipe_name_ko": "오레오쉐이크",
+    "recipe_name_en": "Oreo Shake",
+    "cuisine": "Western",
+    "category": "Drink",
+    "minutes": 5,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 1,
+    "ingredients_ko": "오레오, 우유, 아이스크림",
+    "essential_ingredients_ko": "오레오, 우유, 아이스크림",
+    "used_ingredients": [
+      {
+        "name": "오레오",
+        "amount": 4,
+        "unit": "개"
+      },
+      {
+        "name": "우유",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "아이스크림",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 오레오, 아이스크림 같은 재료는 껍질이나 꼭지를 제거하고 먹기 좋게 준비한다.\n2. 믹서 컵에 준비한 재료와 우유, 요거트, 꿀 등 필요한 재료를 넣는다.\n3. 덩어리가 남지 않도록 곱게 갈아준다.\n4. 농도가 너무 되직하면 우유나 물을 조금 더 넣어 조절한다.\n5. 컵에 담아 차갑게 마신다."
+  },
+  {
+    "recipe_name_ko": "아스파라거스 베이컨말이",
+    "recipe_name_en": "Bacon Wrapped Asparagus",
+    "cuisine": "Western",
+    "category": "Side",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "아스파라거스, 베이컨, 올리브유",
+    "essential_ingredients_ko": "아스파라거스, 베이컨",
+    "used_ingredients": [
+      {
+        "name": "아스파라거스",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "베이컨",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "올리브유",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 아스파라거스의 질긴 밑동을 잘라낸다.\n2. 베이컨으로 아스파라거스를 감싼다.\n3. 팬에 올리브유를 두르고 중불로 굽는다.\n4. 베이컨이 노릇해질 때까지 돌려가며 익힌다.\n5. 접시에 담아 아스파라거스 베이컨말이를 완성한다.",
+    "recipe_id": "R116"
+  },
+  {
+    "recipe_name_ko": "아스파라거스 구이",
+    "recipe_name_en": "Roasted Asparagus",
+    "cuisine": "Western",
+    "category": "Side",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "아스파라거스, 올리브유, 마늘, 레몬",
+    "essential_ingredients_ko": "아스파라거스, 올리브유",
+    "used_ingredients": [
+      {
+        "name": "아스파라거스",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "올리브유",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "마늘",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "레몬",
+        "amount": 1,
+        "unit": "개"
+      }
+    ],
+    "instructions_ko": "1. 아스파라거스를 씻고 밑동을 정리한다.\n2. 올리브유와 다진 마늘을 골고루 묻힌다.\n3. 팬이나 오븐에서 겉이 살짝 노릇해질 때까지 굽는다.\n4. 레몬즙을 가볍게 뿌린다.\n5. 따뜻할 때 아스파라거스 구이로 완성한다.",
+    "recipe_id": "R117"
+  },
+  {
+    "recipe_name_ko": "아스파라거스 크림수프",
+    "recipe_name_en": "Asparagus Cream Soup",
+    "cuisine": "Western",
+    "category": "Soup",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "아스파라거스, 감자, 양파, 우유, 생크림",
+    "essential_ingredients_ko": "아스파라거스, 우유",
+    "used_ingredients": [
+      {
+        "name": "아스파라거스",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "우유",
+        "amount": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "생크림",
+        "amount": 80,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 아스파라거스, 감자, 양파를 작게 썬다.\n2. 냄비에 재료를 볶다가 물을 조금 넣고 익힌다.\n3. 재료가 부드러워지면 우유와 생크림을 넣는다.\n4. 곱게 갈아 농도를 맞춘다.\n5. 따뜻하게 담아 아스파라거스 크림수프를 완성한다.",
+    "recipe_id": "R118"
+  },
+  {
+    "recipe_name_ko": "아스파라거스 리조또",
+    "recipe_name_en": "Asparagus Risotto",
+    "cuisine": "Italian",
+    "category": "Rice",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "쌀, 아스파라거스, 양파, 버터, 치즈",
+    "essential_ingredients_ko": "쌀, 아스파라거스",
+    "used_ingredients": [
+      {
+        "name": "쌀",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "아스파라거스",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "버터",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 30,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 양파와 아스파라거스를 잘게 썬다.\n2. 팬에 버터를 녹이고 양파와 쌀을 볶는다.\n3. 물이나 육수를 조금씩 부어가며 쌀을 익힌다.\n4. 아스파라거스를 넣고 부드럽게 익힌다.\n5. 치즈를 섞어 아스파라거스 리조또를 완성한다.",
+    "recipe_id": "R119"
+  },
+  {
+    "recipe_name_ko": "아스파라거스 오믈렛",
+    "recipe_name_en": "Asparagus Omelette",
+    "cuisine": "Western",
+    "category": "Egg",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "계란, 아스파라거스, 우유, 버터, 치즈",
+    "essential_ingredients_ko": "계란, 아스파라거스",
+    "used_ingredients": [
+      {
+        "name": "계란",
+        "amount": 3,
+        "unit": "개"
+      },
+      {
+        "name": "아스파라거스",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "우유",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "버터",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 20,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 아스파라거스를 작게 썰어 살짝 볶는다.\n2. 계란과 우유를 풀어 준비한다.\n3. 팬에 버터를 녹이고 계란물을 붓는다.\n4. 아스파라거스와 치즈를 올려 부드럽게 익힌다.\n5. 반으로 접어 아스파라거스 오믈렛을 완성한다.",
+    "recipe_id": "R120"
+  },
+  {
+    "recipe_id": "R121",
+    "recipe_name_ko": "닭죽",
+    "recipe_name_en": "Chicken Porridge",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "쌀, 닭고기, 대파, 마늘, 참기름, 소금",
+    "essential_ingredients_ko": "쌀, 닭고기, 대파, 마늘",
+    "used_ingredients": [
+      {
+        "name": "쌀",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "참기름",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "소금",
+        "amount": 3,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 쌀, 닭고기, 대파, 마늘, 참기름, 소금을 준비하고, 쌀이나 곡류는 물에 가볍게 씻어 20분 정도 불린 뒤 물기를 뺀다.\n2. 닭고기, 전복, 단호박, 팥처럼 주재료가 있는 경우 먹기 좋은 크기로 손질하고, 단단한 재료는 미리 삶거나 익혀둔다.\n3. 냄비에 참기름을 두르고 쌀과 주재료를 약한 불에서 천천히 볶아 고소한 향을 낸다.\n4. 물을 여러 번 나누어 부으면서 중약불로 끓이고, 바닥에 눌어붙지 않도록 계속 저어준다.\n5. 쌀알이 부드럽게 퍼지고 전체 농도가 걸쭉해지면 소금이나 설탕으로 간을 맞춘다.\n6. 불을 끈 뒤 2~3분 정도 뜸을 들이고 그릇에 담아 닭죽을 완성한다."
+  },
+  {
+    "recipe_id": "R122",
+    "recipe_name_ko": "전복죽",
+    "recipe_name_en": "Abalone Porridge",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "쌀, 전복, 참기름, 대파, 마늘, 소금",
+    "essential_ingredients_ko": "쌀, 전복, 참기름, 대파",
+    "used_ingredients": [
+      {
+        "name": "쌀",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "전복",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "참기름",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "소금",
+        "amount": 3,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 쌀, 전복, 참기름, 대파, 마늘, 소금을 준비하고, 쌀이나 곡류는 물에 가볍게 씻어 20분 정도 불린 뒤 물기를 뺀다.\n2. 닭고기, 전복, 단호박, 팥처럼 주재료가 있는 경우 먹기 좋은 크기로 손질하고, 단단한 재료는 미리 삶거나 익혀둔다.\n3. 냄비에 참기름을 두르고 쌀과 주재료를 약한 불에서 천천히 볶아 고소한 향을 낸다.\n4. 물을 여러 번 나누어 부으면서 중약불로 끓이고, 바닥에 눌어붙지 않도록 계속 저어준다.\n5. 쌀알이 부드럽게 퍼지고 전체 농도가 걸쭉해지면 소금이나 설탕으로 간을 맞춘다.\n6. 불을 끈 뒤 2~3분 정도 뜸을 들이고 그릇에 담아 전복죽을 완성한다."
+  },
+  {
+    "recipe_id": "R123",
+    "recipe_name_ko": "호박죽",
+    "recipe_name_en": "Pumpkin Porridge",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "단호박, 찹쌀가루, 물, 설탕, 소금",
+    "essential_ingredients_ko": "단호박, 찹쌀가루, 물, 설탕",
+    "used_ingredients": [
+      {
+        "name": "단호박",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "찹쌀가루",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "소금",
+        "amount": 3,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 단호박, 찹쌀가루, 물, 설탕, 소금을 준비하고, 쌀이나 곡류는 물에 가볍게 씻어 20분 정도 불린 뒤 물기를 뺀다.\n2. 닭고기, 전복, 단호박, 팥처럼 주재료가 있는 경우 먹기 좋은 크기로 손질하고, 단단한 재료는 미리 삶거나 익혀둔다.\n3. 냄비에 참기름을 두르고 쌀과 주재료를 약한 불에서 천천히 볶아 고소한 향을 낸다.\n4. 물을 여러 번 나누어 부으면서 중약불로 끓이고, 바닥에 눌어붙지 않도록 계속 저어준다.\n5. 쌀알이 부드럽게 퍼지고 전체 농도가 걸쭉해지면 소금이나 설탕으로 간을 맞춘다.\n6. 불을 끈 뒤 2~3분 정도 뜸을 들이고 그릇에 담아 호박죽을 완성한다."
+  },
+  {
+    "recipe_id": "R124",
+    "recipe_name_ko": "팥죽",
+    "recipe_name_en": "Red Bean Porridge",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "팥, 찹쌀가루, 물, 설탕, 소금",
+    "essential_ingredients_ko": "팥, 찹쌀가루, 물, 설탕",
+    "used_ingredients": [
+      {
+        "name": "팥",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "찹쌀가루",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "소금",
+        "amount": 3,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 팥, 찹쌀가루, 물, 설탕, 소금을 준비하고, 쌀이나 곡류는 물에 가볍게 씻어 20분 정도 불린 뒤 물기를 뺀다.\n2. 닭고기, 전복, 단호박, 팥처럼 주재료가 있는 경우 먹기 좋은 크기로 손질하고, 단단한 재료는 미리 삶거나 익혀둔다.\n3. 냄비에 참기름을 두르고 쌀과 주재료를 약한 불에서 천천히 볶아 고소한 향을 낸다.\n4. 물을 여러 번 나누어 부으면서 중약불로 끓이고, 바닥에 눌어붙지 않도록 계속 저어준다.\n5. 쌀알이 부드럽게 퍼지고 전체 농도가 걸쭉해지면 소금이나 설탕으로 간을 맞춘다.\n6. 불을 끈 뒤 2~3분 정도 뜸을 들이고 그릇에 담아 팥죽을 완성한다."
+  },
+  {
+    "recipe_id": "R125",
+    "recipe_name_ko": "소고기무국",
+    "recipe_name_en": "Beef Radish Soup",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "소고기, 무, 대파, 마늘, 국간장, 참기름, 물",
+    "essential_ingredients_ko": "소고기, 무, 대파, 마늘",
+    "used_ingredients": [
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "무",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "국간장",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "참기름",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 소고기, 무, 대파, 마늘, 국간장, 참기름, 물을 준비하고, 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 냄비에 물이나 육수를 붓고 익는 데 오래 걸리는 재료부터 넣어 국물 맛을 낸다.\n3. 소고기, 무, 대파 같은 주재료를 넣고 중불에서 충분히 끓여 재료의 맛이 국물에 우러나게 한다.\n4. 마늘, 국간장, 참기름을 넣어 기본 간을 맞추고, 거품이 올라오면 걷어내 국물을 깔끔하게 만든다.\n5. 두부, 대파, 잎채소처럼 빨리 익는 재료는 마지막에 넣어 식감을 살린다.\n6. 재료가 모두 익고 국물 맛이 맞으면 불을 줄여 2~3분 더 끓인 뒤 소고기무국을 완성한다."
+  },
+  {
+    "recipe_id": "R126",
+    "recipe_name_ko": "북엇국",
+    "recipe_name_en": "Dried Pollock Soup",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "북어채, 무, 대파, 계란, 마늘, 국간장, 물",
+    "essential_ingredients_ko": "북어채, 무, 대파, 계란",
+    "used_ingredients": [
+      {
+        "name": "북어채",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "무",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "마늘",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "국간장",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "물",
+        "amount": 700,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 북어채는 물에 가볍게 적셨다가 물기를 짜고, 무는 얇게 나박썰기한다.\n2. 냄비에 참기름이나 약간의 기름을 두르고 북어채와 무를 먼저 볶아 고소한 향을 낸다.\n3. 물을 붓고 끓이면서 마늘과 국간장을 넣어 국물 맛을 낸다.\n4. 무가 투명해지고 북어 맛이 충분히 우러나면 계란을 풀어 넣는다.\n5. 계란이 부드럽게 익으면 대파를 넣고 한 번 더 끓인다.\n6. 부족한 간은 소금이나 국간장으로 맞추고 그릇에 담아 북엇국을 완성한다."
+  },
+  {
+    "recipe_id": "R127",
+    "recipe_name_ko": "감자탕",
+    "recipe_name_en": "Pork Backbone Stew",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "돼지등뼈, 감자, 우거지, 깻잎, 대파, 된장, 고춧가루, 마늘, 물",
+    "essential_ingredients_ko": "돼지등뼈, 감자, 우거지, 깻잎",
+    "used_ingredients": [
+      {
+        "name": "돼지등뼈",
+        "amount": 700,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "우거지",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "깻잎",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "된장",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 1000,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 돼지등뼈는 찬물에 담가 핏물을 빼고 한 번 데친 뒤 깨끗이 헹군다.\n2. 냄비에 돼지등뼈와 물을 넣고 충분히 끓여 뼈에서 국물이 우러나게 한다.\n3. 감자와 우거지는 먹기 좋은 크기로 준비하고, 대파와 깻잎도 썰어둔다.\n4. 된장, 고춧가루, 마늘을 넣어 국물의 기본 간을 맞춘 뒤 감자를 넣고 익힌다.\n5. 우거지를 넣고 중약불에서 더 끓여 국물이 진해지도록 한다.\n6. 마지막에 대파와 깻잎을 넣고 향을 살린 뒤 감자가 부드러워지면 감자탕을 완성한다."
+  },
+  {
+    "recipe_id": "R128",
+    "recipe_name_ko": "갈비탕",
+    "recipe_name_en": "Short Rib Soup",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "소갈비, 무, 대파, 마늘, 국간장, 당면, 물",
+    "essential_ingredients_ko": "소갈비, 무, 대파, 마늘",
+    "used_ingredients": [
+      {
+        "name": "소갈비",
+        "amount": 450,
+        "unit": "g"
+      },
+      {
+        "name": "무",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "국간장",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "당면",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 소갈비, 무, 대파, 마늘, 국간장, 당면, 물을 준비하고, 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 냄비에 물이나 육수를 붓고 익는 데 오래 걸리는 재료부터 넣어 국물 맛을 낸다.\n3. 소갈비, 무, 대파, 당면 같은 주재료를 넣고 중불에서 충분히 끓여 재료의 맛이 국물에 우러나게 한다.\n4. 마늘, 국간장을 넣어 기본 간을 맞추고, 거품이 올라오면 걷어내 국물을 깔끔하게 만든다.\n5. 두부, 대파, 잎채소처럼 빨리 익는 재료는 마지막에 넣어 식감을 살린다.\n6. 재료가 모두 익고 국물 맛이 맞으면 불을 줄여 2~3분 더 끓인 뒤 갈비탕을 완성한다."
+  },
+  {
+    "recipe_id": "R129",
+    "recipe_name_ko": "설렁탕",
+    "recipe_name_en": "Ox Bone Soup",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "사골, 소고기, 소면, 대파, 소금, 후추, 물",
+    "essential_ingredients_ko": "사골, 소고기, 소면, 대파",
+    "used_ingredients": [
+      {
+        "name": "사골",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "소면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "소금",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "후추",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 사골, 소고기, 소면, 대파, 소금, 후추, 물을 준비하고, 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 냄비에 물이나 육수를 붓고 익는 데 오래 걸리는 재료부터 넣어 국물 맛을 낸다.\n3. 사골, 소고기, 소면, 대파 같은 주재료를 넣고 중불에서 충분히 끓여 재료의 맛이 국물에 우러나게 한다.\n4. 소금, 후추를 넣어 기본 간을 맞추고, 거품이 올라오면 걷어내 국물을 깔끔하게 만든다.\n5. 두부, 대파, 잎채소처럼 빨리 익는 재료는 마지막에 넣어 식감을 살린다.\n6. 재료가 모두 익고 국물 맛이 맞으면 불을 줄여 2~3분 더 끓인 뒤 설렁탕을 완성한다."
+  },
+  {
+    "recipe_id": "R130",
+    "recipe_name_ko": "삼계탕",
+    "recipe_name_en": "Ginseng Chicken Soup",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 찹쌀, 대추, 인삼, 마늘, 대파, 물",
+    "essential_ingredients_ko": "닭고기, 찹쌀, 대추, 인삼",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "찹쌀",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "대추",
+        "amount": 4,
+        "unit": "개"
+      },
+      {
+        "name": "인삼",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 찹쌀, 대추, 인삼, 마늘, 대파, 물을 준비하고, 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 냄비에 물이나 육수를 붓고 익는 데 오래 걸리는 재료부터 넣어 국물 맛을 낸다.\n3. 닭고기, 찹쌀, 대추, 인삼, 대파 같은 주재료를 넣고 중불에서 충분히 끓여 재료의 맛이 국물에 우러나게 한다.\n4. 마늘을 넣어 기본 간을 맞추고, 거품이 올라오면 걷어내 국물을 깔끔하게 만든다.\n5. 두부, 대파, 잎채소처럼 빨리 익는 재료는 마지막에 넣어 식감을 살린다.\n6. 재료가 모두 익고 국물 맛이 맞으면 불을 줄여 2~3분 더 끓인 뒤 삼계탕을 완성한다."
+  },
+  {
+    "recipe_id": "R131",
+    "recipe_name_ko": "추어탕",
+    "recipe_name_en": "Loach Soup",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "미꾸라지, 시래기, 된장, 대파, 마늘, 고춧가루, 들깨가루, 물",
+    "essential_ingredients_ko": "미꾸라지, 시래기, 된장, 대파",
+    "used_ingredients": [
+      {
+        "name": "미꾸라지",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "시래기",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "된장",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "들깨가루",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 800,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 미꾸라지, 시래기, 된장, 대파, 마늘, 고춧가루, 들깨가루, 물을 준비하고, 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 냄비에 물이나 육수를 붓고 익는 데 오래 걸리는 재료부터 넣어 국물 맛을 낸다.\n3. 미꾸라지, 시래기, 대파, 들깨가루 같은 주재료를 넣고 중불에서 충분히 끓여 재료의 맛이 국물에 우러나게 한다.\n4. 된장, 마늘, 고춧가루를 넣어 기본 간을 맞추고, 거품이 올라오면 걷어내 국물을 깔끔하게 만든다.\n5. 두부, 대파, 잎채소처럼 빨리 익는 재료는 마지막에 넣어 식감을 살린다.\n6. 재료가 모두 익고 국물 맛이 맞으면 불을 줄여 2~3분 더 끓인 뒤 추어탕을 완성한다."
+  },
+  {
+    "recipe_id": "R132",
+    "recipe_name_ko": "곰탕",
+    "recipe_name_en": "Beef Bone Soup",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "소고기, 사골, 무, 대파, 마늘, 소금, 물",
+    "essential_ingredients_ko": "소고기, 사골, 무, 대파",
+    "used_ingredients": [
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "사골",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "무",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "소금",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 소고기, 사골, 무, 대파, 마늘, 소금, 물을 준비하고, 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 냄비에 물이나 육수를 붓고 익는 데 오래 걸리는 재료부터 넣어 국물 맛을 낸다.\n3. 소고기, 사골, 무, 대파 같은 주재료를 넣고 중불에서 충분히 끓여 재료의 맛이 국물에 우러나게 한다.\n4. 마늘, 소금을 넣어 기본 간을 맞추고, 거품이 올라오면 걷어내 국물을 깔끔하게 만든다.\n5. 두부, 대파, 잎채소처럼 빨리 익는 재료는 마지막에 넣어 식감을 살린다.\n6. 재료가 모두 익고 국물 맛이 맞으면 불을 줄여 2~3분 더 끓인 뒤 곰탕을 완성한다."
+  },
+  {
+    "recipe_id": "R133",
+    "recipe_name_ko": "해물탕",
+    "recipe_name_en": "Spicy Seafood Stew",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "꽃게, 새우, 오징어, 홍합, 바지락, 무, 콩나물, 대파, 고춧가루, 마늘, 물",
+    "essential_ingredients_ko": "꽃게, 새우, 오징어, 홍합",
+    "used_ingredients": [
+      {
+        "name": "꽃게",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "오징어",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "홍합",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "바지락",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "무",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "콩나물",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 꽃게는 먹기 좋게 손질하고, 새우는 내장을 제거하며, 오징어는 칼집을 넣어 썬다. 홍합과 바지락은 깨끗이 씻고 필요하면 해감한다.\n2. 냄비에 물을 붓고 무를 먼저 넣어 끓여 시원한 국물 맛을 낸다.\n3. 고춧가루와 마늘을 넣고 풀어준 뒤 꽃게를 넣어 국물이 우러나게 끓인다.\n4. 새우, 오징어, 홍합, 바지락을 넣고 해산물이 질겨지지 않도록 중불에서 익힌다.\n5. 콩나물과 대파를 넣고 한 번 더 끓인 뒤 부족한 간은 소금이나 국간장으로 맞춘다.\n6. 해산물이 모두 익고 국물이 얼큰하게 우러나면 불을 끄고 그릇에 담아 해물탕을 완성한다."
+  },
+  {
+    "recipe_id": "R134",
+    "recipe_name_ko": "꽃게탕",
+    "recipe_name_en": "Blue Crab Stew",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "꽃게, 무, 애호박, 대파, 고추장, 고춧가루, 마늘, 된장, 물",
+    "essential_ingredients_ko": "꽃게, 무, 애호박, 대파",
+    "used_ingredients": [
+      {
+        "name": "꽃게",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "무",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "애호박",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "고추장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "된장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 꽃게, 무, 애호박, 대파, 고추장, 고춧가루, 마늘, 된장, 물을 준비하고, 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 냄비에 물이나 육수를 붓고 익는 데 오래 걸리는 재료부터 넣어 국물 맛을 낸다.\n3. 꽃게, 무, 애호박, 대파 같은 주재료를 넣고 중불에서 충분히 끓여 재료의 맛이 국물에 우러나게 한다.\n4. 고추장, 고춧가루, 마늘, 된장을 넣어 기본 간을 맞추고, 거품이 올라오면 걷어내 국물을 깔끔하게 만든다.\n5. 두부, 대파, 잎채소처럼 빨리 익는 재료는 마지막에 넣어 식감을 살린다.\n6. 재료가 모두 익고 국물 맛이 맞으면 불을 줄여 2~3분 더 끓인 뒤 꽃게탕을 완성한다."
+  },
+  {
+    "recipe_id": "R135",
+    "recipe_name_ko": "동태찌개",
+    "recipe_name_en": "Frozen Pollock Stew",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "동태, 무, 두부, 대파, 고추장, 고춧가루, 마늘, 물",
+    "essential_ingredients_ko": "동태, 무, 두부, 대파",
+    "used_ingredients": [
+      {
+        "name": "동태",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "무",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "두부",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "고추장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 동태, 무, 두부, 대파, 고추장, 고춧가루, 마늘, 물을 준비하고, 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 냄비에 물이나 육수를 붓고 익는 데 오래 걸리는 재료부터 넣어 국물 맛을 낸다.\n3. 동태, 무, 두부, 대파 같은 주재료를 넣고 중불에서 충분히 끓여 재료의 맛이 국물에 우러나게 한다.\n4. 고추장, 고춧가루, 마늘을 넣어 기본 간을 맞추고, 거품이 올라오면 걷어내 국물을 깔끔하게 만든다.\n5. 두부, 대파, 잎채소처럼 빨리 익는 재료는 마지막에 넣어 식감을 살린다.\n6. 재료가 모두 익고 국물 맛이 맞으면 불을 줄여 2~3분 더 끓인 뒤 동태찌개를 완성한다."
+  },
+  {
+    "recipe_id": "R136",
+    "recipe_name_ko": "청국장찌개",
+    "recipe_name_en": "Cheonggukjang Stew",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "청국장, 두부, 김치, 애호박, 대파, 마늘, 물",
+    "essential_ingredients_ko": "청국장, 두부, 김치, 애호박",
+    "used_ingredients": [
+      {
+        "name": "청국장",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "두부",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "김치",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "애호박",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 청국장, 두부, 김치, 애호박, 대파, 마늘, 물을 준비하고, 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 냄비에 물이나 육수를 붓고 익는 데 오래 걸리는 재료부터 넣어 국물 맛을 낸다.\n3. 두부, 김치, 애호박, 대파 같은 주재료를 넣고 중불에서 충분히 끓여 재료의 맛이 국물에 우러나게 한다.\n4. 청국장, 마늘을 넣어 기본 간을 맞추고, 거품이 올라오면 걷어내 국물을 깔끔하게 만든다.\n5. 두부, 대파, 잎채소처럼 빨리 익는 재료는 마지막에 넣어 식감을 살린다.\n6. 재료가 모두 익고 국물 맛이 맞으면 불을 줄여 2~3분 더 끓인 뒤 청국장찌개를 완성한다."
+  },
+  {
+    "recipe_id": "R137",
+    "recipe_name_ko": "고추장찌개",
+    "recipe_name_en": "Gochujang Stew",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "돼지고기, 감자, 애호박, 양파, 두부, 고추장, 고춧가루, 대파, 물",
+    "essential_ingredients_ko": "돼지고기, 감자, 애호박, 양파",
+    "used_ingredients": [
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "애호박",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "두부",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "고추장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 돼지고기, 감자, 애호박, 양파, 두부, 고추장, 고춧가루, 대파, 물을 준비하고, 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 냄비에 물이나 육수를 붓고 익는 데 오래 걸리는 재료부터 넣어 국물 맛을 낸다.\n3. 돼지고기, 감자, 애호박, 양파, 두부 같은 주재료를 넣고 중불에서 충분히 끓여 재료의 맛이 국물에 우러나게 한다.\n4. 고추장, 고춧가루를 넣어 기본 간을 맞추고, 거품이 올라오면 걷어내 국물을 깔끔하게 만든다.\n5. 두부, 대파, 잎채소처럼 빨리 익는 재료는 마지막에 넣어 식감을 살린다.\n6. 재료가 모두 익고 국물 맛이 맞으면 불을 줄여 2~3분 더 끓인 뒤 고추장찌개를 완성한다."
+  },
+  {
+    "recipe_id": "R138",
+    "recipe_name_ko": "쌈밥",
+    "recipe_name_en": "Ssam Rice Wraps",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "밥, 상추, 깻잎, 쌈장, 마늘, 고추, 삼겹살",
+    "essential_ingredients_ko": "밥, 상추, 깻잎, 쌈장",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "상추",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "깻잎",
+        "amount": 10,
+        "unit": "장"
+      },
+      {
+        "name": "쌈장",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "고추",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "삼겹살",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 밥, 상추, 깻잎, 쌈장, 마늘, 고추, 삼겹살을 준비하고, 쌈채소는 씻어서 물기를 빼고 마늘과 고추는 얇게 썬다.\n2. 고기가 들어가는 경우 된장, 대파, 생강 등을 넣은 물에 삶거나 데워 잡내를 줄인다.\n3. 고기는 먹기 좋은 두께로 썰고, 배추나 상추 같은 채소는 한 장씩 펼쳐 담는다.\n4. 쌈장이나 새우젓처럼 곁들일 양념을 따로 준비한다.\n5. 밥이나 고기를 채소 위에 올리고 마늘, 고추, 양념을 곁들인다.\n6. 각자 싸 먹기 좋게 접시에 담아 쌈밥을 완성한다."
+  },
+  {
+    "recipe_id": "R139",
+    "recipe_name_ko": "돌솥비빔밥",
+    "recipe_name_en": "Hot Stone Bibimbap",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "밥, 시금치, 콩나물, 당근, 표고버섯, 계란, 고추장, 참기름",
+    "essential_ingredients_ko": "밥, 시금치, 콩나물, 당근",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "시금치",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "콩나물",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "표고버섯",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "고추장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "참기름",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 밥을 따뜻하게 준비하고, 밥, 시금치, 콩나물, 당근, 표고버섯, 계란, 고추장, 참기름 중 토핑 재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물이 들어가는 경우 팬에서 먼저 익히고, 채소는 볶거나 데쳐 물기를 줄인다.\n3. 고추장, 간장, 참기름, 마요네즈처럼 필요한 양념은 따로 섞어 맛을 맞춘다.\n4. 그릇에 밥을 담고 손질한 재료를 색이 겹치지 않게 올린다.\n5. 계란, 김, 날치알, 소스 등 마무리 재료를 올려 풍미를 더한다.\n6. 먹기 직전에 전체를 비비거나 소스를 곁들여 돌솥비빔밥을 완성한다."
+  },
+  {
+    "recipe_id": "R140",
+    "recipe_name_ko": "육회비빔밥",
+    "recipe_name_en": "Beef Tartare Bibimbap",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "밥, 육회, 배, 상추, 계란, 고추장, 참기름",
+    "essential_ingredients_ko": "밥, 육회, 배, 상추",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "육회",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "배",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "상추",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "고추장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "참기름",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 밥을 따뜻하게 준비하고, 밥, 육회, 배, 상추, 계란, 고추장, 참기름 중 토핑 재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물이 들어가는 경우 팬에서 먼저 익히고, 채소는 볶거나 데쳐 물기를 줄인다.\n3. 고추장, 간장, 참기름, 마요네즈처럼 필요한 양념은 따로 섞어 맛을 맞춘다.\n4. 그릇에 밥을 담고 손질한 재료를 색이 겹치지 않게 올린다.\n5. 계란, 김, 날치알, 소스 등 마무리 재료를 올려 풍미를 더한다.\n6. 먹기 직전에 전체를 비비거나 소스를 곁들여 육회비빔밥을 완성한다."
+  },
+  {
+    "recipe_id": "R141",
+    "recipe_name_ko": "알밥",
+    "recipe_name_en": "Fish Roe Rice Bowl",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "밥, 날치알, 단무지, 김, 오이, 마요네즈, 참기름",
+    "essential_ingredients_ko": "밥, 날치알, 단무지, 김",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "날치알",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "단무지",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "김",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "마요네즈",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "참기름",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 밥을 따뜻하게 준비하고, 밥, 날치알, 단무지, 김, 오이, 마요네즈, 참기름 중 토핑 재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물이 들어가는 경우 팬에서 먼저 익히고, 채소는 볶거나 데쳐 물기를 줄인다.\n3. 고추장, 간장, 참기름, 마요네즈처럼 필요한 양념은 따로 섞어 맛을 맞춘다.\n4. 그릇에 밥을 담고 손질한 재료를 색이 겹치지 않게 올린다.\n5. 계란, 김, 날치알, 소스 등 마무리 재료를 올려 풍미를 더한다.\n6. 먹기 직전에 전체를 비비거나 소스를 곁들여 알밥을 완성한다."
+  },
+  {
+    "recipe_id": "R142",
+    "recipe_name_ko": "회덮밥",
+    "recipe_name_en": "Raw Fish Rice Bowl",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "밥, 회, 상추, 오이, 깻잎, 초고추장, 김",
+    "essential_ingredients_ko": "밥, 회, 상추, 오이",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "회",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "상추",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "깻잎",
+        "amount": 10,
+        "unit": "장"
+      },
+      {
+        "name": "초고추장",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "김",
+        "amount": 3,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 밥을 따뜻하게 준비하고, 밥, 회, 상추, 오이, 깻잎, 초고추장, 김 중 토핑 재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물이 들어가는 경우 팬에서 먼저 익히고, 채소는 볶거나 데쳐 물기를 줄인다.\n3. 고추장, 간장, 참기름, 마요네즈처럼 필요한 양념은 따로 섞어 맛을 맞춘다.\n4. 그릇에 밥을 담고 손질한 재료를 색이 겹치지 않게 올린다.\n5. 계란, 김, 날치알, 소스 등 마무리 재료를 올려 풍미를 더한다.\n6. 먹기 직전에 전체를 비비거나 소스를 곁들여 회덮밥을 완성한다."
+  },
+  {
+    "recipe_id": "R143",
+    "recipe_name_ko": "김치말이국수",
+    "recipe_name_en": "Kimchi Cold Noodles",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "소면, 김치, 오이, 삶은계란, 김치국물, 육수, 설탕, 식초",
+    "essential_ingredients_ko": "소면, 김치, 오이, 삶은계란",
+    "used_ingredients": [
+      {
+        "name": "소면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "김치",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "삶은계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "김치국물",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "식초",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 소면, 김치, 오이, 삶은계란, 김치국물, 육수, 설탕, 식초를 준비하고, 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 냄비에 물이나 육수를 붓고 익는 데 오래 걸리는 재료부터 넣어 국물 맛을 낸다.\n3. 소면, 김치, 오이, 삶은계란 같은 주재료를 넣고 중불에서 충분히 끓여 재료의 맛이 국물에 우러나게 한다.\n4. 설탕, 식초를 넣어 기본 간을 맞추고, 거품이 올라오면 걷어내 국물을 깔끔하게 만든다.\n5. 두부, 대파, 잎채소처럼 빨리 익는 재료는 마지막에 넣어 식감을 살린다.\n6. 재료가 모두 익고 국물 맛이 맞으면 불을 줄여 2~3분 더 끓인 뒤 김치말이국수를 완성한다."
+  },
+  {
+    "recipe_id": "R144",
+    "recipe_name_ko": "막국수",
+    "recipe_name_en": "Buckwheat Noodles",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "메밀면, 오이, 삶은계란, 김, 고추장, 식초, 설탕, 참기름",
+    "essential_ingredients_ko": "메밀면, 오이, 삶은계란, 김",
+    "used_ingredients": [
+      {
+        "name": "메밀면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "삶은계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "김",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "고추장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "식초",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "참기름",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 메밀면, 오이, 삶은계란, 김, 고추장, 식초, 설탕, 참기름을 준비하고, 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 냄비에 물이나 육수를 붓고 익는 데 오래 걸리는 재료부터 넣어 국물 맛을 낸다.\n3. 메밀면, 오이, 삶은계란, 김 같은 주재료를 넣고 중불에서 충분히 끓여 재료의 맛이 국물에 우러나게 한다.\n4. 고추장, 식초, 설탕, 참기름을 넣어 기본 간을 맞추고, 거품이 올라오면 걷어내 국물을 깔끔하게 만든다.\n5. 두부, 대파, 잎채소처럼 빨리 익는 재료는 마지막에 넣어 식감을 살린다.\n6. 재료가 모두 익고 국물 맛이 맞으면 불을 줄여 2~3분 더 끓인 뒤 막국수를 완성한다."
+  },
+  {
+    "recipe_id": "R145",
+    "recipe_name_ko": "콩국수",
+    "recipe_name_en": "Soy Milk Noodles",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "소면, 콩국물, 오이, 토마토, 소금, 깨",
+    "essential_ingredients_ko": "소면, 콩국물, 오이, 토마토",
+    "used_ingredients": [
+      {
+        "name": "소면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "콩국물",
+        "amount": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "소금",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "깨",
+        "amount": 5,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 소면, 콩국물, 오이, 토마토, 소금, 깨를 준비하고, 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 냄비에 물이나 육수를 붓고 익는 데 오래 걸리는 재료부터 넣어 국물 맛을 낸다.\n3. 소면, 콩국물, 오이, 토마토, 깨 같은 주재료를 넣고 중불에서 충분히 끓여 재료의 맛이 국물에 우러나게 한다.\n4. 소금을 넣어 기본 간을 맞추고, 거품이 올라오면 걷어내 국물을 깔끔하게 만든다.\n5. 두부, 대파, 잎채소처럼 빨리 익는 재료는 마지막에 넣어 식감을 살린다.\n6. 재료가 모두 익고 국물 맛이 맞으면 불을 줄여 2~3분 더 끓인 뒤 콩국수를 완성한다."
+  },
+  {
+    "recipe_id": "R146",
+    "recipe_name_ko": "물냉면",
+    "recipe_name_en": "Cold Buckwheat Noodles",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "냉면면, 냉면육수, 오이, 배, 삶은계란, 무절임",
+    "essential_ingredients_ko": "냉면면, 냉면육수, 오이, 배",
+    "used_ingredients": [
+      {
+        "name": "냉면면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "냉면육수",
+        "amount": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "배",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "삶은계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "무절임",
+        "amount": 80,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 냉면면, 냉면육수, 오이, 배, 삶은계란, 무절임을 준비하고, 면은 끓는 물에 삶을 수 있도록 따로 계량해둔다.\n2. 오이, 배, 대파, 김, 계란 같은 고명은 얇게 썰거나 미리 익혀 준비한다.\n3. 국물 요리는 육수나 양념 국물을 먼저 만들고, 비빔 요리는 고추장·식초·설탕·참기름 등을 섞어 양념장을 만든다.\n4. 면은 포장 기준보다 너무 오래 삶지 말고 알맞게 익힌 뒤 찬물에 헹구거나 물기를 뺀다.\n5. 그릇에 면을 담고 국물 또는 양념장을 넣은 뒤 준비한 고명을 보기 좋게 올린다.\n6. 간을 확인해 부족하면 소금, 간장, 식초 등으로 조절하고 물냉면을 완성한다."
+  },
+  {
+    "recipe_id": "R147",
+    "recipe_name_ko": "비빔냉면",
+    "recipe_name_en": "Spicy Cold Noodles",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "냉면면, 오이, 배, 삶은계란, 고추장, 식초, 설탕, 참기름",
+    "essential_ingredients_ko": "냉면면, 오이, 배, 삶은계란",
+    "used_ingredients": [
+      {
+        "name": "냉면면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "배",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "삶은계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "고추장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "식초",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "참기름",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 냉면면, 오이, 배, 삶은계란, 고추장, 식초, 설탕, 참기름을 준비하고, 면은 끓는 물에 삶을 수 있도록 따로 계량해둔다.\n2. 오이, 배, 대파, 김, 계란 같은 고명은 얇게 썰거나 미리 익혀 준비한다.\n3. 국물 요리는 육수나 양념 국물을 먼저 만들고, 비빔 요리는 고추장·식초·설탕·참기름 등을 섞어 양념장을 만든다.\n4. 면은 포장 기준보다 너무 오래 삶지 말고 알맞게 익힌 뒤 찬물에 헹구거나 물기를 뺀다.\n5. 그릇에 면을 담고 국물 또는 양념장을 넣은 뒤 준비한 고명을 보기 좋게 올린다.\n6. 간을 확인해 부족하면 소금, 간장, 식초 등으로 조절하고 비빔냉면을 완성한다."
+  },
+  {
+    "recipe_id": "R148",
+    "recipe_name_ko": "수제비",
+    "recipe_name_en": "Hand-pulled Dough Soup",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "밀가루, 감자, 애호박, 양파, 대파, 멸치육수, 국간장",
+    "essential_ingredients_ko": "밀가루, 감자, 애호박, 양파",
+    "used_ingredients": [
+      {
+        "name": "밀가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "애호박",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "멸치육수",
+        "amount": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "국간장",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 밀가루, 감자, 애호박, 양파, 대파, 멸치육수, 국간장을 준비하고, 각 재료는 씻거나 껍질을 제거해 먹기 좋은 크기로 손질한다.\n2. 조리에 오래 걸리는 재료와 향을 내는 재료를 먼저 준비해둔다.\n3. 팬이나 냄비를 예열한 뒤 주재료를 넣고 요리에 맞게 볶거나 끓이거나 굽는다.\n4. 국간장을 넣어 간을 맞추고 재료가 고르게 익도록 중간중간 섞는다.\n5. 마지막에 빨리 익는 채소나 고명을 넣어 색과 식감을 살린다.\n6. 간을 확인한 뒤 그릇에 담아 수제비를 완성한다."
+  },
+  {
+    "recipe_id": "R149",
+    "recipe_name_ko": "감자옹심이",
+    "recipe_name_en": "Potato Dough Soup",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "감자, 감자전분, 애호박, 대파, 멸치육수, 국간장",
+    "essential_ingredients_ko": "감자, 감자전분, 애호박, 대파",
+    "used_ingredients": [
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "감자전분",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "애호박",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "멸치육수",
+        "amount": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "국간장",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 감자, 감자전분, 애호박, 대파, 멸치육수, 국간장을 준비하고, 각 재료는 씻거나 껍질을 제거해 먹기 좋은 크기로 손질한다.\n2. 조리에 오래 걸리는 재료와 향을 내는 재료를 먼저 준비해둔다.\n3. 팬이나 냄비를 예열한 뒤 주재료를 넣고 요리에 맞게 볶거나 끓이거나 굽는다.\n4. 국간장을 넣어 간을 맞추고 재료가 고르게 익도록 중간중간 섞는다.\n5. 마지막에 빨리 익는 채소나 고명을 넣어 색과 식감을 살린다.\n6. 간을 확인한 뒤 그릇에 담아 감자옹심이를 완성한다."
+  },
+  {
+    "recipe_id": "R150",
+    "recipe_name_ko": "잡채",
+    "recipe_name_en": "Japchae",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "당면, 소고기, 시금치, 당근, 양파, 표고버섯, 간장, 참기름",
+    "essential_ingredients_ko": "당면, 소고기, 시금치, 당근",
+    "used_ingredients": [
+      {
+        "name": "당면",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "시금치",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "표고버섯",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "참기름",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 당면은 미리 물에 불리거나 삶아 부드럽게 준비하고, 물기를 뺀다.\n2. 소고기, 시금치, 당근, 양파, 표고버섯은 각각 먹기 좋은 길이로 썬다.\n3. 팬에 기름을 두르고 고기와 채소를 각각 볶아 재료별 식감을 살린다.\n4. 삶은 당면에 간장과 설탕을 넣고 볶아 기본 간을 입힌다.\n5. 볶아둔 재료를 당면과 함께 섞고 참기름을 넣어 윤기를 낸다.\n6. 전체 간을 확인한 뒤 그릇에 담아 잡채를 완성한다."
   },
 ]
