@@ -6838,4 +6838,3639 @@
     ],
     "instructions_ko": "1. 당면은 미리 물에 불리거나 삶아 부드럽게 준비하고, 물기를 뺀다.\n2. 소고기, 시금치, 당근, 양파, 표고버섯은 각각 먹기 좋은 길이로 썬다.\n3. 팬에 기름을 두르고 고기와 채소를 각각 볶아 재료별 식감을 살린다.\n4. 삶은 당면에 간장과 설탕을 넣고 볶아 기본 간을 입힌다.\n5. 볶아둔 재료를 당면과 함께 섞고 참기름을 넣어 윤기를 낸다.\n6. 전체 간을 확인한 뒤 그릇에 담아 잡채를 완성한다."
   },
+  {
+    "recipe_id": "R151",
+    "recipe_name_ko": "안동찜닭",
+    "recipe_name_en": "Andong Braised Chicken",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 당면, 감자, 당근, 양파, 대파, 간장, 설탕, 마늘",
+    "essential_ingredients_ko": "닭고기, 당면, 감자, 당근",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "당면",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 당면, 감자, 당근, 양파, 대파, 간장, 설탕, 마늘을 준비하고, 고기나 주재료는 핏물과 불순물을 제거해 먹기 좋은 크기로 손질한다.\n2. 냄비에 주재료를 넣고 물을 조금 부어 먼저 익히거나 데쳐 잡내를 줄인다.\n3. 간장, 설탕, 마늘을 섞어 조림 양념을 만들고, 단단한 채소는 큼직하게 썰어둔다.\n4. 주재료에 양념을 붓고 중불에서 끓이다가 감자, 무, 당근처럼 익는 데 오래 걸리는 재료를 넣는다.\n5. 국물이 자작해질 때까지 중약불로 졸이고 중간중간 뒤집어 양념이 고르게 배게 한다.\n6. 대파나 고추처럼 향을 내는 재료를 마지막에 넣고 윤기가 나면 안동찜닭을 완성한다."
+  },
+  {
+    "recipe_id": "R152",
+    "recipe_name_ko": "소갈비찜",
+    "recipe_name_en": "Braised Beef Short Ribs",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "소갈비, 무, 당근, 표고버섯, 대파, 간장, 설탕, 마늘",
+    "essential_ingredients_ko": "소갈비, 무, 당근, 표고버섯",
+    "used_ingredients": [
+      {
+        "name": "소갈비",
+        "amount": 450,
+        "unit": "g"
+      },
+      {
+        "name": "무",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "표고버섯",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 소갈비, 무, 당근, 표고버섯, 대파, 간장, 설탕, 마늘을 준비하고, 고기나 주재료는 핏물과 불순물을 제거해 먹기 좋은 크기로 손질한다.\n2. 냄비에 주재료를 넣고 물을 조금 부어 먼저 익히거나 데쳐 잡내를 줄인다.\n3. 간장, 설탕, 마늘을 섞어 조림 양념을 만들고, 단단한 채소는 큼직하게 썰어둔다.\n4. 주재료에 양념을 붓고 중불에서 끓이다가 감자, 무, 당근처럼 익는 데 오래 걸리는 재료를 넣는다.\n5. 국물이 자작해질 때까지 중약불로 졸이고 중간중간 뒤집어 양념이 고르게 배게 한다.\n6. 대파나 고추처럼 향을 내는 재료를 마지막에 넣고 윤기가 나면 소갈비찜을 완성한다."
+  },
+  {
+    "recipe_id": "R153",
+    "recipe_name_ko": "돼지갈비찜",
+    "recipe_name_en": "Braised Pork Ribs",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "돼지갈비, 감자, 당근, 양파, 대파, 간장, 설탕, 마늘",
+    "essential_ingredients_ko": "돼지갈비, 감자, 당근, 양파",
+    "used_ingredients": [
+      {
+        "name": "돼지갈비",
+        "amount": 450,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 돼지갈비, 감자, 당근, 양파, 대파, 간장, 설탕, 마늘을 준비하고, 고기나 주재료는 핏물과 불순물을 제거해 먹기 좋은 크기로 손질한다.\n2. 냄비에 주재료를 넣고 물을 조금 부어 먼저 익히거나 데쳐 잡내를 줄인다.\n3. 간장, 설탕, 마늘을 섞어 조림 양념을 만들고, 단단한 채소는 큼직하게 썰어둔다.\n4. 주재료에 양념을 붓고 중불에서 끓이다가 감자, 무, 당근처럼 익는 데 오래 걸리는 재료를 넣는다.\n5. 국물이 자작해질 때까지 중약불로 졸이고 중간중간 뒤집어 양념이 고르게 배게 한다.\n6. 대파나 고추처럼 향을 내는 재료를 마지막에 넣고 윤기가 나면 돼지갈비찜을 완성한다."
+  },
+  {
+    "recipe_id": "R154",
+    "recipe_name_ko": "보쌈",
+    "recipe_name_en": "Bossam",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "돼지고기, 배추, 마늘, 된장, 대파, 생강, 쌈장",
+    "essential_ingredients_ko": "돼지고기, 배추, 마늘, 된장",
+    "used_ingredients": [
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "배추",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "된장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "생강",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "쌈장",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 돼지고기, 배추, 마늘, 된장, 대파, 생강, 쌈장을 준비하고, 쌈채소는 씻어서 물기를 빼고 마늘과 고추는 얇게 썬다.\n2. 고기가 들어가는 경우 된장, 대파, 생강 등을 넣은 물에 삶거나 데워 잡내를 줄인다.\n3. 고기는 먹기 좋은 두께로 썰고, 배추나 상추 같은 채소는 한 장씩 펼쳐 담는다.\n4. 쌈장이나 새우젓처럼 곁들일 양념을 따로 준비한다.\n5. 밥이나 고기를 채소 위에 올리고 마늘, 고추, 양념을 곁들인다.\n6. 각자 싸 먹기 좋게 접시에 담아 보쌈을 완성한다."
+  },
+  {
+    "recipe_id": "R155",
+    "recipe_name_ko": "족발",
+    "recipe_name_en": "Jokbal",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "족발, 상추, 마늘, 고추, 쌈장, 새우젓",
+    "essential_ingredients_ko": "족발, 상추, 마늘, 고추",
+    "used_ingredients": [
+      {
+        "name": "족발",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "상추",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "고추",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "쌈장",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "새우젓",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 족발, 상추, 마늘, 고추, 쌈장, 새우젓을 준비하고, 쌈채소는 씻어서 물기를 빼고 마늘과 고추는 얇게 썬다.\n2. 고기가 들어가는 경우 된장, 대파, 생강 등을 넣은 물에 삶거나 데워 잡내를 줄인다.\n3. 고기는 먹기 좋은 두께로 썰고, 배추나 상추 같은 채소는 한 장씩 펼쳐 담는다.\n4. 쌈장이나 새우젓처럼 곁들일 양념을 따로 준비한다.\n5. 밥이나 고기를 채소 위에 올리고 마늘, 고추, 양념을 곁들인다.\n6. 각자 싸 먹기 좋게 접시에 담아 족발을 완성한다."
+  },
+  {
+    "recipe_id": "R156",
+    "recipe_name_ko": "해물파전",
+    "recipe_name_en": "Seafood Scallion Pancake",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "부침가루, 쪽파, 오징어, 새우, 홍합, 계란, 식용유, 간장",
+    "essential_ingredients_ko": "부침가루, 쪽파, 오징어, 새우",
+    "used_ingredients": [
+      {
+        "name": "부침가루",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "쪽파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "오징어",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "새우",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "홍합",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "간장",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 부침가루, 쪽파, 오징어, 새우, 홍합, 계란, 식용유, 간장을 준비하고, 주재료는 물기를 제거해 튀김옷이나 반죽이 잘 붙도록 한다.\n2. 밀가루, 계란, 빵가루, 전분, 부침가루 등 필요한 반죽이나 튀김옷을 만든다.\n3. 고기나 해산물은 소금, 간장, 마늘 등으로 가볍게 밑간해 잡내를 줄인다.\n4. 팬이나 냄비에 기름을 충분히 두르고 중불로 예열한 뒤 재료를 넣어 노릇하게 익힌다.\n5. 소스가 필요한 요리는 간장, 고추장, 케첩, 식초, 설탕 등을 끓여 소스를 만든 뒤 재료에 버무린다.\n6. 기름기를 살짝 빼고 접시에 담아 해물파전을 완성한다."
+  },
+  {
+    "recipe_id": "R157",
+    "recipe_name_ko": "동그랑땡",
+    "recipe_name_en": "Korean Meat Patties",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "다진돼지고기, 두부, 당근, 대파, 계란, 밀가루, 소금, 식용유",
+    "essential_ingredients_ko": "다진돼지고기, 두부, 당근, 대파",
+    "used_ingredients": [
+      {
+        "name": "다진돼지고기",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "두부",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "밀가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "소금",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 다진돼지고기, 두부, 당근, 대파, 계란, 밀가루, 소금, 식용유를 준비하고, 각 재료는 씻거나 껍질을 제거해 먹기 좋은 크기로 손질한다.\n2. 조리에 오래 걸리는 재료와 향을 내는 재료를 먼저 준비해둔다.\n3. 팬이나 냄비를 예열한 뒤 주재료를 넣고 요리에 맞게 볶거나 끓이거나 굽는다.\n4. 소금을 넣어 간을 맞추고 재료가 고르게 익도록 중간중간 섞는다.\n5. 마지막에 빨리 익는 채소나 고명을 넣어 색과 식감을 살린다.\n6. 간을 확인한 뒤 그릇에 담아 동그랑땡을 완성한다."
+  },
+  {
+    "recipe_id": "R158",
+    "recipe_name_ko": "호박전",
+    "recipe_name_en": "Pan-fried Zucchini",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "애호박, 계란, 밀가루, 소금, 식용유",
+    "essential_ingredients_ko": "애호박, 계란, 밀가루, 소금",
+    "used_ingredients": [
+      {
+        "name": "애호박",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "밀가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "소금",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 애호박, 계란, 밀가루, 소금, 식용유를 준비하고, 주재료는 물기를 제거해 튀김옷이나 반죽이 잘 붙도록 한다.\n2. 밀가루, 계란, 빵가루, 전분, 부침가루 등 필요한 반죽이나 튀김옷을 만든다.\n3. 고기나 해산물은 소금, 간장, 마늘 등으로 가볍게 밑간해 잡내를 줄인다.\n4. 팬이나 냄비에 기름을 충분히 두르고 중불로 예열한 뒤 재료를 넣어 노릇하게 익힌다.\n5. 소스가 필요한 요리는 간장, 고추장, 케첩, 식초, 설탕 등을 끓여 소스를 만든 뒤 재료에 버무린다.\n6. 기름기를 살짝 빼고 접시에 담아 호박전을 완성한다."
+  },
+  {
+    "recipe_id": "R159",
+    "recipe_name_ko": "두부김치",
+    "recipe_name_en": "Tofu with Stir-fried Kimchi",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "두부, 김치, 돼지고기, 대파, 고춧가루, 참기름",
+    "essential_ingredients_ko": "두부, 김치, 돼지고기, 대파",
+    "used_ingredients": [
+      {
+        "name": "두부",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "김치",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "참기름",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 두부, 김치, 돼지고기, 대파, 고춧가루, 참기름을 준비하고, 각 재료는 씻거나 껍질을 제거해 먹기 좋은 크기로 손질한다.\n2. 조리에 오래 걸리는 재료와 향을 내는 재료를 먼저 준비해둔다.\n3. 팬이나 냄비를 예열한 뒤 주재료를 넣고 요리에 맞게 볶거나 끓이거나 굽는다.\n4. 고춧가루, 참기름을 넣어 간을 맞추고 재료가 고르게 익도록 중간중간 섞는다.\n5. 마지막에 빨리 익는 채소나 고명을 넣어 색과 식감을 살린다.\n6. 간을 확인한 뒤 그릇에 담아 두부김치를 완성한다."
+  },
+  {
+    "recipe_id": "R160",
+    "recipe_name_ko": "골뱅이무침",
+    "recipe_name_en": "Spicy Sea Snail Salad",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "골뱅이, 오이, 양파, 대파, 소면, 고추장, 식초, 설탕",
+    "essential_ingredients_ko": "골뱅이, 오이, 양파, 대파",
+    "used_ingredients": [
+      {
+        "name": "골뱅이",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "소면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "고추장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "식초",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 골뱅이, 오이, 양파, 대파, 소면, 고추장, 식초, 설탕을 준비하고, 채소는 깨끗이 씻은 뒤 물기를 충분히 제거한다.\n2. 오이, 무, 상추, 배추처럼 생으로 쓰는 재료는 먹기 좋은 크기로 썰고, 데칠 재료는 짧게 데친 뒤 식힌다.\n3. 고추장, 식초, 설탕을 섞어 양념장이나 드레싱을 만든다.\n4. 큰 볼에 손질한 재료를 넣고 양념을 조금씩 넣어가며 골고루 버무린다.\n5. 너무 세게 섞으면 재료가 무를 수 있으므로 식감을 살리며 가볍게 섞는다.\n6. 간이 배도록 잠시 두었다가 접시에 담아 골뱅이무침을 완성한다."
+  },
+  {
+    "recipe_id": "R161",
+    "recipe_name_ko": "도토리묵무침",
+    "recipe_name_en": "Acorn Jelly Salad",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "도토리묵, 상추, 오이, 당근, 간장, 고춧가루, 참기름",
+    "essential_ingredients_ko": "도토리묵, 상추, 오이, 당근",
+    "used_ingredients": [
+      {
+        "name": "도토리묵",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "상추",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "참기름",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 도토리묵, 상추, 오이, 당근, 간장, 고춧가루, 참기름을 준비하고, 채소는 깨끗이 씻은 뒤 물기를 충분히 제거한다.\n2. 오이, 무, 상추, 배추처럼 생으로 쓰는 재료는 먹기 좋은 크기로 썰고, 데칠 재료는 짧게 데친 뒤 식힌다.\n3. 간장, 고춧가루, 참기름을 섞어 양념장이나 드레싱을 만든다.\n4. 큰 볼에 손질한 재료를 넣고 양념을 조금씩 넣어가며 골고루 버무린다.\n5. 너무 세게 섞으면 재료가 무를 수 있으므로 식감을 살리며 가볍게 섞는다.\n6. 간이 배도록 잠시 두었다가 접시에 담아 도토리묵무침을 완성한다."
+  },
+  {
+    "recipe_id": "R162",
+    "recipe_name_ko": "소고기장조림",
+    "recipe_name_en": "Soy-braised Beef",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "소고기, 메추리알, 간장, 설탕, 마늘, 꽈리고추",
+    "essential_ingredients_ko": "소고기, 메추리알, 간장, 설탕",
+    "used_ingredients": [
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "메추리알",
+        "amount": 6,
+        "unit": "개"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "꽈리고추",
+        "amount": 60,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 소고기, 메추리알, 간장, 설탕, 마늘, 꽈리고추를 준비하고, 고기나 주재료는 핏물과 불순물을 제거해 먹기 좋은 크기로 손질한다.\n2. 냄비에 주재료를 넣고 물을 조금 부어 먼저 익히거나 데쳐 잡내를 줄인다.\n3. 간장, 설탕, 마늘을 섞어 조림 양념을 만들고, 단단한 채소는 큼직하게 썰어둔다.\n4. 주재료에 양념을 붓고 중불에서 끓이다가 감자, 무, 당근처럼 익는 데 오래 걸리는 재료를 넣는다.\n5. 국물이 자작해질 때까지 중약불로 졸이고 중간중간 뒤집어 양념이 고르게 배게 한다.\n6. 대파나 고추처럼 향을 내는 재료를 마지막에 넣고 윤기가 나면 소고기장조림을 완성한다."
+  },
+  {
+    "recipe_id": "R163",
+    "recipe_name_ko": "메추리알장조림",
+    "recipe_name_en": "Soy-braised Quail Eggs",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "메추리알, 간장, 설탕, 마늘, 꽈리고추",
+    "essential_ingredients_ko": "메추리알, 간장, 설탕, 마늘",
+    "used_ingredients": [
+      {
+        "name": "메추리알",
+        "amount": 6,
+        "unit": "개"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "꽈리고추",
+        "amount": 60,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 메추리알, 간장, 설탕, 마늘, 꽈리고추를 준비하고, 고기나 주재료는 핏물과 불순물을 제거해 먹기 좋은 크기로 손질한다.\n2. 냄비에 주재료를 넣고 물을 조금 부어 먼저 익히거나 데쳐 잡내를 줄인다.\n3. 간장, 설탕, 마늘을 섞어 조림 양념을 만들고, 단단한 채소는 큼직하게 썰어둔다.\n4. 주재료에 양념을 붓고 중불에서 끓이다가 감자, 무, 당근처럼 익는 데 오래 걸리는 재료를 넣는다.\n5. 국물이 자작해질 때까지 중약불로 졸이고 중간중간 뒤집어 양념이 고르게 배게 한다.\n6. 대파나 고추처럼 향을 내는 재료를 마지막에 넣고 윤기가 나면 메추리알장조림을 완성한다."
+  },
+  {
+    "recipe_id": "R164",
+    "recipe_name_ko": "깻잎장아찌",
+    "recipe_name_en": "Pickled Perilla Leaves",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "깻잎, 간장, 고춧가루, 마늘, 설탕, 식초",
+    "essential_ingredients_ko": "깻잎, 간장, 고춧가루, 마늘",
+    "used_ingredients": [
+      {
+        "name": "깻잎",
+        "amount": 10,
+        "unit": "장"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "식초",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 깻잎, 간장, 고춧가루, 마늘, 설탕, 식초를 준비하고, 채소는 깨끗이 씻은 뒤 물기를 충분히 제거한다.\n2. 오이, 무, 상추, 배추처럼 생으로 쓰는 재료는 먹기 좋은 크기로 썰고, 데칠 재료는 짧게 데친 뒤 식힌다.\n3. 간장, 고춧가루, 마늘, 설탕, 식초를 섞어 양념장이나 드레싱을 만든다.\n4. 큰 볼에 손질한 재료를 넣고 양념을 조금씩 넣어가며 골고루 버무린다.\n5. 너무 세게 섞으면 재료가 무를 수 있으므로 식감을 살리며 가볍게 섞는다.\n6. 간이 배도록 잠시 두었다가 접시에 담아 깻잎장아찌를 완성한다."
+  },
+  {
+    "recipe_id": "R165",
+    "recipe_name_ko": "오이무침",
+    "recipe_name_en": "Spicy Cucumber Salad",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "오이, 고추장, 고춧가루, 식초, 설탕, 마늘, 참기름",
+    "essential_ingredients_ko": "오이, 고추장, 고춧가루, 식초",
+    "used_ingredients": [
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "고추장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "식초",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "참기름",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 오이, 고추장, 고춧가루, 식초, 설탕, 마늘, 참기름을 준비하고, 채소는 깨끗이 씻은 뒤 물기를 충분히 제거한다.\n2. 오이, 무, 상추, 배추처럼 생으로 쓰는 재료는 먹기 좋은 크기로 썰고, 데칠 재료는 짧게 데친 뒤 식힌다.\n3. 고추장, 고춧가루, 식초, 설탕, 마늘을 섞어 양념장이나 드레싱을 만든다.\n4. 큰 볼에 손질한 재료를 넣고 양념을 조금씩 넣어가며 골고루 버무린다.\n5. 너무 세게 섞으면 재료가 무를 수 있으므로 식감을 살리며 가볍게 섞는다.\n6. 간이 배도록 잠시 두었다가 접시에 담아 오이무침을 완성한다."
+  },
+  {
+    "recipe_id": "R166",
+    "recipe_name_ko": "무생채",
+    "recipe_name_en": "Seasoned Radish Salad",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "무, 고춧가루, 식초, 설탕, 마늘, 대파",
+    "essential_ingredients_ko": "무, 고춧가루, 식초, 설탕",
+    "used_ingredients": [
+      {
+        "name": "무",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "식초",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 무, 고춧가루, 식초, 설탕, 마늘, 대파를 준비하고, 각 재료는 씻거나 껍질을 제거해 먹기 좋은 크기로 손질한다.\n2. 조리에 오래 걸리는 재료와 향을 내는 재료를 먼저 준비해둔다.\n3. 팬이나 냄비를 예열한 뒤 주재료를 넣고 요리에 맞게 볶거나 끓이거나 굽는다.\n4. 고춧가루, 식초, 설탕, 마늘을 넣어 간을 맞추고 재료가 고르게 익도록 중간중간 섞는다.\n5. 마지막에 빨리 익는 채소나 고명을 넣어 색과 식감을 살린다.\n6. 간을 확인한 뒤 그릇에 담아 무생채를 완성한다."
+  },
+  {
+    "recipe_id": "R167",
+    "recipe_name_ko": "김무침",
+    "recipe_name_en": "Seasoned Seaweed",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "김, 간장, 참기름, 깨, 대파, 고춧가루",
+    "essential_ingredients_ko": "김, 간장, 참기름, 깨",
+    "used_ingredients": [
+      {
+        "name": "김",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "참기름",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "깨",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 김, 간장, 참기름, 깨, 대파, 고춧가루를 준비하고, 채소는 깨끗이 씻은 뒤 물기를 충분히 제거한다.\n2. 오이, 무, 상추, 배추처럼 생으로 쓰는 재료는 먹기 좋은 크기로 썰고, 데칠 재료는 짧게 데친 뒤 식힌다.\n3. 간장, 참기름, 고춧가루를 섞어 양념장이나 드레싱을 만든다.\n4. 큰 볼에 손질한 재료를 넣고 양념을 조금씩 넣어가며 골고루 버무린다.\n5. 너무 세게 섞으면 재료가 무를 수 있으므로 식감을 살리며 가볍게 섞는다.\n6. 간이 배도록 잠시 두었다가 접시에 담아 김무침을 완성한다."
+  },
+  {
+    "recipe_id": "R168",
+    "recipe_name_ko": "배추겉절이",
+    "recipe_name_en": "Fresh Kimchi Salad",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "배추, 고춧가루, 액젓, 마늘, 대파, 설탕",
+    "essential_ingredients_ko": "배추, 고춧가루, 액젓, 마늘",
+    "used_ingredients": [
+      {
+        "name": "배추",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "액젓",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 배추, 고춧가루, 액젓, 마늘, 대파, 설탕을 준비하고, 채소는 깨끗이 씻은 뒤 물기를 충분히 제거한다.\n2. 오이, 무, 상추, 배추처럼 생으로 쓰는 재료는 먹기 좋은 크기로 썰고, 데칠 재료는 짧게 데친 뒤 식힌다.\n3. 고춧가루, 액젓, 마늘, 설탕을 섞어 양념장이나 드레싱을 만든다.\n4. 큰 볼에 손질한 재료를 넣고 양념을 조금씩 넣어가며 골고루 버무린다.\n5. 너무 세게 섞으면 재료가 무를 수 있으므로 식감을 살리며 가볍게 섞는다.\n6. 간이 배도록 잠시 두었다가 접시에 담아 배추겉절이를 완성한다."
+  },
+  {
+    "recipe_id": "R169",
+    "recipe_name_ko": "닭강정",
+    "recipe_name_en": "Sweet Crispy Chicken",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 튀김가루, 고추장, 케첩, 올리고당, 마늘, 식용유",
+    "essential_ingredients_ko": "닭고기, 튀김가루, 고추장, 케첩",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "튀김가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "고추장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "케첩",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "올리고당",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 튀김가루, 고추장, 케첩, 올리고당, 마늘, 식용유를 준비하고, 주재료는 물기를 제거해 튀김옷이나 반죽이 잘 붙도록 한다.\n2. 밀가루, 계란, 빵가루, 전분, 부침가루 등 필요한 반죽이나 튀김옷을 만든다.\n3. 고기나 해산물은 소금, 간장, 마늘 등으로 가볍게 밑간해 잡내를 줄인다.\n4. 팬이나 냄비에 기름을 충분히 두르고 중불로 예열한 뒤 재료를 넣어 노릇하게 익힌다.\n5. 소스가 필요한 요리는 간장, 고추장, 케첩, 식초, 설탕 등을 끓여 소스를 만든 뒤 재료에 버무린다.\n6. 기름기를 살짝 빼고 접시에 담아 닭강정을 완성한다."
+  },
+  {
+    "recipe_id": "R170",
+    "recipe_name_ko": "양념치킨",
+    "recipe_name_en": "Korean Spicy Fried Chicken",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 튀김가루, 고추장, 케첩, 설탕, 마늘, 식용유",
+    "essential_ingredients_ko": "닭고기, 튀김가루, 고추장, 케첩",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "튀김가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "고추장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "케첩",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 튀김가루, 고추장, 케첩, 설탕, 마늘, 식용유를 준비하고, 주재료는 물기를 제거해 튀김옷이나 반죽이 잘 붙도록 한다.\n2. 밀가루, 계란, 빵가루, 전분, 부침가루 등 필요한 반죽이나 튀김옷을 만든다.\n3. 고기나 해산물은 소금, 간장, 마늘 등으로 가볍게 밑간해 잡내를 줄인다.\n4. 팬이나 냄비에 기름을 충분히 두르고 중불로 예열한 뒤 재료를 넣어 노릇하게 익힌다.\n5. 소스가 필요한 요리는 간장, 고추장, 케첩, 식초, 설탕 등을 끓여 소스를 만든 뒤 재료에 버무린다.\n6. 기름기를 살짝 빼고 접시에 담아 양념치킨을 완성한다."
+  },
+  {
+    "recipe_id": "R171",
+    "recipe_name_ko": "간장치킨",
+    "recipe_name_en": "Soy Garlic Fried Chicken",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 튀김가루, 간장, 설탕, 마늘, 식용유",
+    "essential_ingredients_ko": "닭고기, 튀김가루, 간장, 설탕",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "튀김가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 튀김가루, 간장, 설탕, 마늘, 식용유를 준비하고, 주재료는 물기를 제거해 튀김옷이나 반죽이 잘 붙도록 한다.\n2. 밀가루, 계란, 빵가루, 전분, 부침가루 등 필요한 반죽이나 튀김옷을 만든다.\n3. 고기나 해산물은 소금, 간장, 마늘 등으로 가볍게 밑간해 잡내를 줄인다.\n4. 팬이나 냄비에 기름을 충분히 두르고 중불로 예열한 뒤 재료를 넣어 노릇하게 익힌다.\n5. 소스가 필요한 요리는 간장, 고추장, 케첩, 식초, 설탕 등을 끓여 소스를 만든 뒤 재료에 버무린다.\n6. 기름기를 살짝 빼고 접시에 담아 간장치킨을 완성한다."
+  },
+  {
+    "recipe_id": "R172",
+    "recipe_name_ko": "치즈볼",
+    "recipe_name_en": "Cheese Balls",
+    "cuisine": "Korean",
+    "category": "Korean",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "모짜렐라치즈, 찹쌀가루, 계란, 빵가루, 식용유",
+    "essential_ingredients_ko": "모짜렐라치즈, 찹쌀가루, 계란, 빵가루",
+    "used_ingredients": [
+      {
+        "name": "모짜렐라치즈",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "찹쌀가루",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "빵가루",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 모짜렐라치즈, 찹쌀가루, 계란, 빵가루, 식용유를 준비하고, 주재료는 물기를 제거해 튀김옷이나 반죽이 잘 붙도록 한다.\n2. 밀가루, 계란, 빵가루, 전분, 부침가루 등 필요한 반죽이나 튀김옷을 만든다.\n3. 고기나 해산물은 소금, 간장, 마늘 등으로 가볍게 밑간해 잡내를 줄인다.\n4. 팬이나 냄비에 기름을 충분히 두르고 중불로 예열한 뒤 재료를 넣어 노릇하게 익힌다.\n5. 소스가 필요한 요리는 간장, 고추장, 케첩, 식초, 설탕 등을 끓여 소스를 만든 뒤 재료에 버무린다.\n6. 기름기를 살짝 빼고 접시에 담아 치즈볼을 완성한다."
+  },
+  {
+    "recipe_id": "R173",
+    "recipe_name_ko": "규동",
+    "recipe_name_en": "Gyudon",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "밥, 소고기, 양파, 계란, 간장, 설탕, 맛술",
+    "essential_ingredients_ko": "밥, 소고기, 양파, 계란",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "맛술",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 밥을 따뜻하게 준비하고, 밥, 소고기, 양파, 계란, 간장, 설탕, 맛술 중 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 팬에 양파나 대파를 먼저 넣고 볶아 단맛과 향을 낸다.\n3. 간장, 설탕, 맛술 또는 쯔유를 넣어 달짝지근한 덮밥 소스를 만든다.\n4. 주재료를 넣고 소스가 배도록 중불에서 익힌다.\n5. 계란이 들어가는 경우 마지막에 풀어 넣고 너무 완전히 굳기 전에 불을 줄인다.\n6. 밥 위에 토핑과 소스를 올려 규동을 완성한다."
+  },
+  {
+    "recipe_id": "R174",
+    "recipe_name_ko": "텐동",
+    "recipe_name_en": "Tendon",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "밥, 새우, 단호박, 가지, 계란, 튀김가루, 간장",
+    "essential_ingredients_ko": "밥, 새우, 단호박, 가지",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "단호박",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "가지",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "튀김가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 밥을 따뜻하게 준비하고, 밥, 새우, 단호박, 가지, 계란, 튀김가루, 간장 중 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 팬에 양파나 대파를 먼저 넣고 볶아 단맛과 향을 낸다.\n3. 간장, 설탕, 맛술 또는 쯔유를 넣어 달짝지근한 덮밥 소스를 만든다.\n4. 주재료를 넣고 소스가 배도록 중불에서 익힌다.\n5. 계란이 들어가는 경우 마지막에 풀어 넣고 너무 완전히 굳기 전에 불을 줄인다.\n6. 밥 위에 토핑과 소스를 올려 텐동을 완성한다."
+  },
+  {
+    "recipe_id": "R175",
+    "recipe_name_ko": "카츠카레",
+    "recipe_name_en": "Katsu Curry",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "밥, 돈가스, 카레가루, 감자, 당근, 양파",
+    "essential_ingredients_ko": "밥, 돈가스, 카레가루, 감자",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "돈가스",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 밥, 돈가스, 카레가루, 감자, 당근, 양파를 준비하고, 주재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물은 간장, 생강, 마늘 등으로 가볍게 밑간한다.\n3. 팬이나 냄비를 예열하고 재료를 굽거나 튀기거나 끓이는 방식으로 조리한다.\n4. 쯔유, 간장, 설탕, 맛술 등으로 일본식 단짠 양념을 맞춘다.\n5. 밥이나 양배추, 대파 같은 곁들임 재료와 함께 담는다.\n6. 전체 간을 확인한 뒤 카츠카레를 완성한다."
+  },
+  {
+    "recipe_id": "R176",
+    "recipe_name_ko": "돈카츠",
+    "recipe_name_en": "Tonkatsu",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "돼지고기, 밀가루, 계란, 빵가루, 식용유, 양배추",
+    "essential_ingredients_ko": "돼지고기, 밀가루, 계란, 빵가루",
+    "used_ingredients": [
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "밀가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "빵가루",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "양배추",
+        "amount": 120,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 돼지고기, 밀가루, 계란, 빵가루, 식용유, 양배추를 준비하고, 주재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물은 간장, 생강, 마늘 등으로 가볍게 밑간한다.\n3. 팬이나 냄비를 예열하고 재료를 굽거나 튀기거나 끓이는 방식으로 조리한다.\n4. 쯔유, 간장, 설탕, 맛술 등으로 일본식 단짠 양념을 맞춘다.\n5. 밥이나 양배추, 대파 같은 곁들임 재료와 함께 담는다.\n6. 전체 간을 확인한 뒤 돈카츠를 완성한다."
+  },
+  {
+    "recipe_id": "R177",
+    "recipe_name_ko": "치킨가라아게",
+    "recipe_name_en": "Chicken Karaage",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 간장, 생강, 마늘, 전분, 식용유",
+    "essential_ingredients_ko": "닭고기, 간장, 생강, 마늘",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "생강",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "전분",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 간장, 생강, 마늘, 전분, 식용유를 준비하고, 주재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물은 간장, 생강, 마늘 등으로 가볍게 밑간한다.\n3. 팬이나 냄비를 예열하고 재료를 굽거나 튀기거나 끓이는 방식으로 조리한다.\n4. 쯔유, 간장, 설탕, 맛술 등으로 일본식 단짠 양념을 맞춘다.\n5. 밥이나 양배추, 대파 같은 곁들임 재료와 함께 담는다.\n6. 전체 간을 확인한 뒤 치킨가라아게를 완성한다."
+  },
+  {
+    "recipe_id": "R178",
+    "recipe_name_ko": "야키토리",
+    "recipe_name_en": "Yakitori",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 대파, 간장, 설탕, 맛술",
+    "essential_ingredients_ko": "닭고기, 대파, 간장, 설탕",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "맛술",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 대파, 간장, 설탕, 맛술을 준비하고, 주재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물은 간장, 생강, 마늘 등으로 가볍게 밑간한다.\n3. 팬이나 냄비를 예열하고 재료를 굽거나 튀기거나 끓이는 방식으로 조리한다.\n4. 쯔유, 간장, 설탕, 맛술 등으로 일본식 단짠 양념을 맞춘다.\n5. 밥이나 양배추, 대파 같은 곁들임 재료와 함께 담는다.\n6. 전체 간을 확인한 뒤 야키토리를 완성한다."
+  },
+  {
+    "recipe_id": "R179",
+    "recipe_name_ko": "오코노미야키",
+    "recipe_name_en": "Okonomiyaki",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "양배추, 밀가루, 계란, 베이컨, 오코노미야키소스, 마요네즈, 가쓰오부시",
+    "essential_ingredients_ko": "양배추, 밀가루, 계란, 베이컨",
+    "used_ingredients": [
+      {
+        "name": "양배추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "밀가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "베이컨",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "오코노미야키소스",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "마요네즈",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "가쓰오부시",
+        "amount": 5,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 양배추, 밀가루, 계란, 베이컨, 오코노미야키소스, 마요네즈, 가쓰오부시를 준비하고, 주재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물은 간장, 생강, 마늘 등으로 가볍게 밑간한다.\n3. 팬이나 냄비를 예열하고 재료를 굽거나 튀기거나 끓이는 방식으로 조리한다.\n4. 쯔유, 간장, 설탕, 맛술 등으로 일본식 단짠 양념을 맞춘다.\n5. 밥이나 양배추, 대파 같은 곁들임 재료와 함께 담는다.\n6. 전체 간을 확인한 뒤 오코노미야키를 완성한다."
+  },
+  {
+    "recipe_id": "R180",
+    "recipe_name_ko": "타코야키",
+    "recipe_name_en": "Takoyaki",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "타코야키가루, 문어, 계란, 대파, 타코야키소스, 마요네즈, 가쓰오부시",
+    "essential_ingredients_ko": "타코야키가루, 문어, 계란, 대파",
+    "used_ingredients": [
+      {
+        "name": "타코야키가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "문어",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "타코야키소스",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "마요네즈",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "가쓰오부시",
+        "amount": 5,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 타코야키가루, 문어, 계란, 대파, 타코야키소스, 마요네즈, 가쓰오부시를 준비하고, 주재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물은 간장, 생강, 마늘 등으로 가볍게 밑간한다.\n3. 팬이나 냄비를 예열하고 재료를 굽거나 튀기거나 끓이는 방식으로 조리한다.\n4. 쯔유, 간장, 설탕, 맛술 등으로 일본식 단짠 양념을 맞춘다.\n5. 밥이나 양배추, 대파 같은 곁들임 재료와 함께 담는다.\n6. 전체 간을 확인한 뒤 타코야키를 완성한다."
+  },
+  {
+    "recipe_id": "R181",
+    "recipe_name_ko": "야키소바",
+    "recipe_name_en": "Yakisoba",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "중화면, 돼지고기, 양배추, 양파, 당근, 야키소바소스",
+    "essential_ingredients_ko": "중화면, 돼지고기, 양배추, 양파",
+    "used_ingredients": [
+      {
+        "name": "중화면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "양배추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "야키소바소스",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 중화면, 돼지고기, 양배추, 양파, 당근, 야키소바소스를 준비하고, 면은 따로 삶을 수 있게 준비한다.\n2. 육수에 된장, 간장, 쯔유 등 요리에 맞는 양념을 풀어 국물 맛을 만든다.\n3. 돼지고기, 유부, 소고기, 새우튀김 등 토핑은 따로 익히거나 데워둔다.\n4. 면을 삶아 그릇에 담고 뜨거운 국물을 붓는다.\n5. 대파, 계란, 김, 숙주 같은 고명을 보기 좋게 올린다.\n6. 국물 간을 확인하고 야키소바를 완성한다."
+  },
+  {
+    "recipe_id": "R182",
+    "recipe_name_ko": "미소라멘",
+    "recipe_name_en": "Miso Ramen",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "라멘면, 된장, 돼지고기, 숙주, 대파, 계란, 육수",
+    "essential_ingredients_ko": "라멘면, 된장, 돼지고기, 숙주",
+    "used_ingredients": [
+      {
+        "name": "라멘면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "된장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "숙주",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 라멘면, 된장, 돼지고기, 숙주, 대파, 계란, 육수를 준비하고, 면은 따로 삶을 수 있게 준비한다.\n2. 육수에 된장, 간장, 쯔유 등 요리에 맞는 양념을 풀어 국물 맛을 만든다.\n3. 돼지고기, 유부, 소고기, 새우튀김 등 토핑은 따로 익히거나 데워둔다.\n4. 면을 삶아 그릇에 담고 뜨거운 국물을 붓는다.\n5. 대파, 계란, 김, 숙주 같은 고명을 보기 좋게 올린다.\n6. 국물 간을 확인하고 미소라멘을 완성한다."
+  },
+  {
+    "recipe_id": "R183",
+    "recipe_name_ko": "쇼유라멘",
+    "recipe_name_en": "Shoyu Ramen",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "라멘면, 간장, 돼지고기, 계란, 대파, 김, 육수",
+    "essential_ingredients_ko": "라멘면, 간장, 돼지고기, 계란",
+    "used_ingredients": [
+      {
+        "name": "라멘면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "김",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 라멘면, 간장, 돼지고기, 계란, 대파, 김, 육수를 준비하고, 면은 따로 삶을 수 있게 준비한다.\n2. 육수에 된장, 간장, 쯔유 등 요리에 맞는 양념을 풀어 국물 맛을 만든다.\n3. 돼지고기, 유부, 소고기, 새우튀김 등 토핑은 따로 익히거나 데워둔다.\n4. 면을 삶아 그릇에 담고 뜨거운 국물을 붓는다.\n5. 대파, 계란, 김, 숙주 같은 고명을 보기 좋게 올린다.\n6. 국물 간을 확인하고 쇼유라멘을 완성한다."
+  },
+  {
+    "recipe_id": "R184",
+    "recipe_name_ko": "돈코츠라멘",
+    "recipe_name_en": "Tonkotsu Ramen",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "라멘면, 돼지고기, 계란, 숙주, 대파, 김, 육수",
+    "essential_ingredients_ko": "라멘면, 돼지고기, 계란, 숙주",
+    "used_ingredients": [
+      {
+        "name": "라멘면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "숙주",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "김",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 라멘면, 돼지고기, 계란, 숙주, 대파, 김, 육수를 준비하고, 면은 따로 삶을 수 있게 준비한다.\n2. 육수에 된장, 간장, 쯔유 등 요리에 맞는 양념을 풀어 국물 맛을 만든다.\n3. 돼지고기, 유부, 소고기, 새우튀김 등 토핑은 따로 익히거나 데워둔다.\n4. 면을 삶아 그릇에 담고 뜨거운 국물을 붓는다.\n5. 대파, 계란, 김, 숙주 같은 고명을 보기 좋게 올린다.\n6. 국물 간을 확인하고 돈코츠라멘을 완성한다."
+  },
+  {
+    "recipe_id": "R185",
+    "recipe_name_ko": "자루소바",
+    "recipe_name_en": "Zaru Soba",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "메밀면, 쯔유, 무, 김, 대파, 와사비",
+    "essential_ingredients_ko": "메밀면, 쯔유, 무, 김",
+    "used_ingredients": [
+      {
+        "name": "메밀면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "쯔유",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "무",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "김",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "와사비",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 메밀면, 쯔유, 무, 김, 대파, 와사비를 준비하고, 면은 따로 삶을 수 있게 준비한다.\n2. 육수에 된장, 간장, 쯔유 등 요리에 맞는 양념을 풀어 국물 맛을 만든다.\n3. 돼지고기, 유부, 소고기, 새우튀김 등 토핑은 따로 익히거나 데워둔다.\n4. 면을 삶아 그릇에 담고 뜨거운 국물을 붓는다.\n5. 대파, 계란, 김, 숙주 같은 고명을 보기 좋게 올린다.\n6. 국물 간을 확인하고 자루소바를 완성한다."
+  },
+  {
+    "recipe_id": "R186",
+    "recipe_name_ko": "키츠네우동",
+    "recipe_name_en": "Kitsune Udon",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "우동면, 유부, 대파, 쯔유, 육수",
+    "essential_ingredients_ko": "우동면, 유부, 대파, 쯔유",
+    "used_ingredients": [
+      {
+        "name": "우동면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "유부",
+        "amount": 4,
+        "unit": "개"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "쯔유",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 밥을 따뜻하게 준비하고, 우동면, 유부, 대파, 쯔유, 육수 중 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 팬에 양파나 대파를 먼저 넣고 볶아 단맛과 향을 낸다.\n3. 간장, 설탕, 맛술 또는 쯔유를 넣어 달짝지근한 덮밥 소스를 만든다.\n4. 주재료를 넣고 소스가 배도록 중불에서 익힌다.\n5. 계란이 들어가는 경우 마지막에 풀어 넣고 너무 완전히 굳기 전에 불을 줄인다.\n6. 밥 위에 토핑과 소스를 올려 키츠네우동을 완성한다."
+  },
+  {
+    "recipe_id": "R187",
+    "recipe_name_ko": "니쿠우동",
+    "recipe_name_en": "Niku Udon",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "우동면, 소고기, 대파, 쯔유, 육수",
+    "essential_ingredients_ko": "우동면, 소고기, 대파, 쯔유",
+    "used_ingredients": [
+      {
+        "name": "우동면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "쯔유",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 밥을 따뜻하게 준비하고, 우동면, 소고기, 대파, 쯔유, 육수 중 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 팬에 양파나 대파를 먼저 넣고 볶아 단맛과 향을 낸다.\n3. 간장, 설탕, 맛술 또는 쯔유를 넣어 달짝지근한 덮밥 소스를 만든다.\n4. 주재료를 넣고 소스가 배도록 중불에서 익힌다.\n5. 계란이 들어가는 경우 마지막에 풀어 넣고 너무 완전히 굳기 전에 불을 줄인다.\n6. 밥 위에 토핑과 소스를 올려 니쿠우동을 완성한다."
+  },
+  {
+    "recipe_id": "R188",
+    "recipe_name_ko": "미소시루",
+    "recipe_name_en": "Miso Soup",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "된장, 두부, 미역, 대파, 물",
+    "essential_ingredients_ko": "된장, 두부, 미역, 대파",
+    "used_ingredients": [
+      {
+        "name": "된장",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "두부",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "미역",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 된장, 두부, 미역, 대파, 물을 준비하고, 주재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물은 간장, 생강, 마늘 등으로 가볍게 밑간한다.\n3. 팬이나 냄비를 예열하고 재료를 굽거나 튀기거나 끓이는 방식으로 조리한다.\n4. 쯔유, 간장, 설탕, 맛술 등으로 일본식 단짠 양념을 맞춘다.\n5. 밥이나 양배추, 대파 같은 곁들임 재료와 함께 담는다.\n6. 전체 간을 확인한 뒤 미소시루를 완성한다."
+  },
+  {
+    "recipe_id": "R189",
+    "recipe_name_ko": "차완무시",
+    "recipe_name_en": "Chawanmushi",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "계란, 새우, 표고버섯, 닭고기, 쯔유, 물",
+    "essential_ingredients_ko": "계란, 새우, 표고버섯, 닭고기",
+    "used_ingredients": [
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "표고버섯",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "쯔유",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "물",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 계란, 새우, 표고버섯, 닭고기, 쯔유, 물을 준비하고, 주재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물은 간장, 생강, 마늘 등으로 가볍게 밑간한다.\n3. 팬이나 냄비를 예열하고 재료를 굽거나 튀기거나 끓이는 방식으로 조리한다.\n4. 쯔유, 간장, 설탕, 맛술 등으로 일본식 단짠 양념을 맞춘다.\n5. 밥이나 양배추, 대파 같은 곁들임 재료와 함께 담는다.\n6. 전체 간을 확인한 뒤 차완무시를 완성한다."
+  },
+  {
+    "recipe_id": "R190",
+    "recipe_name_ko": "이나리즈시",
+    "recipe_name_en": "Inari Sushi",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "유부, 밥, 식초, 설탕, 깨",
+    "essential_ingredients_ko": "유부, 밥, 식초, 설탕",
+    "used_ingredients": [
+      {
+        "name": "유부",
+        "amount": 4,
+        "unit": "개"
+      },
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "식초",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "깨",
+        "amount": 5,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 유부, 밥, 식초, 설탕, 깨를 준비하고, 주재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물은 간장, 생강, 마늘 등으로 가볍게 밑간한다.\n3. 팬이나 냄비를 예열하고 재료를 굽거나 튀기거나 끓이는 방식으로 조리한다.\n4. 쯔유, 간장, 설탕, 맛술 등으로 일본식 단짠 양념을 맞춘다.\n5. 밥이나 양배추, 대파 같은 곁들임 재료와 함께 담는다.\n6. 전체 간을 확인한 뒤 이나리즈시를 완성한다."
+  },
+  {
+    "recipe_id": "R191",
+    "recipe_name_ko": "캘리포니아롤",
+    "recipe_name_en": "California Roll",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "밥, 김, 게살, 아보카도, 오이, 마요네즈",
+    "essential_ingredients_ko": "밥, 김, 게살, 아보카도",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "김",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "게살",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "아보카도",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "마요네즈",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 밥에 식초와 설탕을 섞어 초밥용 밥을 만들고 한 김 식힌다.\n2. 밥, 김, 게살, 아보카도, 오이, 마요네즈 중 속재료는 길게 썰어 말기 편하게 준비한다.\n3. 김이나 유부를 펼치고 밥을 얇게 펴서 속재료가 가운데 오도록 올린다.\n4. 김밥처럼 단단하게 말거나 유부 안에 밥을 채워 모양을 잡는다.\n5. 칼에 물을 묻혀 먹기 좋은 크기로 자른다.\n6. 마요네즈나 간장을 곁들여 캘리포니아롤을 완성한다."
+  },
+  {
+    "recipe_id": "R192",
+    "recipe_name_ko": "장어덮밥",
+    "recipe_name_en": "Unadon",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "밥, 장어, 간장, 설탕, 맛술, 김",
+    "essential_ingredients_ko": "밥, 장어, 간장, 설탕",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "장어",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "맛술",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "김",
+        "amount": 3,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 밥을 따뜻하게 준비하고, 밥, 장어, 간장, 설탕, 맛술, 김 중 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 팬에 양파나 대파를 먼저 넣고 볶아 단맛과 향을 낸다.\n3. 간장, 설탕, 맛술 또는 쯔유를 넣어 달짝지근한 덮밥 소스를 만든다.\n4. 주재료를 넣고 소스가 배도록 중불에서 익힌다.\n5. 계란이 들어가는 경우 마지막에 풀어 넣고 너무 완전히 굳기 전에 불을 줄인다.\n6. 밥 위에 토핑과 소스를 올려 장어덮밥을 완성한다."
+  },
+  {
+    "recipe_id": "R193",
+    "recipe_name_ko": "규카츠",
+    "recipe_name_en": "Gyukatsu",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "소고기, 밀가루, 계란, 빵가루, 식용유, 양배추",
+    "essential_ingredients_ko": "소고기, 밀가루, 계란, 빵가루",
+    "used_ingredients": [
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "밀가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "빵가루",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "양배추",
+        "amount": 120,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 소고기, 밀가루, 계란, 빵가루, 식용유, 양배추를 준비하고, 주재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물은 간장, 생강, 마늘 등으로 가볍게 밑간한다.\n3. 팬이나 냄비를 예열하고 재료를 굽거나 튀기거나 끓이는 방식으로 조리한다.\n4. 쯔유, 간장, 설탕, 맛술 등으로 일본식 단짠 양념을 맞춘다.\n5. 밥이나 양배추, 대파 같은 곁들임 재료와 함께 담는다.\n6. 전체 간을 확인한 뒤 규카츠를 완성한다."
+  },
+  {
+    "recipe_id": "R194",
+    "recipe_name_ko": "나베야키우동",
+    "recipe_name_en": "Nabeyaki Udon",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "우동면, 새우튀김, 계란, 표고버섯, 대파, 쯔유, 육수",
+    "essential_ingredients_ko": "우동면, 새우튀김, 계란, 표고버섯",
+    "used_ingredients": [
+      {
+        "name": "우동면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "새우튀김",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "표고버섯",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "쯔유",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 밥을 따뜻하게 준비하고, 우동면, 새우튀김, 계란, 표고버섯, 대파, 쯔유, 육수 중 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 팬에 양파나 대파를 먼저 넣고 볶아 단맛과 향을 낸다.\n3. 간장, 설탕, 맛술 또는 쯔유를 넣어 달짝지근한 덮밥 소스를 만든다.\n4. 주재료를 넣고 소스가 배도록 중불에서 익힌다.\n5. 계란이 들어가는 경우 마지막에 풀어 넣고 너무 완전히 굳기 전에 불을 줄인다.\n6. 밥 위에 토핑과 소스를 올려 나베야키우동을 완성한다."
+  },
+  {
+    "recipe_id": "R195",
+    "recipe_name_ko": "스키야키",
+    "recipe_name_en": "Sukiyaki",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "소고기, 두부, 대파, 표고버섯, 배추, 간장, 설탕, 계란",
+    "essential_ingredients_ko": "소고기, 두부, 대파, 표고버섯",
+    "used_ingredients": [
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "두부",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "표고버섯",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "배추",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      }
+    ],
+    "instructions_ko": "1. 소고기, 두부, 대파, 표고버섯, 배추, 간장, 설탕, 계란을 준비하고, 고기는 얇게 썰고 채소와 버섯은 한입 크기로 손질한다.\n2. 냄비에 육수나 간장 베이스 양념을 끓여 기본 맛을 만든다.\n3. 익는 데 오래 걸리는 채소와 두부를 먼저 넣어 국물 맛을 낸다.\n4. 고기는 먹기 직전에 넣어 부드럽게 익히고 오래 끓여 질겨지지 않게 한다.\n5. 계란이나 폰즈소스 등 곁들일 소스를 준비한다.\n6. 재료가 익으면 덜어 먹으며 스키야키를 완성한다."
+  },
+  {
+    "recipe_id": "R196",
+    "recipe_name_ko": "샤브샤브",
+    "recipe_name_en": "Shabu-shabu",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "소고기, 배추, 버섯, 두부, 대파, 육수, 폰즈소스",
+    "essential_ingredients_ko": "소고기, 배추, 버섯, 두부",
+    "used_ingredients": [
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "배추",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "버섯",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "두부",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "폰즈소스",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 소고기, 배추, 버섯, 두부, 대파, 육수, 폰즈소스를 준비하고, 고기는 얇게 썰고 채소와 버섯은 한입 크기로 손질한다.\n2. 냄비에 육수나 간장 베이스 양념을 끓여 기본 맛을 만든다.\n3. 익는 데 오래 걸리는 채소와 두부를 먼저 넣어 국물 맛을 낸다.\n4. 고기는 먹기 직전에 넣어 부드럽게 익히고 오래 끓여 질겨지지 않게 한다.\n5. 계란이나 폰즈소스 등 곁들일 소스를 준비한다.\n6. 재료가 익으면 덜어 먹으며 샤브샤브를 완성한다."
+  },
+  {
+    "recipe_id": "R197",
+    "recipe_name_ko": "고로케",
+    "recipe_name_en": "Korokke",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "감자, 다진소고기, 양파, 밀가루, 계란, 빵가루, 식용유",
+    "essential_ingredients_ko": "감자, 다진소고기, 양파, 밀가루",
+    "used_ingredients": [
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "다진소고기",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "밀가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "빵가루",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 감자, 다진소고기, 양파, 밀가루, 계란, 빵가루, 식용유를 준비하고, 주재료는 먹기 좋은 크기로 손질한다.\n2. 고기나 해산물은 간장, 생강, 마늘 등으로 가볍게 밑간한다.\n3. 팬이나 냄비를 예열하고 재료를 굽거나 튀기거나 끓이는 방식으로 조리한다.\n4. 쯔유, 간장, 설탕, 맛술 등으로 일본식 단짠 양념을 맞춘다.\n5. 밥이나 양배추, 대파 같은 곁들임 재료와 함께 담는다.\n6. 전체 간을 확인한 뒤 고로케를 완성한다."
+  },
+  {
+    "recipe_id": "R198",
+    "recipe_name_ko": "에비동",
+    "recipe_name_en": "Ebi Don",
+    "cuisine": "Japanese",
+    "category": "Japanese",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "밥, 새우튀김, 계란, 양파, 간장, 설탕",
+    "essential_ingredients_ko": "밥, 새우튀김, 계란, 양파",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "새우튀김",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 밥을 따뜻하게 준비하고, 밥, 새우튀김, 계란, 양파, 간장, 설탕 중 고기·해산물·채소는 먹기 좋은 크기로 손질한다.\n2. 팬에 양파나 대파를 먼저 넣고 볶아 단맛과 향을 낸다.\n3. 간장, 설탕, 맛술 또는 쯔유를 넣어 달짝지근한 덮밥 소스를 만든다.\n4. 주재료를 넣고 소스가 배도록 중불에서 익힌다.\n5. 계란이 들어가는 경우 마지막에 풀어 넣고 너무 완전히 굳기 전에 불을 줄인다.\n6. 밥 위에 토핑과 소스를 올려 에비동을 완성한다."
+  },
+  {
+    "recipe_id": "R199",
+    "recipe_name_ko": "짜장면",
+    "recipe_name_en": "Jajangmyeon",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "중화면, 춘장, 돼지고기, 양파, 양배추, 애호박, 식용유",
+    "essential_ingredients_ko": "중화면, 춘장, 돼지고기, 양파",
+    "used_ingredients": [
+      {
+        "name": "중화면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "춘장",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "양배추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "애호박",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 중화면, 춘장, 돼지고기, 양파, 양배추, 애호박, 식용유를 준비하고, 면은 따로 삶아 물기를 빼둔다.\n2. 팬이나 웍에 기름을 두르고 대파, 마늘, 양파 같은 향 재료를 먼저 볶는다.\n3. 고기나 해산물을 넣어 겉면을 익히고, 채소를 넣어 숨이 살짝 죽을 때까지 볶는다.\n4. 춘장, 고춧가루, 굴소스, 육수 등 요리에 맞는 양념을 넣어 소스나 국물을 만든다.\n5. 삶은 면을 그릇에 담고 소스나 국물을 부어 재료가 고르게 올라가게 한다.\n6. 간을 확인하고 부족하면 소금이나 간장으로 조절해 짜장면을 완성한다."
+  },
+  {
+    "recipe_id": "R200",
+    "recipe_name_ko": "짬뽕",
+    "recipe_name_en": "Jjamppong",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "중화면, 오징어, 새우, 홍합, 양배추, 양파, 고춧가루, 육수",
+    "essential_ingredients_ko": "중화면, 오징어, 새우, 홍합",
+    "used_ingredients": [
+      {
+        "name": "중화면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "오징어",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "홍합",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "양배추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 중화면, 오징어, 새우, 홍합, 양배추, 양파, 고춧가루, 육수를 준비하고, 면은 따로 삶아 물기를 빼둔다.\n2. 팬이나 웍에 기름을 두르고 대파, 마늘, 양파 같은 향 재료를 먼저 볶는다.\n3. 고기나 해산물을 넣어 겉면을 익히고, 채소를 넣어 숨이 살짝 죽을 때까지 볶는다.\n4. 춘장, 고춧가루, 굴소스, 육수 등 요리에 맞는 양념을 넣어 소스나 국물을 만든다.\n5. 삶은 면을 그릇에 담고 소스나 국물을 부어 재료가 고르게 올라가게 한다.\n6. 간을 확인하고 부족하면 소금이나 간장으로 조절해 짬뽕을 완성한다."
+  },
+  {
+    "recipe_id": "R201",
+    "recipe_name_ko": "탕수육",
+    "recipe_name_en": "Sweet and Sour Pork",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "돼지고기, 전분, 계란, 식용유, 양파, 당근, 파인애플, 식초, 설탕",
+    "essential_ingredients_ko": "돼지고기, 전분, 계란, 식용유",
+    "used_ingredients": [
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "전분",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "파인애플",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "식초",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 돼지고기, 전분, 계란, 식용유, 양파, 당근, 파인애플, 식초, 설탕을 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 탕수육을 완성한다."
+  },
+  {
+    "recipe_id": "R202",
+    "recipe_name_ko": "깐풍기",
+    "recipe_name_en": "Kkanpunggi",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 전분, 대파, 마늘, 간장, 식초, 고추, 식용유",
+    "essential_ingredients_ko": "닭고기, 전분, 대파, 마늘",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "전분",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "식초",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "고추",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 전분, 대파, 마늘, 간장, 식초, 고추, 식용유를 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 깐풍기를 완성한다."
+  },
+  {
+    "recipe_id": "R203",
+    "recipe_name_ko": "라조기",
+    "recipe_name_en": "Lazi Chicken",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 전분, 고추, 대파, 마늘, 고춧가루, 간장, 식용유",
+    "essential_ingredients_ko": "닭고기, 전분, 고추, 대파",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "전분",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "고추",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "고춧가루",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 전분, 고추, 대파, 마늘, 고춧가루, 간장, 식용유를 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 라조기를 완성한다."
+  },
+  {
+    "recipe_id": "R204",
+    "recipe_name_ko": "유린기",
+    "recipe_name_en": "Yuringi",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 양상추, 대파, 간장, 식초, 설탕, 식용유",
+    "essential_ingredients_ko": "닭고기, 양상추, 대파, 간장",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "양상추",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "식초",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 양상추, 대파, 간장, 식초, 설탕, 식용유를 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 유린기를 완성한다."
+  },
+  {
+    "recipe_id": "R205",
+    "recipe_name_ko": "칠리새우",
+    "recipe_name_en": "Chili Shrimp",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "새우, 전분, 케첩, 칠리소스, 마늘, 양파, 식용유",
+    "essential_ingredients_ko": "새우, 전분, 케첩, 칠리소스",
+    "used_ingredients": [
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "전분",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "케첩",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "칠리소스",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 새우, 전분, 케첩, 칠리소스, 마늘, 양파, 식용유를 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 칠리새우를 완성한다."
+  },
+  {
+    "recipe_id": "R206",
+    "recipe_name_ko": "크림새우",
+    "recipe_name_en": "Cream Shrimp",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "새우, 전분, 마요네즈, 연유, 레몬, 식용유",
+    "essential_ingredients_ko": "새우, 전분, 마요네즈, 연유",
+    "used_ingredients": [
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "전분",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "마요네즈",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "연유",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "레몬",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 새우, 전분, 마요네즈, 연유, 레몬, 식용유를 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 크림새우를 완성한다."
+  },
+  {
+    "recipe_id": "R207",
+    "recipe_name_ko": "멘보샤",
+    "recipe_name_en": "Menbosha",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "식빵, 새우, 계란, 전분, 식용유",
+    "essential_ingredients_ko": "식빵, 새우, 계란, 전분",
+    "used_ingredients": [
+      {
+        "name": "식빵",
+        "amount": 2,
+        "unit": "장"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "전분",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 식빵, 새우, 계란, 전분, 식용유를 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 멘보샤를 완성한다."
+  },
+  {
+    "recipe_id": "R208",
+    "recipe_name_ko": "팔보채",
+    "recipe_name_en": "Eight Treasure Stir-fry",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "새우, 오징어, 해삼, 죽순, 청경채, 표고버섯, 굴소스",
+    "essential_ingredients_ko": "새우, 오징어, 해삼, 죽순",
+    "used_ingredients": [
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "오징어",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "해삼",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "죽순",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "청경채",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "표고버섯",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "굴소스",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 새우, 오징어, 해삼, 죽순, 청경채, 표고버섯, 굴소스를 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 팔보채를 완성한다."
+  },
+  {
+    "recipe_id": "R209",
+    "recipe_name_ko": "유산슬",
+    "recipe_name_en": "Yusanseul",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "돼지고기, 새우, 해삼, 죽순, 표고버섯, 굴소스",
+    "essential_ingredients_ko": "돼지고기, 새우, 해삼, 죽순",
+    "used_ingredients": [
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "해삼",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "죽순",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "표고버섯",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "굴소스",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 돼지고기, 새우, 해삼, 죽순, 표고버섯, 굴소스를 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 유산슬을 완성한다."
+  },
+  {
+    "recipe_id": "R210",
+    "recipe_name_ko": "양장피",
+    "recipe_name_en": "Yangjangpi",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "양장피, 새우, 오징어, 해파리, 오이, 당근, 겨자소스",
+    "essential_ingredients_ko": "양장피, 새우, 오징어, 해파리",
+    "used_ingredients": [
+      {
+        "name": "양장피",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "오징어",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "해파리",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "겨자소스",
+        "amount": 30,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 양장피, 새우, 오징어, 해파리, 오이, 당근, 겨자소스를 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 양장피를 완성한다."
+  },
+  {
+    "recipe_id": "R211",
+    "recipe_name_ko": "고추잡채",
+    "recipe_name_en": "Pepper Japchae",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "돼지고기, 피망, 양파, 죽순, 굴소스, 꽃빵",
+    "essential_ingredients_ko": "돼지고기, 피망, 양파, 죽순",
+    "used_ingredients": [
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "피망",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "죽순",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "굴소스",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "꽃빵",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 돼지고기, 피망, 양파, 죽순, 굴소스, 꽃빵을 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 고추잡채를 완성한다."
+  },
+  {
+    "recipe_id": "R212",
+    "recipe_name_ko": "마라탕",
+    "recipe_name_en": "Mala Tang",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "마라소스, 소고기, 청경채, 숙주, 푸주, 버섯, 당면, 육수",
+    "essential_ingredients_ko": "마라소스, 소고기, 청경채, 숙주",
+    "used_ingredients": [
+      {
+        "name": "마라소스",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "청경채",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "숙주",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "푸주",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "버섯",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "당면",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 마라소스, 소고기, 청경채, 숙주, 푸주, 버섯, 당면, 육수를 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 마라탕을 완성한다."
+  },
+  {
+    "recipe_id": "R213",
+    "recipe_name_ko": "훠궈",
+    "recipe_name_en": "Hot Pot",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "소고기, 양고기, 배추, 버섯, 두부, 당면, 훠궈육수",
+    "essential_ingredients_ko": "소고기, 양고기, 배추, 버섯",
+    "used_ingredients": [
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "양고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "배추",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "버섯",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "두부",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "당면",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "훠궈육수",
+        "amount": 600,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 소고기, 양고기, 배추, 버섯, 두부, 당면, 훠궈육수를 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 훠궈를 완성한다."
+  },
+  {
+    "recipe_id": "R214",
+    "recipe_name_ko": "딤섬",
+    "recipe_name_en": "Dim Sum",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "만두피, 새우, 돼지고기, 부추, 간장",
+    "essential_ingredients_ko": "만두피, 새우, 돼지고기, 부추",
+    "used_ingredients": [
+      {
+        "name": "만두피",
+        "amount": 8,
+        "unit": "장"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "부추",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 만두피, 새우, 돼지고기, 부추, 간장을 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 딤섬을 완성한다."
+  },
+  {
+    "recipe_id": "R215",
+    "recipe_name_ko": "샤오롱바오",
+    "recipe_name_en": "Xiaolongbao",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "만두피, 돼지고기, 젤라틴육수, 대파, 생강",
+    "essential_ingredients_ko": "만두피, 돼지고기, 젤라틴육수, 대파",
+    "used_ingredients": [
+      {
+        "name": "만두피",
+        "amount": 8,
+        "unit": "장"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "젤라틴육수",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "생강",
+        "amount": 5,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 만두피, 돼지고기, 젤라틴육수, 대파, 생강을 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 샤오롱바오를 완성한다."
+  },
+  {
+    "recipe_id": "R216",
+    "recipe_name_ko": "춘권",
+    "recipe_name_en": "Spring Rolls",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "춘권피, 돼지고기, 양배추, 당근, 숙주, 식용유",
+    "essential_ingredients_ko": "춘권피, 돼지고기, 양배추, 당근",
+    "used_ingredients": [
+      {
+        "name": "춘권피",
+        "amount": 8,
+        "unit": "장"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "양배추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "숙주",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 춘권피, 돼지고기, 양배추, 당근, 숙주, 식용유를 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 춘권을 완성한다."
+  },
+  {
+    "recipe_id": "R217",
+    "recipe_name_ko": "완탕면",
+    "recipe_name_en": "Wonton Noodles",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "중화면, 완탕, 새우, 돼지고기, 청경채, 육수",
+    "essential_ingredients_ko": "중화면, 완탕, 새우, 돼지고기",
+    "used_ingredients": [
+      {
+        "name": "중화면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "완탕",
+        "amount": 6,
+        "unit": "개"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "청경채",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 중화면, 완탕, 새우, 돼지고기, 청경채, 육수를 준비하고, 면은 따로 삶아 물기를 빼둔다.\n2. 팬이나 웍에 기름을 두르고 대파, 마늘, 양파 같은 향 재료를 먼저 볶는다.\n3. 고기나 해산물을 넣어 겉면을 익히고, 채소를 넣어 숨이 살짝 죽을 때까지 볶는다.\n4. 춘장, 고춧가루, 굴소스, 육수 등 요리에 맞는 양념을 넣어 소스나 국물을 만든다.\n5. 삶은 면을 그릇에 담고 소스나 국물을 부어 재료가 고르게 올라가게 한다.\n6. 간을 확인하고 부족하면 소금이나 간장으로 조절해 완탕면을 완성한다."
+  },
+  {
+    "recipe_id": "R218",
+    "recipe_name_ko": "탄탄면",
+    "recipe_name_en": "Dan Dan Noodles",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "중화면, 다진돼지고기, 땅콩버터, 두반장, 청경채, 고추기름",
+    "essential_ingredients_ko": "중화면, 다진돼지고기, 땅콩버터, 두반장",
+    "used_ingredients": [
+      {
+        "name": "중화면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "다진돼지고기",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "땅콩버터",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "두반장",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "청경채",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "고추기름",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 중화면, 다진돼지고기, 땅콩버터, 두반장, 청경채, 고추기름을 준비하고, 면은 따로 삶아 물기를 빼둔다.\n2. 팬이나 웍에 기름을 두르고 대파, 마늘, 양파 같은 향 재료를 먼저 볶는다.\n3. 고기나 해산물을 넣어 겉면을 익히고, 채소를 넣어 숨이 살짝 죽을 때까지 볶는다.\n4. 춘장, 고춧가루, 굴소스, 육수 등 요리에 맞는 양념을 넣어 소스나 국물을 만든다.\n5. 삶은 면을 그릇에 담고 소스나 국물을 부어 재료가 고르게 올라가게 한다.\n6. 간을 확인하고 부족하면 소금이나 간장으로 조절해 탄탄면을 완성한다."
+  },
+  {
+    "recipe_id": "R219",
+    "recipe_name_ko": "우육면",
+    "recipe_name_en": "Beef Noodle Soup",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "중화면, 소고기, 청경채, 대파, 간장, 육수",
+    "essential_ingredients_ko": "중화면, 소고기, 청경채, 대파",
+    "used_ingredients": [
+      {
+        "name": "중화면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "청경채",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 중화면, 소고기, 청경채, 대파, 간장, 육수를 준비하고, 면은 따로 삶아 물기를 빼둔다.\n2. 팬이나 웍에 기름을 두르고 대파, 마늘, 양파 같은 향 재료를 먼저 볶는다.\n3. 고기나 해산물을 넣어 겉면을 익히고, 채소를 넣어 숨이 살짝 죽을 때까지 볶는다.\n4. 춘장, 고춧가루, 굴소스, 육수 등 요리에 맞는 양념을 넣어 소스나 국물을 만든다.\n5. 삶은 면을 그릇에 담고 소스나 국물을 부어 재료가 고르게 올라가게 한다.\n6. 간을 확인하고 부족하면 소금이나 간장으로 조절해 우육면을 완성한다."
+  },
+  {
+    "recipe_id": "R220",
+    "recipe_name_ko": "게살볶음밥",
+    "recipe_name_en": "Crab Fried Rice",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "밥, 게살, 계란, 대파, 당근, 간장",
+    "essential_ingredients_ko": "밥, 게살, 계란, 대파",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "게살",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 밥은 고슬고슬하게 준비하고, 밥, 게살, 계란, 대파, 당근, 간장을 잘게 썰어 볶기 좋게 준비한다.\n2. 팬을 충분히 달군 뒤 기름을 두르고 계란을 먼저 볶아 따로 덜어둔다.\n3. 대파와 당근 등 향채소를 볶아 향을 내고 게살이나 고기류를 넣어 익힌다.\n4. 밥을 넣어 센 불에서 고르게 볶고 뭉친 밥알을 풀어준다.\n5. 간장이나 소금으로 간을 맞춘 뒤 덜어둔 계란을 다시 넣어 섞는다.\n6. 전체가 고르게 볶아지면 그릇에 담아 게살볶음밥을 완성한다."
+  },
+  {
+    "recipe_id": "R221",
+    "recipe_name_ko": "홍콩식 프렌치토스트",
+    "recipe_name_en": "Hong Kong French Toast",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "식빵, 땅콩버터, 계란, 우유, 버터, 연유",
+    "essential_ingredients_ko": "식빵, 땅콩버터, 계란, 우유",
+    "used_ingredients": [
+      {
+        "name": "식빵",
+        "amount": 2,
+        "unit": "장"
+      },
+      {
+        "name": "땅콩버터",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "우유",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "버터",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "연유",
+        "amount": 20,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 식빵, 땅콩버터, 계란, 우유, 버터, 연유를 준비하고, 빵이나 타르트쉘은 굽기 좋게 준비한다.\n2. 계란, 우유, 생크림, 설탕 등 속재료를 섞어 부드러운 반죽이나 크림을 만든다.\n3. 빵에는 속재료를 바르고, 타르트쉘에는 크림을 조심스럽게 채운다.\n4. 팬이나 오븐에서 겉이 노릇하고 속이 익을 때까지 굽는다.\n5. 너무 뜨거울 때 자르면 모양이 흐트러질 수 있으므로 잠시 식힌다.\n6. 먹기 좋은 크기로 담아 홍콩식 프렌치토스트를 완성한다."
+  },
+  {
+    "recipe_id": "R222",
+    "recipe_name_ko": "에그타르트",
+    "recipe_name_en": "Egg Tart",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "타르트쉘, 계란, 우유, 생크림, 설탕",
+    "essential_ingredients_ko": "타르트쉘, 계란, 우유, 생크림",
+    "used_ingredients": [
+      {
+        "name": "타르트쉘",
+        "amount": 6,
+        "unit": "개"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "우유",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "생크림",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "설탕",
+        "amount": 15,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 타르트쉘, 계란, 우유, 생크림, 설탕을 준비하고, 빵이나 타르트쉘은 굽기 좋게 준비한다.\n2. 계란, 우유, 생크림, 설탕 등 속재료를 섞어 부드러운 반죽이나 크림을 만든다.\n3. 빵에는 속재료를 바르고, 타르트쉘에는 크림을 조심스럽게 채운다.\n4. 팬이나 오븐에서 겉이 노릇하고 속이 익을 때까지 굽는다.\n5. 너무 뜨거울 때 자르면 모양이 흐트러질 수 있으므로 잠시 식힌다.\n6. 먹기 좋은 크기로 담아 에그타르트를 완성한다."
+  },
+  {
+    "recipe_id": "R223",
+    "recipe_name_ko": "북경오리",
+    "recipe_name_en": "Peking Duck",
+    "cuisine": "Chinese",
+    "category": "Chinese",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "오리, 밀전병, 오이, 대파, 춘장",
+    "essential_ingredients_ko": "오리, 밀전병, 오이, 대파",
+    "used_ingredients": [
+      {
+        "name": "오리",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "밀전병",
+        "amount": 6,
+        "unit": "장"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "춘장",
+        "amount": 60,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 오리, 밀전병, 오이, 대파, 춘장을 준비하고, 고기·해산물·채소는 모두 한입 크기로 손질한다.\n2. 웍이나 팬을 센 불로 달군 뒤 기름을 두르고 마늘과 대파를 먼저 볶아 향을 낸다.\n3. 익는 데 오래 걸리는 고기와 해산물을 먼저 넣고 겉면을 빠르게 익힌다.\n4. 채소를 넣고 숨이 살짝 죽을 정도로 볶은 뒤 굴소스, 간장, 식초, 설탕 등 양념을 넣는다.\n5. 소스가 재료에 고르게 묻도록 빠르게 섞고, 필요하면 전분물로 농도를 맞춘다.\n6. 불을 끄고 접시에 담아 북경오리를 완성한다."
+  },
+  {
+    "recipe_id": "R224",
+    "recipe_name_ko": "쌀국수",
+    "recipe_name_en": "Pho",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "쌀국수면, 소고기, 숙주, 양파, 고수, 라임, 피시소스, 육수",
+    "essential_ingredients_ko": "쌀국수면, 소고기, 숙주, 양파",
+    "used_ingredients": [
+      {
+        "name": "쌀국수면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "숙주",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "고수",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "라임",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "피시소스",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 쌀국수면은 미지근한 물에 불리거나 살짝 삶아 준비한다.\n2. 소고기는 얇게 썰고, 숙주와 양파, 고수, 라임은 고명으로 올릴 수 있게 손질한다.\n3. 육수를 끓이며 피시소스로 간을 맞추고, 필요하면 양파를 넣어 단맛을 낸다.\n4. 그릇에 면을 담고 뜨거운 육수를 부어 면을 따뜻하게 만든다.\n5. 소고기와 숙주, 양파, 고수를 올리고 라임을 곁들인다.\n6. 먹기 직전에 라임즙을 넣어 향을 살리고 쌀국수를 완성한다."
+  },
+  {
+    "recipe_id": "R225",
+    "recipe_name_ko": "분짜",
+    "recipe_name_en": "Bun Cha",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "쌀국수면, 돼지고기, 상추, 당근, 오이, 피시소스, 라임",
+    "essential_ingredients_ko": "쌀국수면, 돼지고기, 상추, 당근",
+    "used_ingredients": [
+      {
+        "name": "쌀국수면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "상추",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "피시소스",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "라임",
+        "amount": 1,
+        "unit": "개"
+      }
+    ],
+    "instructions_ko": "1. 쌀국수면은 삶아 찬물에 헹군 뒤 물기를 뺀다.\n2. 돼지고기는 먹기 좋게 썰어 굽거나 볶아 노릇하게 익힌다.\n3. 상추, 당근, 오이 등 채소는 씻어 얇게 썬다.\n4. 피시소스, 라임, 설탕을 섞어 새콤달콤한 소스를 만든다.\n5. 그릇에 면, 고기, 채소를 따로 담고 소스를 곁들인다.\n6. 먹을 때 면과 채소, 고기를 소스에 적셔 분짜를 완성한다."
+  }
 ]
