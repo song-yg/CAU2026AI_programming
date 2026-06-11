@@ -59,13 +59,13 @@ VS Code 상단 메뉴 → **Terminal → New Terminal**
 터미널 창이 아래쪽에 열리고, 프롬프트가 프로젝트 폴더 경로를 가리키고 있어야 합니다.
 
 ```
-PS C:\...\fridgemate_full_menu_test_fixed>   ← 이런 형태면 정상
+PS C:\...\fridgemate>   ← 이런 형태면 정상
 ```
 
 경로가 다르면 아래 명령어로 이동합니다.
 
 ```bash
-cd fridgemate_full_menu_test_fixed
+cd fridgemate
 ```
 
 ---
@@ -96,7 +96,7 @@ python -m venv venv
 활성화되면 프롬프트 앞에 `(venv)` 가 붙습니다.
 
 ```
-(venv) PS C:\...\fridgemate_full_menu_test_fixed>
+(venv) PS C:\...\fridgemate>
 ```
 
 > ❗ **"이 시스템에서 스크립트를 실행할 수 없습니다"** 오류가 뜨는 경우  
