@@ -10472,5 +10472,3340 @@
       }
     ],
     "instructions_ko": "1. 쌀국수면은 삶아 찬물에 헹군 뒤 물기를 뺀다.\n2. 돼지고기는 먹기 좋게 썰어 굽거나 볶아 노릇하게 익힌다.\n3. 상추, 당근, 오이 등 채소는 씻어 얇게 썬다.\n4. 피시소스, 라임, 설탕을 섞어 새콤달콤한 소스를 만든다.\n5. 그릇에 면, 고기, 채소를 따로 담고 소스를 곁들인다.\n6. 먹을 때 면과 채소, 고기를 소스에 적셔 분짜를 완성한다."
+  },
+  {
+    "recipe_id": "R226",
+    "recipe_name_ko": "반미",
+    "recipe_name_en": "Banh Mi",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "바게트, 돼지고기, 당근, 무, 오이, 고수, 마요네즈",
+    "essential_ingredients_ko": "바게트, 돼지고기, 당근, 무",
+    "used_ingredients": [
+      {
+        "name": "바게트",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "무",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "고수",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "마요네즈",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 바게트는 반으로 갈라 속을 살짝 파내고 겉은 바삭하게 데운다.\n2. 돼지고기는 구워서 얇게 썰고, 당근과 무는 절임처럼 준비한다.\n3. 오이와 고수는 씻어 물기를 빼고 먹기 좋게 썬다.\n4. 바게트 안쪽에 마요네즈를 바른 뒤 고기와 채소를 차례로 넣는다.\n5. 절인 당근과 무를 넣어 새콤한 맛을 더한다.\n6. 빵을 눌러 모양을 잡고 먹기 좋게 잘라 반미를 완성한다."
+  },
+  {
+    "recipe_id": "R227",
+    "recipe_name_ko": "월남쌈",
+    "recipe_name_en": "Vietnamese Rice Paper Rolls",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "라이스페이퍼, 새우, 돼지고기, 상추, 오이, 당근, 쌀국수면",
+    "essential_ingredients_ko": "라이스페이퍼, 새우, 돼지고기, 상추",
+    "used_ingredients": [
+      {
+        "name": "라이스페이퍼",
+        "amount": 6,
+        "unit": "장"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "상추",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "쌀국수면",
+        "amount": 200,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 라이스페이퍼, 새우, 돼지고기, 상추, 오이, 당근, 쌀국수면을 준비하고, 라이스페이퍼와 속재료를 따로 놓는다.\n2. 새우나 돼지고기는 익힌 뒤 얇게 썰고, 채소와 쌀국수면은 말기 좋은 길이로 준비한다.\n3. 라이스페이퍼를 따뜻한 물에 살짝 적셔 부드럽게 만든다.\n4. 라이스페이퍼 위에 상추, 면, 고기, 새우, 채소를 올린다.\n5. 양쪽을 접고 단단하게 말아 속재료가 빠지지 않게 한다.\n6. 피시소스나 땅콩소스를 곁들여 월남쌈을 완성한다."
+  },
+  {
+    "recipe_id": "R228",
+    "recipe_name_ko": "짜조",
+    "recipe_name_en": "Vietnamese Fried Spring Rolls",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "라이스페이퍼, 돼지고기, 당면, 목이버섯, 당근, 식용유",
+    "essential_ingredients_ko": "라이스페이퍼, 돼지고기, 당면, 목이버섯",
+    "used_ingredients": [
+      {
+        "name": "라이스페이퍼",
+        "amount": 6,
+        "unit": "장"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "당면",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "목이버섯",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 라이스페이퍼, 돼지고기, 당면, 목이버섯, 당근, 식용유를 준비하고, 고기·해산물·채소는 볶기 좋게 썰어둔다.\n2. 팬에 기름을 두르고 마늘, 고추, 양파 같은 향 재료를 먼저 볶는다.\n3. 주재료를 넣어 익힌 뒤 밥이나 면을 넣고 함께 볶는다.\n4. 피시소스, 라임, 바질, 고수 등으로 동남아식 향과 간을 맞춘다.\n5. 계란이나 땅콩이 들어가면 마지막에 넣어 식감을 살린다.\n6. 접시에 담고 라임이나 허브를 곁들여 짜조를 완성한다."
+  },
+  {
+    "recipe_id": "R229",
+    "recipe_name_ko": "고이꾸온",
+    "recipe_name_en": "Fresh Spring Rolls",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "라이스페이퍼, 새우, 돼지고기, 상추, 쌀국수면, 고수",
+    "essential_ingredients_ko": "라이스페이퍼, 새우, 돼지고기, 상추",
+    "used_ingredients": [
+      {
+        "name": "라이스페이퍼",
+        "amount": 6,
+        "unit": "장"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "상추",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "쌀국수면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "고수",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 라이스페이퍼, 새우, 돼지고기, 상추, 쌀국수면, 고수를 준비하고, 라이스페이퍼와 속재료를 따로 놓는다.\n2. 새우나 돼지고기는 익힌 뒤 얇게 썰고, 채소와 쌀국수면은 말기 좋은 길이로 준비한다.\n3. 라이스페이퍼를 따뜻한 물에 살짝 적셔 부드럽게 만든다.\n4. 라이스페이퍼 위에 상추, 면, 고기, 새우, 채소를 올린다.\n5. 양쪽을 접고 단단하게 말아 속재료가 빠지지 않게 한다.\n6. 피시소스나 땅콩소스를 곁들여 고이꾸온을 완성한다."
+  },
+  {
+    "recipe_id": "R230",
+    "recipe_name_ko": "똠얌꿍",
+    "recipe_name_en": "Tom Yum Goong",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "새우, 레몬그라스, 라임, 고수, 버섯, 피시소스, 고추, 육수",
+    "essential_ingredients_ko": "새우, 레몬그라스, 라임, 고수",
+    "used_ingredients": [
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "레몬그라스",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "라임",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "고수",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "버섯",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "피시소스",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "고추",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 새우, 레몬그라스, 라임, 고수, 버섯, 피시소스, 고추, 육수를 준비하고, 고기·해산물·채소는 볶기 좋게 썰어둔다.\n2. 팬에 기름을 두르고 마늘, 고추, 양파 같은 향 재료를 먼저 볶는다.\n3. 주재료를 넣어 익힌 뒤 밥이나 면을 넣고 함께 볶는다.\n4. 피시소스, 라임, 바질, 고수 등으로 동남아식 향과 간을 맞춘다.\n5. 계란이나 땅콩이 들어가면 마지막에 넣어 식감을 살린다.\n6. 접시에 담고 라임이나 허브를 곁들여 똠얌꿍을 완성한다."
+  },
+  {
+    "recipe_id": "R231",
+    "recipe_name_ko": "카오팟",
+    "recipe_name_en": "Thai Fried Rice",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "밥, 계란, 새우, 양파, 당근, 피시소스, 라임",
+    "essential_ingredients_ko": "밥, 계란, 새우, 양파",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "피시소스",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "라임",
+        "amount": 1,
+        "unit": "개"
+      }
+    ],
+    "instructions_ko": "1. 밥, 계란, 새우, 양파, 당근, 피시소스, 라임을 준비하고, 고기·해산물·채소는 볶기 좋게 썰어둔다.\n2. 팬에 기름을 두르고 마늘, 고추, 양파 같은 향 재료를 먼저 볶는다.\n3. 주재료를 넣어 익힌 뒤 밥이나 면을 넣고 함께 볶는다.\n4. 피시소스, 라임, 바질, 고수 등으로 동남아식 향과 간을 맞춘다.\n5. 계란이나 땅콩이 들어가면 마지막에 넣어 식감을 살린다.\n6. 접시에 담고 라임이나 허브를 곁들여 카오팟을 완성한다."
+  },
+  {
+    "recipe_id": "R232",
+    "recipe_name_ko": "팟카파오무쌉",
+    "recipe_name_en": "Pad Kra Pao Moo Sap",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "돼지고기, 바질, 마늘, 고추, 피시소스, 밥, 계란",
+    "essential_ingredients_ko": "돼지고기, 바질, 마늘, 고추",
+    "used_ingredients": [
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "바질",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "고추",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "피시소스",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      }
+    ],
+    "instructions_ko": "1. 돼지고기, 바질, 마늘, 고추, 피시소스, 밥, 계란을 준비하고, 고기·해산물·채소는 볶기 좋게 썰어둔다.\n2. 팬에 기름을 두르고 마늘, 고추, 양파 같은 향 재료를 먼저 볶는다.\n3. 주재료를 넣어 익힌 뒤 밥이나 면을 넣고 함께 볶는다.\n4. 피시소스, 라임, 바질, 고수 등으로 동남아식 향과 간을 맞춘다.\n5. 계란이나 땅콩이 들어가면 마지막에 넣어 식감을 살린다.\n6. 접시에 담고 라임이나 허브를 곁들여 팟카파오무쌉을 완성한다."
+  },
+  {
+    "recipe_id": "R233",
+    "recipe_name_ko": "그린커리",
+    "recipe_name_en": "Thai Green Curry",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 그린커리페이스트, 코코넛밀크, 가지, 바질, 피시소스",
+    "essential_ingredients_ko": "닭고기, 그린커리페이스트, 코코넛밀크, 가지",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "그린커리페이스트",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "코코넛밀크",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "가지",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "바질",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "피시소스",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 그린커리페이스트, 코코넛밀크, 가지, 바질, 피시소스를 준비하고, 고기와 채소는 한입 크기로 썬다.\n2. 냄비에 기름을 두르고 커리페이스트나 향신 재료를 먼저 볶아 향을 낸다.\n3. 닭고기, 소고기, 새우 등 주재료를 넣어 겉면을 익힌다.\n4. 코코넛밀크나 육수를 붓고 중불에서 끓여 재료가 부드러워지게 한다.\n5. 피시소스, 라임, 고수 등으로 짠맛과 산미를 맞춘다.\n6. 밥이나 면과 함께 담아 그린커리를 완성한다."
+  },
+  {
+    "recipe_id": "R234",
+    "recipe_name_ko": "레드커리",
+    "recipe_name_en": "Thai Red Curry",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 레드커리페이스트, 코코넛밀크, 죽순, 바질, 피시소스",
+    "essential_ingredients_ko": "닭고기, 레드커리페이스트, 코코넛밀크, 죽순",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "레드커리페이스트",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "코코넛밀크",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "죽순",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "바질",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "피시소스",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 레드커리페이스트, 코코넛밀크, 죽순, 바질, 피시소스를 준비하고, 고기와 채소는 한입 크기로 썬다.\n2. 냄비에 기름을 두르고 커리페이스트나 향신 재료를 먼저 볶아 향을 낸다.\n3. 닭고기, 소고기, 새우 등 주재료를 넣어 겉면을 익힌다.\n4. 코코넛밀크나 육수를 붓고 중불에서 끓여 재료가 부드러워지게 한다.\n5. 피시소스, 라임, 고수 등으로 짠맛과 산미를 맞춘다.\n6. 밥이나 면과 함께 담아 레드커리를 완성한다."
+  },
+  {
+    "recipe_id": "R235",
+    "recipe_name_ko": "뿌팟퐁커리",
+    "recipe_name_en": "Poo Pad Pong Curry",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "꽃게, 계란, 카레가루, 코코넛밀크, 양파, 대파",
+    "essential_ingredients_ko": "꽃게, 계란, 카레가루, 코코넛밀크",
+    "used_ingredients": [
+      {
+        "name": "꽃게",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "코코넛밀크",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "대파",
+        "amount": 30,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 꽃게, 계란, 카레가루, 코코넛밀크, 양파, 대파를 준비하고, 고기와 채소는 한입 크기로 썬다.\n2. 냄비에 기름을 두르고 커리페이스트나 향신 재료를 먼저 볶아 향을 낸다.\n3. 닭고기, 소고기, 새우 등 주재료를 넣어 겉면을 익힌다.\n4. 코코넛밀크나 육수를 붓고 중불에서 끓여 재료가 부드러워지게 한다.\n5. 피시소스, 라임, 고수 등으로 짠맛과 산미를 맞춘다.\n6. 밥이나 면과 함께 담아 뿌팟퐁커리를 완성한다."
+  },
+  {
+    "recipe_id": "R236",
+    "recipe_name_ko": "쏨땀",
+    "recipe_name_en": "Som Tam",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "그린파파야, 방울토마토, 땅콩, 라임, 피시소스, 고추",
+    "essential_ingredients_ko": "그린파파야, 방울토마토, 땅콩, 라임",
+    "used_ingredients": [
+      {
+        "name": "그린파파야",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "방울토마토",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "땅콩",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "라임",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "피시소스",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "고추",
+        "amount": 15,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 그린파파야, 방울토마토, 땅콩, 라임, 피시소스, 고추를 준비하고, 고기·해산물·채소는 볶기 좋게 썰어둔다.\n2. 팬에 기름을 두르고 마늘, 고추, 양파 같은 향 재료를 먼저 볶는다.\n3. 주재료를 넣어 익힌 뒤 밥이나 면을 넣고 함께 볶는다.\n4. 피시소스, 라임, 바질, 고수 등으로 동남아식 향과 간을 맞춘다.\n5. 계란이나 땅콩이 들어가면 마지막에 넣어 식감을 살린다.\n6. 접시에 담고 라임이나 허브를 곁들여 쏨땀을 완성한다."
+  },
+  {
+    "recipe_id": "R237",
+    "recipe_name_ko": "락사",
+    "recipe_name_en": "Laksa",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "쌀국수면, 새우, 닭고기, 코코넛밀크, 락사페이스트, 숙주",
+    "essential_ingredients_ko": "쌀국수면, 새우, 닭고기, 코코넛밀크",
+    "used_ingredients": [
+      {
+        "name": "쌀국수면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "코코넛밀크",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "락사페이스트",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "숙주",
+        "amount": 120,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 쌀국수면, 새우, 닭고기, 코코넛밀크, 락사페이스트, 숙주를 준비하고, 고기와 채소는 한입 크기로 썬다.\n2. 냄비에 기름을 두르고 커리페이스트나 향신 재료를 먼저 볶아 향을 낸다.\n3. 닭고기, 소고기, 새우 등 주재료를 넣어 겉면을 익힌다.\n4. 코코넛밀크나 육수를 붓고 중불에서 끓여 재료가 부드러워지게 한다.\n5. 피시소스, 라임, 고수 등으로 짠맛과 산미를 맞춘다.\n6. 밥이나 면과 함께 담아 락사를 완성한다."
+  },
+  {
+    "recipe_id": "R238",
+    "recipe_name_ko": "미고렝",
+    "recipe_name_en": "Mie Goreng",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "중화면, 계란, 닭고기, 양파, 양배추, 케찹마니스",
+    "essential_ingredients_ko": "중화면, 계란, 닭고기, 양파",
+    "used_ingredients": [
+      {
+        "name": "중화면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "양배추",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "케찹마니스",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 중화면, 계란, 닭고기, 양파, 양배추, 케찹마니스를 준비하고, 고기·해산물·채소는 볶기 좋게 썰어둔다.\n2. 팬에 기름을 두르고 마늘, 고추, 양파 같은 향 재료를 먼저 볶는다.\n3. 주재료를 넣어 익힌 뒤 밥이나 면을 넣고 함께 볶는다.\n4. 피시소스, 라임, 바질, 고수 등으로 동남아식 향과 간을 맞춘다.\n5. 계란이나 땅콩이 들어가면 마지막에 넣어 식감을 살린다.\n6. 접시에 담고 라임이나 허브를 곁들여 미고렝을 완성한다."
+  },
+  {
+    "recipe_id": "R239",
+    "recipe_name_ko": "치킨사테",
+    "recipe_name_en": "Chicken Satay",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 땅콩소스, 코코넛밀크, 라임, 꼬치",
+    "essential_ingredients_ko": "닭고기, 땅콩소스, 코코넛밀크, 라임",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "땅콩소스",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "코코넛밀크",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "라임",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "꼬치",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 땅콩소스, 코코넛밀크, 라임, 꼬치를 준비하고, 고기·해산물·채소는 볶기 좋게 썰어둔다.\n2. 팬에 기름을 두르고 마늘, 고추, 양파 같은 향 재료를 먼저 볶는다.\n3. 주재료를 넣어 익힌 뒤 밥이나 면을 넣고 함께 볶는다.\n4. 피시소스, 라임, 바질, 고수 등으로 동남아식 향과 간을 맞춘다.\n5. 계란이나 땅콩이 들어가면 마지막에 넣어 식감을 살린다.\n6. 접시에 담고 라임이나 허브를 곁들여 치킨사테를 완성한다."
+  },
+  {
+    "recipe_id": "R240",
+    "recipe_name_ko": "하이난치킨라이스",
+    "recipe_name_en": "Hainanese Chicken Rice",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "밥, 닭고기, 오이, 생강, 마늘, 치킨육수",
+    "essential_ingredients_ko": "밥, 닭고기, 오이, 생강",
+    "used_ingredients": [
+      {
+        "name": "밥",
+        "amount": 210,
+        "unit": "g"
+      },
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "생강",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "치킨육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 밥, 닭고기, 오이, 생강, 마늘, 치킨육수를 준비하고, 고기·해산물·채소는 볶기 좋게 썰어둔다.\n2. 팬에 기름을 두르고 마늘, 고추, 양파 같은 향 재료를 먼저 볶는다.\n3. 주재료를 넣어 익힌 뒤 밥이나 면을 넣고 함께 볶는다.\n4. 피시소스, 라임, 바질, 고수 등으로 동남아식 향과 간을 맞춘다.\n5. 계란이나 땅콩이 들어가면 마지막에 넣어 식감을 살린다.\n6. 접시에 담고 라임이나 허브를 곁들여 하이난치킨라이스를 완성한다."
+  },
+  {
+    "recipe_id": "R241",
+    "recipe_name_ko": "카야토스트",
+    "recipe_name_en": "Kaya Toast",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "식빵, 카야잼, 버터, 계란",
+    "essential_ingredients_ko": "식빵, 카야잼, 버터, 계란",
+    "used_ingredients": [
+      {
+        "name": "식빵",
+        "amount": 2,
+        "unit": "장"
+      },
+      {
+        "name": "카야잼",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "버터",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      }
+    ],
+    "instructions_ko": "1. 식빵, 카야잼, 버터, 계란을 준비하고, 고기·해산물·채소는 볶기 좋게 썰어둔다.\n2. 팬에 기름을 두르고 마늘, 고추, 양파 같은 향 재료를 먼저 볶는다.\n3. 주재료를 넣어 익힌 뒤 밥이나 면을 넣고 함께 볶는다.\n4. 피시소스, 라임, 바질, 고수 등으로 동남아식 향과 간을 맞춘다.\n5. 계란이나 땅콩이 들어가면 마지막에 넣어 식감을 살린다.\n6. 접시에 담고 라임이나 허브를 곁들여 카야토스트를 완성한다."
+  },
+  {
+    "recipe_id": "R242",
+    "recipe_name_ko": "렌당",
+    "recipe_name_en": "Rendang",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "소고기, 코코넛밀크, 렌당페이스트, 양파, 마늘, 생강",
+    "essential_ingredients_ko": "소고기, 코코넛밀크, 렌당페이스트, 양파",
+    "used_ingredients": [
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "코코넛밀크",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "렌당페이스트",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "생강",
+        "amount": 5,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 소고기, 코코넛밀크, 렌당페이스트, 양파, 마늘, 생강을 준비하고, 고기와 채소는 한입 크기로 썬다.\n2. 냄비에 기름을 두르고 커리페이스트나 향신 재료를 먼저 볶아 향을 낸다.\n3. 닭고기, 소고기, 새우 등 주재료를 넣어 겉면을 익힌다.\n4. 코코넛밀크나 육수를 붓고 중불에서 끓여 재료가 부드러워지게 한다.\n5. 피시소스, 라임, 고수 등으로 짠맛과 산미를 맞춘다.\n6. 밥이나 면과 함께 담아 렌당을 완성한다."
+  },
+  {
+    "recipe_id": "R243",
+    "recipe_name_ko": "아도보",
+    "recipe_name_en": "Chicken Adobo",
+    "cuisine": "Southeast Asian",
+    "category": "Southeast Asian",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 돼지고기, 간장, 식초, 마늘, 월계수잎",
+    "essential_ingredients_ko": "닭고기, 돼지고기, 간장, 식초",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "간장",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "식초",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "월계수잎",
+        "amount": 2,
+        "unit": "장"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 돼지고기, 간장, 식초, 마늘, 월계수잎을 준비하고, 고기·해산물·채소는 볶기 좋게 썰어둔다.\n2. 팬에 기름을 두르고 마늘, 고추, 양파 같은 향 재료를 먼저 볶는다.\n3. 주재료를 넣어 익힌 뒤 밥이나 면을 넣고 함께 볶는다.\n4. 피시소스, 라임, 바질, 고수 등으로 동남아식 향과 간을 맞춘다.\n5. 계란이나 땅콩이 들어가면 마지막에 넣어 식감을 살린다.\n6. 접시에 담고 라임이나 허브를 곁들여 아도보를 완성한다."
+  },
+  {
+    "recipe_id": "R244",
+    "recipe_name_ko": "버터치킨",
+    "recipe_name_en": "Butter Chicken",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 버터, 토마토, 생크림, 카레가루, 양파",
+    "essential_ingredients_ko": "닭고기, 버터, 토마토, 생크림",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "버터",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "생크림",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 버터, 토마토, 생크림, 카레가루, 양파를 준비하고, 고기나 채소는 한입 크기로 손질한다.\n2. 팬에 기름이나 버터를 두르고 양파, 마늘, 생강을 먼저 볶아 단맛과 향을 낸다.\n3. 카레가루나 향신료를 넣고 짧게 볶아 향을 살린다.\n4. 주재료를 넣고 겉면을 익힌 뒤 토마토, 요거트, 생크림 등을 넣어 소스를 만든다.\n5. 중약불에서 재료가 부드러워질 때까지 끓이고 농도가 너무 되면 물을 조금 더한다.\n6. 밥이나 난과 함께 담아 버터치킨을 완성한다."
+  },
+  {
+    "recipe_id": "R245",
+    "recipe_name_ko": "치킨티카마살라",
+    "recipe_name_en": "Chicken Tikka Masala",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 요거트, 토마토, 생크림, 카레가루, 양파",
+    "essential_ingredients_ko": "닭고기, 요거트, 토마토, 생크림",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "요거트",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "생크림",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 요거트, 토마토, 생크림, 카레가루, 양파를 준비하고, 고기나 채소는 한입 크기로 손질한다.\n2. 팬에 기름이나 버터를 두르고 양파, 마늘, 생강을 먼저 볶아 단맛과 향을 낸다.\n3. 카레가루나 향신료를 넣고 짧게 볶아 향을 살린다.\n4. 주재료를 넣고 겉면을 익힌 뒤 토마토, 요거트, 생크림 등을 넣어 소스를 만든다.\n5. 중약불에서 재료가 부드러워질 때까지 끓이고 농도가 너무 되면 물을 조금 더한다.\n6. 밥이나 난과 함께 담아 치킨티카마살라를 완성한다."
+  },
+  {
+    "recipe_id": "R246",
+    "recipe_name_ko": "탄두리치킨",
+    "recipe_name_en": "Tandoori Chicken",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 요거트, 카레가루, 레몬, 마늘, 생강",
+    "essential_ingredients_ko": "닭고기, 요거트, 카레가루, 레몬",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "요거트",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "레몬",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "생강",
+        "amount": 5,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 요거트, 카레가루, 레몬, 마늘, 생강을 준비하고, 고기나 채소는 한입 크기로 손질한다.\n2. 팬에 기름이나 버터를 두르고 양파, 마늘, 생강을 먼저 볶아 단맛과 향을 낸다.\n3. 카레가루나 향신료를 넣고 짧게 볶아 향을 살린다.\n4. 주재료를 넣고 겉면을 익힌 뒤 토마토, 요거트, 생크림 등을 넣어 소스를 만든다.\n5. 중약불에서 재료가 부드러워질 때까지 끓이고 농도가 너무 되면 물을 조금 더한다.\n6. 밥이나 난과 함께 담아 탄두리치킨을 완성한다."
+  },
+  {
+    "recipe_id": "R247",
+    "recipe_name_ko": "팔락파니르",
+    "recipe_name_en": "Palak Paneer",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "시금치, 파니르, 양파, 토마토, 카레가루, 생크림",
+    "essential_ingredients_ko": "시금치, 파니르, 양파, 토마토",
+    "used_ingredients": [
+      {
+        "name": "시금치",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "파니르",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "생크림",
+        "amount": 100,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 시금치, 파니르, 양파, 토마토, 카레가루, 생크림을 준비하고, 고기나 채소는 한입 크기로 손질한다.\n2. 팬에 기름이나 버터를 두르고 양파, 마늘, 생강을 먼저 볶아 단맛과 향을 낸다.\n3. 카레가루나 향신료를 넣고 짧게 볶아 향을 살린다.\n4. 주재료를 넣고 겉면을 익힌 뒤 토마토, 요거트, 생크림 등을 넣어 소스를 만든다.\n5. 중약불에서 재료가 부드러워질 때까지 끓이고 농도가 너무 되면 물을 조금 더한다.\n6. 밥이나 난과 함께 담아 팔락파니르를 완성한다."
+  },
+  {
+    "recipe_id": "R248",
+    "recipe_name_ko": "차나마살라",
+    "recipe_name_en": "Chana Masala",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "병아리콩, 토마토, 양파, 카레가루, 마늘, 생강",
+    "essential_ingredients_ko": "병아리콩, 토마토, 양파, 카레가루",
+    "used_ingredients": [
+      {
+        "name": "병아리콩",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "생강",
+        "amount": 5,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 병아리콩, 토마토, 양파, 카레가루, 마늘, 생강을 준비하고, 고기나 채소는 한입 크기로 손질한다.\n2. 팬에 기름이나 버터를 두르고 양파, 마늘, 생강을 먼저 볶아 단맛과 향을 낸다.\n3. 카레가루나 향신료를 넣고 짧게 볶아 향을 살린다.\n4. 주재료를 넣고 겉면을 익힌 뒤 토마토, 요거트, 생크림 등을 넣어 소스를 만든다.\n5. 중약불에서 재료가 부드러워질 때까지 끓이고 농도가 너무 되면 물을 조금 더한다.\n6. 밥이나 난과 함께 담아 차나마살라를 완성한다."
+  },
+  {
+    "recipe_id": "R249",
+    "recipe_name_ko": "알루고비",
+    "recipe_name_en": "Aloo Gobi",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "감자, 콜리플라워, 토마토, 양파, 카레가루",
+    "essential_ingredients_ko": "감자, 콜리플라워, 토마토, 양파",
+    "used_ingredients": [
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "콜리플라워",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 감자, 콜리플라워, 토마토, 양파, 카레가루를 준비하고, 고기나 채소는 한입 크기로 손질한다.\n2. 팬에 기름이나 버터를 두르고 양파, 마늘, 생강을 먼저 볶아 단맛과 향을 낸다.\n3. 카레가루나 향신료를 넣고 짧게 볶아 향을 살린다.\n4. 주재료를 넣고 겉면을 익힌 뒤 토마토, 요거트, 생크림 등을 넣어 소스를 만든다.\n5. 중약불에서 재료가 부드러워질 때까지 끓이고 농도가 너무 되면 물을 조금 더한다.\n6. 밥이나 난과 함께 담아 알루고비를 완성한다."
+  },
+  {
+    "recipe_id": "R250",
+    "recipe_name_ko": "달마크니",
+    "recipe_name_en": "Dal Makhani",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "렌틸콩, 강낭콩, 토마토, 버터, 생크림, 카레가루",
+    "essential_ingredients_ko": "렌틸콩, 강낭콩, 토마토, 버터",
+    "used_ingredients": [
+      {
+        "name": "렌틸콩",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "강낭콩",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "버터",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "생크림",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 렌틸콩, 강낭콩, 토마토, 버터, 생크림, 카레가루를 준비하고, 고기나 채소는 한입 크기로 손질한다.\n2. 팬에 기름이나 버터를 두르고 양파, 마늘, 생강을 먼저 볶아 단맛과 향을 낸다.\n3. 카레가루나 향신료를 넣고 짧게 볶아 향을 살린다.\n4. 주재료를 넣고 겉면을 익힌 뒤 토마토, 요거트, 생크림 등을 넣어 소스를 만든다.\n5. 중약불에서 재료가 부드러워질 때까지 끓이고 농도가 너무 되면 물을 조금 더한다.\n6. 밥이나 난과 함께 담아 달마크니를 완성한다."
+  },
+  {
+    "recipe_id": "R251",
+    "recipe_name_ko": "치킨비리야니",
+    "recipe_name_en": "Chicken Biryani",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "바스마티쌀, 닭고기, 요거트, 양파, 카레가루, 민트",
+    "essential_ingredients_ko": "바스마티쌀, 닭고기, 요거트, 양파",
+    "used_ingredients": [
+      {
+        "name": "바스마티쌀",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "요거트",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "민트",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 바스마티쌀, 닭고기, 요거트, 양파, 카레가루, 민트를 준비하고, 고기나 채소는 한입 크기로 손질한다.\n2. 팬에 기름이나 버터를 두르고 양파, 마늘, 생강을 먼저 볶아 단맛과 향을 낸다.\n3. 카레가루나 향신료를 넣고 짧게 볶아 향을 살린다.\n4. 주재료를 넣고 겉면을 익힌 뒤 토마토, 요거트, 생크림 등을 넣어 소스를 만든다.\n5. 중약불에서 재료가 부드러워질 때까지 끓이고 농도가 너무 되면 물을 조금 더한다.\n6. 밥이나 난과 함께 담아 치킨비리야니를 완성한다."
+  },
+  {
+    "recipe_id": "R252",
+    "recipe_name_ko": "베지비리야니",
+    "recipe_name_en": "Vegetable Biryani",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "바스마티쌀, 감자, 당근, 완두콩, 양파, 카레가루",
+    "essential_ingredients_ko": "바스마티쌀, 감자, 당근, 완두콩",
+    "used_ingredients": [
+      {
+        "name": "바스마티쌀",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "완두콩",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 바스마티쌀, 감자, 당근, 완두콩, 양파, 카레가루를 준비하고, 고기나 채소는 한입 크기로 손질한다.\n2. 팬에 기름이나 버터를 두르고 양파, 마늘, 생강을 먼저 볶아 단맛과 향을 낸다.\n3. 카레가루나 향신료를 넣고 짧게 볶아 향을 살린다.\n4. 주재료를 넣고 겉면을 익힌 뒤 토마토, 요거트, 생크림 등을 넣어 소스를 만든다.\n5. 중약불에서 재료가 부드러워질 때까지 끓이고 농도가 너무 되면 물을 조금 더한다.\n6. 밥이나 난과 함께 담아 베지비리야니를 완성한다."
+  },
+  {
+    "recipe_id": "R253",
+    "recipe_name_ko": "사모사",
+    "recipe_name_en": "Samosa",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "밀가루, 감자, 완두콩, 카레가루, 식용유",
+    "essential_ingredients_ko": "밀가루, 감자, 완두콩, 카레가루",
+    "used_ingredients": [
+      {
+        "name": "밀가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "완두콩",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 밀가루, 감자, 완두콩, 카레가루, 식용유를 준비하고, 고기나 채소는 한입 크기로 손질한다.\n2. 팬에 기름이나 버터를 두르고 양파, 마늘, 생강을 먼저 볶아 단맛과 향을 낸다.\n3. 카레가루나 향신료를 넣고 짧게 볶아 향을 살린다.\n4. 주재료를 넣고 겉면을 익힌 뒤 토마토, 요거트, 생크림 등을 넣어 소스를 만든다.\n5. 중약불에서 재료가 부드러워질 때까지 끓이고 농도가 너무 되면 물을 조금 더한다.\n6. 밥이나 난과 함께 담아 사모사를 완성한다."
+  },
+  {
+    "recipe_id": "R254",
+    "recipe_name_ko": "난",
+    "recipe_name_en": "Naan",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "밀가루, 요거트, 이스트, 버터, 소금",
+    "essential_ingredients_ko": "밀가루, 요거트, 이스트, 버터",
+    "used_ingredients": [
+      {
+        "name": "밀가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "요거트",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "이스트",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "버터",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "소금",
+        "amount": 3,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 밀가루, 요거트, 이스트, 소금을 섞어 반죽을 만든다.\n2. 반죽이 매끈해질 때까지 치댄 뒤 따뜻한 곳에서 발효시킨다.\n3. 발효된 반죽을 여러 덩어리로 나누고 얇고 길게 밀어준다.\n4. 달군 팬에 반죽을 올려 한쪽 면에 기포가 올라올 때까지 굽는다.\n5. 뒤집어서 반대쪽도 노릇하게 굽고, 뜨거울 때 버터를 바른다.\n6. 커리와 함께 곁들여 먹기 좋게 난을 완성한다."
+  },
+  {
+    "recipe_id": "R255",
+    "recipe_name_ko": "망고라씨",
+    "recipe_name_en": "Mango Lassi",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "망고, 요거트, 우유, 꿀",
+    "essential_ingredients_ko": "망고, 요거트, 우유, 꿀",
+    "used_ingredients": [
+      {
+        "name": "망고",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "요거트",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "우유",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "꿀",
+        "amount": 20,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 망고는 껍질과 씨를 제거하고 과육만 준비한다.\n2. 믹서에 망고, 요거트, 우유, 꿀을 넣고 곱게 갈아준다.\n3. 덩어리가 남으면 다시 한 번 갈아 부드러운 질감을 만든다.\n4. 농도가 너무 되직하면 우유를 조금 더 넣어 조절한다.\n5. 단맛이 부족하면 꿀을 조금 추가하고, 차갑게 먹고 싶으면 얼음을 넣는다.\n6. 컵에 담아 차갑게 내면 망고라씨가 완성된다."
+  },
+  {
+    "recipe_id": "R256",
+    "recipe_name_ko": "키마커리",
+    "recipe_name_en": "Keema Curry",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "다진소고기, 양파, 토마토, 카레가루, 완두콩",
+    "essential_ingredients_ko": "다진소고기, 양파, 토마토, 카레가루",
+    "used_ingredients": [
+      {
+        "name": "다진소고기",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "완두콩",
+        "amount": 80,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 다진소고기, 양파, 토마토, 카레가루, 완두콩을 준비하고, 고기나 채소는 한입 크기로 손질한다.\n2. 팬에 기름이나 버터를 두르고 양파, 마늘, 생강을 먼저 볶아 단맛과 향을 낸다.\n3. 카레가루나 향신료를 넣고 짧게 볶아 향을 살린다.\n4. 주재료를 넣고 겉면을 익힌 뒤 토마토, 요거트, 생크림 등을 넣어 소스를 만든다.\n5. 중약불에서 재료가 부드러워질 때까지 끓이고 농도가 너무 되면 물을 조금 더한다.\n6. 밥이나 난과 함께 담아 키마커리를 완성한다."
+  },
+  {
+    "recipe_id": "R257",
+    "recipe_name_ko": "라즈마",
+    "recipe_name_en": "Rajma",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "강낭콩, 토마토, 양파, 카레가루, 마늘",
+    "essential_ingredients_ko": "강낭콩, 토마토, 양파, 카레가루",
+    "used_ingredients": [
+      {
+        "name": "강낭콩",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 강낭콩, 토마토, 양파, 카레가루, 마늘을 준비하고, 고기나 채소는 한입 크기로 손질한다.\n2. 팬에 기름이나 버터를 두르고 양파, 마늘, 생강을 먼저 볶아 단맛과 향을 낸다.\n3. 카레가루나 향신료를 넣고 짧게 볶아 향을 살린다.\n4. 주재료를 넣고 겉면을 익힌 뒤 토마토, 요거트, 생크림 등을 넣어 소스를 만든다.\n5. 중약불에서 재료가 부드러워질 때까지 끓이고 농도가 너무 되면 물을 조금 더한다.\n6. 밥이나 난과 함께 담아 라즈마를 완성한다."
+  },
+  {
+    "recipe_id": "R258",
+    "recipe_name_ko": "파니르티카",
+    "recipe_name_en": "Paneer Tikka",
+    "cuisine": "Indian",
+    "category": "Indian",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 2,
+    "servings": 2,
+    "ingredients_ko": "파니르, 요거트, 카레가루, 파프리카, 양파",
+    "essential_ingredients_ko": "파니르, 요거트, 카레가루, 파프리카",
+    "used_ingredients": [
+      {
+        "name": "파니르",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "요거트",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "카레가루",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "파프리카",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 파니르, 요거트, 카레가루, 파프리카, 양파를 준비하고, 고기나 채소는 한입 크기로 손질한다.\n2. 팬에 기름이나 버터를 두르고 양파, 마늘, 생강을 먼저 볶아 단맛과 향을 낸다.\n3. 카레가루나 향신료를 넣고 짧게 볶아 향을 살린다.\n4. 주재료를 넣고 겉면을 익힌 뒤 토마토, 요거트, 생크림 등을 넣어 소스를 만든다.\n5. 중약불에서 재료가 부드러워질 때까지 끓이고 농도가 너무 되면 물을 조금 더한다.\n6. 밥이나 난과 함께 담아 파니르티카를 완성한다."
+  },
+  {
+    "recipe_id": "R259",
+    "recipe_name_ko": "마르게리타피자",
+    "recipe_name_en": "Margherita Pizza",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "피자도우, 토마토소스, 모짜렐라치즈, 바질, 올리브유",
+    "essential_ingredients_ko": "피자도우, 토마토소스, 모짜렐라치즈, 바질",
+    "used_ingredients": [
+      {
+        "name": "피자도우",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "토마토소스",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "모짜렐라치즈",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "바질",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "올리브유",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 피자도우를 준비하고, 피자도우, 토마토소스, 모짜렐라치즈, 바질, 올리브유 중 토핑 재료는 얇게 썬다.\n2. 도우 위에 토마토소스나 치즈 베이스를 고르게 펴 바른다.\n3. 모짜렐라치즈와 주재료를 골고루 올리고, 바질이나 꿀처럼 마무리 재료는 용도에 맞게 준비한다.\n4. 예열한 오븐이나 팬에서 도우 가장자리가 노릇해질 때까지 굽는다.\n5. 치즈가 녹고 토핑이 익으면 꺼내 잠시 식힌다.\n6. 먹기 좋은 크기로 잘라 마르게리타피자를 완성한다."
+  },
+  {
+    "recipe_id": "R260",
+    "recipe_name_ko": "페퍼로니피자",
+    "recipe_name_en": "Pepperoni Pizza",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "피자도우, 토마토소스, 모짜렐라치즈, 페퍼로니",
+    "essential_ingredients_ko": "피자도우, 토마토소스, 모짜렐라치즈, 페퍼로니",
+    "used_ingredients": [
+      {
+        "name": "피자도우",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "토마토소스",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "모짜렐라치즈",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "페퍼로니",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 피자도우를 준비하고, 피자도우, 토마토소스, 모짜렐라치즈, 페퍼로니 중 토핑 재료는 얇게 썬다.\n2. 도우 위에 토마토소스나 치즈 베이스를 고르게 펴 바른다.\n3. 모짜렐라치즈와 주재료를 골고루 올리고, 바질이나 꿀처럼 마무리 재료는 용도에 맞게 준비한다.\n4. 예열한 오븐이나 팬에서 도우 가장자리가 노릇해질 때까지 굽는다.\n5. 치즈가 녹고 토핑이 익으면 꺼내 잠시 식힌다.\n6. 먹기 좋은 크기로 잘라 페퍼로니피자를 완성한다."
+  },
+  {
+    "recipe_id": "R261",
+    "recipe_name_ko": "고르곤졸라피자",
+    "recipe_name_en": "Gorgonzola Pizza",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "피자도우, 고르곤졸라치즈, 모짜렐라치즈, 꿀",
+    "essential_ingredients_ko": "피자도우, 고르곤졸라치즈, 모짜렐라치즈, 꿀",
+    "used_ingredients": [
+      {
+        "name": "피자도우",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "고르곤졸라치즈",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "모짜렐라치즈",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "꿀",
+        "amount": 20,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 피자도우를 준비하고, 피자도우, 고르곤졸라치즈, 모짜렐라치즈, 꿀 중 토핑 재료는 얇게 썬다.\n2. 도우 위에 토마토소스나 치즈 베이스를 고르게 펴 바른다.\n3. 모짜렐라치즈와 주재료를 골고루 올리고, 바질이나 꿀처럼 마무리 재료는 용도에 맞게 준비한다.\n4. 예열한 오븐이나 팬에서 도우 가장자리가 노릇해질 때까지 굽는다.\n5. 치즈가 녹고 토핑이 익으면 꺼내 잠시 식힌다.\n6. 먹기 좋은 크기로 잘라 고르곤졸라피자를 완성한다."
+  },
+  {
+    "recipe_id": "R262",
+    "recipe_name_ko": "라자냐",
+    "recipe_name_en": "Lasagna",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "라자냐면, 다진소고기, 토마토소스, 베샤멜소스, 모짜렐라치즈",
+    "essential_ingredients_ko": "라자냐면, 다진소고기, 토마토소스, 베샤멜소스",
+    "used_ingredients": [
+      {
+        "name": "라자냐면",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "다진소고기",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "토마토소스",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "베샤멜소스",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "모짜렐라치즈",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 라자냐면, 다진소고기, 토마토소스, 베샤멜소스, 모짜렐라치즈를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 라자냐를 완성한다."
+  },
+  {
+    "recipe_id": "R263",
+    "recipe_name_ko": "버섯리조또",
+    "recipe_name_en": "Mushroom Risotto",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "리조또쌀, 버섯, 양파, 버터, 치즈, 육수",
+    "essential_ingredients_ko": "리조또쌀, 버섯, 양파, 버터",
+    "used_ingredients": [
+      {
+        "name": "리조또쌀",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "버섯",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "버터",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 리조또쌀, 버섯, 양파, 버터, 치즈, 육수를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 버섯리조또를 완성한다."
+  },
+  {
+    "recipe_id": "R264",
+    "recipe_name_ko": "해산물리조또",
+    "recipe_name_en": "Seafood Risotto",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "리조또쌀, 새우, 오징어, 홍합, 토마토소스, 양파, 육수",
+    "essential_ingredients_ko": "리조또쌀, 새우, 오징어, 홍합",
+    "used_ingredients": [
+      {
+        "name": "리조또쌀",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "새우",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "오징어",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "홍합",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "토마토소스",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 리조또쌀, 새우, 오징어, 홍합, 토마토소스, 양파, 육수를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 해산물리조또를 완성한다."
+  },
+  {
+    "recipe_id": "R265",
+    "recipe_name_ko": "까르보나라",
+    "recipe_name_en": "Carbonara",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "파스타면, 베이컨, 계란, 파마산치즈, 후추",
+    "essential_ingredients_ko": "파스타면, 베이컨, 계란, 파마산치즈",
+    "used_ingredients": [
+      {
+        "name": "파스타면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "베이컨",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "파마산치즈",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "후추",
+        "amount": 2,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 파스타면, 베이컨, 계란, 파마산치즈, 후추를 준비하고, 파스타면은 소금을 넣은 끓는 물에 알맞게 삶는다.\n2. 팬에 올리브유나 버터를 두르고 마늘, 양파, 베이컨, 해산물 등 향과 맛을 내는 재료를 먼저 볶는다.\n3. 토마토소스, 크림, 치즈, 바질페스토 등 요리에 맞는 소스를 넣어 농도를 맞춘다.\n4. 삶은 면을 팬에 넣고 면수나 육수를 조금 더해 소스가 면에 잘 묻게 섞는다.\n5. 부족한 간은 소금, 후추, 치즈로 맞춘다.\n6. 접시에 담고 치즈나 허브를 올려 까르보나라를 완성한다."
+  },
+  {
+    "recipe_id": "R266",
+    "recipe_name_ko": "볼로네제파스타",
+    "recipe_name_en": "Bolognese Pasta",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "파스타면, 다진소고기, 토마토소스, 양파, 마늘",
+    "essential_ingredients_ko": "파스타면, 다진소고기, 토마토소스, 양파",
+    "used_ingredients": [
+      {
+        "name": "파스타면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "다진소고기",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "토마토소스",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 파스타면, 다진소고기, 토마토소스, 양파, 마늘을 준비하고, 파스타면은 소금을 넣은 끓는 물에 알맞게 삶는다.\n2. 팬에 올리브유나 버터를 두르고 마늘, 양파, 베이컨, 해산물 등 향과 맛을 내는 재료를 먼저 볶는다.\n3. 토마토소스, 크림, 치즈, 바질페스토 등 요리에 맞는 소스를 넣어 농도를 맞춘다.\n4. 삶은 면을 팬에 넣고 면수나 육수를 조금 더해 소스가 면에 잘 묻게 섞는다.\n5. 부족한 간은 소금, 후추, 치즈로 맞춘다.\n6. 접시에 담고 치즈나 허브를 올려 볼로네제파스타를 완성한다."
+  },
+  {
+    "recipe_id": "R267",
+    "recipe_name_ko": "봉골레파스타",
+    "recipe_name_en": "Vongole Pasta",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "파스타면, 바지락, 마늘, 올리브유, 페페론치노",
+    "essential_ingredients_ko": "파스타면, 바지락, 마늘, 올리브유",
+    "used_ingredients": [
+      {
+        "name": "파스타면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "바지락",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "올리브유",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "페페론치노",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 파스타면, 바지락, 마늘, 올리브유, 페페론치노를 준비하고, 파스타면은 소금을 넣은 끓는 물에 알맞게 삶는다.\n2. 팬에 올리브유나 버터를 두르고 마늘, 양파, 베이컨, 해산물 등 향과 맛을 내는 재료를 먼저 볶는다.\n3. 토마토소스, 크림, 치즈, 바질페스토 등 요리에 맞는 소스를 넣어 농도를 맞춘다.\n4. 삶은 면을 팬에 넣고 면수나 육수를 조금 더해 소스가 면에 잘 묻게 섞는다.\n5. 부족한 간은 소금, 후추, 치즈로 맞춘다.\n6. 접시에 담고 치즈나 허브를 올려 봉골레파스타를 완성한다."
+  },
+  {
+    "recipe_id": "R268",
+    "recipe_name_ko": "바질페스토파스타",
+    "recipe_name_en": "Pesto Pasta",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "파스타면, 바질페스토, 마늘, 올리브유, 파마산치즈",
+    "essential_ingredients_ko": "파스타면, 바질페스토, 마늘, 올리브유",
+    "used_ingredients": [
+      {
+        "name": "파스타면",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "바질페스토",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "올리브유",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "파마산치즈",
+        "amount": 30,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 파스타면, 바질페스토, 마늘, 올리브유, 파마산치즈를 준비하고, 파스타면은 소금을 넣은 끓는 물에 알맞게 삶는다.\n2. 팬에 올리브유나 버터를 두르고 마늘, 양파, 베이컨, 해산물 등 향과 맛을 내는 재료를 먼저 볶는다.\n3. 토마토소스, 크림, 치즈, 바질페스토 등 요리에 맞는 소스를 넣어 농도를 맞춘다.\n4. 삶은 면을 팬에 넣고 면수나 육수를 조금 더해 소스가 면에 잘 묻게 섞는다.\n5. 부족한 간은 소금, 후추, 치즈로 맞춘다.\n6. 접시에 담고 치즈나 허브를 올려 바질페스토파스타를 완성한다."
+  },
+  {
+    "recipe_id": "R269",
+    "recipe_name_ko": "뇨키",
+    "recipe_name_en": "Gnocchi",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "감자, 밀가루, 계란, 버터, 치즈",
+    "essential_ingredients_ko": "감자, 밀가루, 계란, 버터",
+    "used_ingredients": [
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "밀가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "버터",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 80,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 감자, 밀가루, 계란, 버터, 치즈를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 뇨키를 완성한다."
+  },
+  {
+    "recipe_id": "R270",
+    "recipe_name_ko": "미네스트로네",
+    "recipe_name_en": "Minestrone",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "토마토, 양파, 당근, 셀러리, 콩, 파스타, 육수",
+    "essential_ingredients_ko": "토마토, 양파, 당근, 셀러리",
+    "used_ingredients": [
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "셀러리",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "콩",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "파스타",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 토마토, 양파, 당근, 셀러리, 콩, 파스타, 육수를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 미네스트로네를 완성한다."
+  },
+  {
+    "recipe_id": "R271",
+    "recipe_name_ko": "라타투이",
+    "recipe_name_en": "Ratatouille",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "가지, 애호박, 토마토, 파프리카, 양파, 올리브유",
+    "essential_ingredients_ko": "가지, 애호박, 토마토, 파프리카",
+    "used_ingredients": [
+      {
+        "name": "가지",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "애호박",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "파프리카",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "올리브유",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 가지, 애호박, 토마토, 파프리카, 양파, 올리브유를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 라타투이를 완성한다."
+  },
+  {
+    "recipe_id": "R272",
+    "recipe_name_ko": "키슈로렌",
+    "recipe_name_en": "Quiche Lorraine",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "파이지, 계란, 생크림, 베이컨, 치즈, 양파",
+    "essential_ingredients_ko": "파이지, 계란, 생크림, 베이컨",
+    "used_ingredients": [
+      {
+        "name": "파이지",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "생크림",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "베이컨",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 파이지, 계란, 생크림, 베이컨, 치즈, 양파를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 키슈로렌을 완성한다."
+  },
+  {
+    "recipe_id": "R273",
+    "recipe_name_ko": "프리타타",
+    "recipe_name_en": "Frittata",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "계란, 감자, 시금치, 양파, 치즈",
+    "essential_ingredients_ko": "계란, 감자, 시금치, 양파",
+    "used_ingredients": [
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "시금치",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 80,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 계란, 감자, 시금치, 양파, 치즈를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 프리타타를 완성한다."
+  },
+  {
+    "recipe_id": "R274",
+    "recipe_name_ko": "로스트치킨",
+    "recipe_name_en": "Roast Chicken",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 감자, 당근, 양파, 로즈마리, 올리브유",
+    "essential_ingredients_ko": "닭고기, 감자, 당근, 양파",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "로즈마리",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "올리브유",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 감자, 당근, 양파, 로즈마리, 올리브유를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 로스트치킨을 완성한다."
+  },
+  {
+    "recipe_id": "R275",
+    "recipe_name_ko": "비프스튜",
+    "recipe_name_en": "Beef Stew",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "소고기, 감자, 당근, 양파, 토마토소스, 육수",
+    "essential_ingredients_ko": "소고기, 감자, 당근, 양파",
+    "used_ingredients": [
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "토마토소스",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "육수",
+        "amount": 500,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 소고기, 감자, 당근, 양파, 토마토소스, 육수를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 비프스튜를 완성한다."
+  },
+  {
+    "recipe_id": "R276",
+    "recipe_name_ko": "클램차우더",
+    "recipe_name_en": "Clam Chowder",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "조개, 감자, 양파, 우유, 생크림, 버터",
+    "essential_ingredients_ko": "조개, 감자, 양파, 우유",
+    "used_ingredients": [
+      {
+        "name": "조개",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "우유",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "생크림",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "버터",
+        "amount": 25,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 조개, 감자, 양파, 우유, 생크림, 버터를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 클램차우더를 완성한다."
+  },
+  {
+    "recipe_id": "R277",
+    "recipe_name_ko": "피쉬앤칩스",
+    "recipe_name_en": "Fish and Chips",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "흰살생선, 감자, 밀가루, 계란, 식용유, 타르타르소스",
+    "essential_ingredients_ko": "흰살생선, 감자, 밀가루, 계란",
+    "used_ingredients": [
+      {
+        "name": "흰살생선",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "밀가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "타르타르소스",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 흰살생선, 감자, 밀가루, 계란, 식용유, 타르타르소스를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 피쉬앤칩스를 완성한다."
+  },
+  {
+    "recipe_id": "R278",
+    "recipe_name_ko": "셰퍼드파이",
+    "recipe_name_en": "Shepherd’s Pie",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "양고기, 감자, 당근, 완두콩, 양파, 토마토소스",
+    "essential_ingredients_ko": "양고기, 감자, 당근, 완두콩",
+    "used_ingredients": [
+      {
+        "name": "양고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "완두콩",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "토마토소스",
+        "amount": 150,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 양고기, 감자, 당근, 완두콩, 양파, 토마토소스를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 셰퍼드파이를 완성한다."
+  },
+  {
+    "recipe_id": "R279",
+    "recipe_name_ko": "코티지파이",
+    "recipe_name_en": "Cottage Pie",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "소고기, 감자, 당근, 완두콩, 양파, 토마토소스",
+    "essential_ingredients_ko": "소고기, 감자, 당근, 완두콩",
+    "used_ingredients": [
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "당근",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "완두콩",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "토마토소스",
+        "amount": 150,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 소고기, 감자, 당근, 완두콩, 양파, 토마토소스를 준비하고, 고기와 채소는 한입 크기로 손질한다.\n2. 팬이나 냄비를 예열하고 버터나 올리브유를 두른다.\n3. 주재료를 먼저 익혀 겉면에 색을 내고, 단단한 채소를 넣어 함께 조리한다.\n4. 토마토소스, 육수, 생크림, 치즈 등 요리에 맞는 재료를 넣고 농도를 맞춘다.\n5. 중약불에서 재료가 부드럽게 익도록 끓이거나 굽는다.\n6. 간을 확인한 뒤 접시에 담아 코티지파이를 완성한다."
+  },
+  {
+    "recipe_id": "R280",
+    "recipe_name_ko": "스테이크샐러드",
+    "recipe_name_en": "Steak Salad",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "소고기, 양상추, 토마토, 양파, 올리브유, 발사믹식초",
+    "essential_ingredients_ko": "소고기, 양상추, 토마토, 양파",
+    "used_ingredients": [
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "양상추",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "올리브유",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "발사믹식초",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 소고기, 양상추, 토마토, 양파, 올리브유, 발사믹식초를 준비하고, 채소는 깨끗이 씻어 물기를 제거한다.\n2. 고기, 계란, 감자, 해산물처럼 익혀야 하는 재료는 따로 삶거나 굽는다.\n3. 토마토, 양파, 아보카도, 과일 등은 먹기 좋은 크기로 자른다.\n4. 올리브유, 식초, 요거트, 마요네즈 등으로 드레싱을 만든다.\n5. 큰 볼에 재료를 담고 드레싱을 조금씩 넣어 가볍게 섞는다.\n6. 접시에 보기 좋게 담아 스테이크샐러드를 완성한다."
+  },
+  {
+    "recipe_id": "R281",
+    "recipe_name_ko": "코브샐러드",
+    "recipe_name_en": "Cobb Salad",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "닭가슴살, 베이컨, 계란, 아보카도, 토마토, 양상추",
+    "essential_ingredients_ko": "닭가슴살, 베이컨, 계란, 아보카도",
+    "used_ingredients": [
+      {
+        "name": "닭가슴살",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "베이컨",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "아보카도",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양상추",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 닭가슴살, 베이컨, 계란, 아보카도, 토마토, 양상추를 준비하고, 채소는 깨끗이 씻어 물기를 제거한다.\n2. 고기, 계란, 감자, 해산물처럼 익혀야 하는 재료는 따로 삶거나 굽는다.\n3. 토마토, 양파, 아보카도, 과일 등은 먹기 좋은 크기로 자른다.\n4. 올리브유, 식초, 요거트, 마요네즈 등으로 드레싱을 만든다.\n5. 큰 볼에 재료를 담고 드레싱을 조금씩 넣어 가볍게 섞는다.\n6. 접시에 보기 좋게 담아 코브샐러드를 완성한다."
+  },
+  {
+    "recipe_id": "R282",
+    "recipe_name_ko": "월도프샐러드",
+    "recipe_name_en": "Waldorf Salad",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "사과, 셀러리, 호두, 포도, 마요네즈, 요거트",
+    "essential_ingredients_ko": "사과, 셀러리, 호두, 포도",
+    "used_ingredients": [
+      {
+        "name": "사과",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "셀러리",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "호두",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "포도",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "마요네즈",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "요거트",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 사과, 셀러리, 호두, 포도, 마요네즈, 요거트를 준비하고, 채소는 깨끗이 씻어 물기를 제거한다.\n2. 고기, 계란, 감자, 해산물처럼 익혀야 하는 재료는 따로 삶거나 굽는다.\n3. 토마토, 양파, 아보카도, 과일 등은 먹기 좋은 크기로 자른다.\n4. 올리브유, 식초, 요거트, 마요네즈 등으로 드레싱을 만든다.\n5. 큰 볼에 재료를 담고 드레싱을 조금씩 넣어 가볍게 섞는다.\n6. 접시에 보기 좋게 담아 월도프샐러드를 완성한다."
+  },
+  {
+    "recipe_id": "R283",
+    "recipe_name_ko": "니수아즈샐러드",
+    "recipe_name_en": "Nicoise Salad",
+    "cuisine": "Western",
+    "category": "Western",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "참치, 계란, 감자, 토마토, 올리브, 양상추",
+    "essential_ingredients_ko": "참치, 계란, 감자, 토마토",
+    "used_ingredients": [
+      {
+        "name": "참치",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "감자",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "올리브",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "양상추",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 참치, 계란, 감자, 토마토, 올리브, 양상추를 준비하고, 채소는 깨끗이 씻어 물기를 제거한다.\n2. 고기, 계란, 감자, 해산물처럼 익혀야 하는 재료는 따로 삶거나 굽는다.\n3. 토마토, 양파, 아보카도, 과일 등은 먹기 좋은 크기로 자른다.\n4. 올리브유, 식초, 요거트, 마요네즈 등으로 드레싱을 만든다.\n5. 큰 볼에 재료를 담고 드레싱을 조금씩 넣어 가볍게 섞는다.\n6. 접시에 보기 좋게 담아 니수아즈샐러드를 완성한다."
+  },
+  {
+    "recipe_id": "R284",
+    "recipe_name_ko": "치킨타코",
+    "recipe_name_en": "Chicken Tacos",
+    "cuisine": "Mexican",
+    "category": "Mexican",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "또띠아, 닭고기, 양상추, 토마토, 치즈, 살사",
+    "essential_ingredients_ko": "또띠아, 닭고기, 양상추, 토마토",
+    "used_ingredients": [
+      {
+        "name": "또띠아",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "양상추",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "살사",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 또띠아, 닭고기, 양상추, 토마토, 치즈, 살사를 준비하고, 고기와 채소는 또띠아에 넣기 좋은 크기로 썬다.\n2. 팬에 기름을 두르고 고기나 콩을 먼저 볶아 기본 맛을 낸다.\n3. 파프리카, 양파, 토마토 등 채소를 넣고 숨이 살짝 죽을 정도로 익힌다.\n4. 살사, 치즈, 라임, 고수 등으로 멕시칸 스타일의 맛을 더한다.\n5. 또띠아나 나초칩 위에 재료를 올리고 필요하면 치즈가 녹을 때까지 굽는다.\n6. 사워크림이나 살사를 곁들여 치킨타코를 완성한다."
+  },
+  {
+    "recipe_id": "R285",
+    "recipe_name_ko": "비프타코",
+    "recipe_name_en": "Beef Tacos",
+    "cuisine": "Mexican",
+    "category": "Mexican",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "또띠아, 소고기, 양상추, 토마토, 치즈, 살사",
+    "essential_ingredients_ko": "또띠아, 소고기, 양상추, 토마토",
+    "used_ingredients": [
+      {
+        "name": "또띠아",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "양상추",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "살사",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 또띠아, 소고기, 양상추, 토마토, 치즈, 살사를 준비하고, 고기와 채소는 또띠아에 넣기 좋은 크기로 썬다.\n2. 팬에 기름을 두르고 고기나 콩을 먼저 볶아 기본 맛을 낸다.\n3. 파프리카, 양파, 토마토 등 채소를 넣고 숨이 살짝 죽을 정도로 익힌다.\n4. 살사, 치즈, 라임, 고수 등으로 멕시칸 스타일의 맛을 더한다.\n5. 또띠아나 나초칩 위에 재료를 올리고 필요하면 치즈가 녹을 때까지 굽는다.\n6. 사워크림이나 살사를 곁들여 비프타코를 완성한다."
+  },
+  {
+    "recipe_id": "R286",
+    "recipe_name_ko": "치즈퀘사디아",
+    "recipe_name_en": "Cheese Quesadilla",
+    "cuisine": "Mexican",
+    "category": "Mexican",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "또띠아, 치즈, 양파, 파프리카, 살사",
+    "essential_ingredients_ko": "또띠아, 치즈, 양파, 파프리카",
+    "used_ingredients": [
+      {
+        "name": "또띠아",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "치즈",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "파프리카",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "살사",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 또띠아, 치즈, 양파, 파프리카, 살사를 준비하고, 고기와 채소는 또띠아에 넣기 좋은 크기로 썬다.\n2. 팬에 기름을 두르고 고기나 콩을 먼저 볶아 기본 맛을 낸다.\n3. 파프리카, 양파, 토마토 등 채소를 넣고 숨이 살짝 죽을 정도로 익힌다.\n4. 살사, 치즈, 라임, 고수 등으로 멕시칸 스타일의 맛을 더한다.\n5. 또띠아나 나초칩 위에 재료를 올리고 필요하면 치즈가 녹을 때까지 굽는다.\n6. 사워크림이나 살사를 곁들여 치즈퀘사디아를 완성한다."
+  },
+  {
+    "recipe_id": "R287",
+    "recipe_name_ko": "엔칠라다",
+    "recipe_name_en": "Enchiladas",
+    "cuisine": "Mexican",
+    "category": "Mexican",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "또띠아, 닭고기, 토마토소스, 치즈, 양파",
+    "essential_ingredients_ko": "또띠아, 닭고기, 토마토소스, 치즈",
+    "used_ingredients": [
+      {
+        "name": "또띠아",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "토마토소스",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 또띠아, 닭고기, 토마토소스, 치즈, 양파를 준비하고, 고기와 채소는 또띠아에 넣기 좋은 크기로 썬다.\n2. 팬에 기름을 두르고 고기나 콩을 먼저 볶아 기본 맛을 낸다.\n3. 파프리카, 양파, 토마토 등 채소를 넣고 숨이 살짝 죽을 정도로 익힌다.\n4. 살사, 치즈, 라임, 고수 등으로 멕시칸 스타일의 맛을 더한다.\n5. 또띠아나 나초칩 위에 재료를 올리고 필요하면 치즈가 녹을 때까지 굽는다.\n6. 사워크림이나 살사를 곁들여 엔칠라다를 완성한다."
+  },
+  {
+    "recipe_id": "R288",
+    "recipe_name_ko": "파히타",
+    "recipe_name_en": "Fajitas",
+    "cuisine": "Mexican",
+    "category": "Mexican",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "또띠아, 소고기, 파프리카, 양파, 라임, 살사",
+    "essential_ingredients_ko": "또띠아, 소고기, 파프리카, 양파",
+    "used_ingredients": [
+      {
+        "name": "또띠아",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "파프리카",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "라임",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "살사",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 또띠아, 소고기, 파프리카, 양파, 라임, 살사를 준비하고, 고기와 채소는 또띠아에 넣기 좋은 크기로 썬다.\n2. 팬에 기름을 두르고 고기나 콩을 먼저 볶아 기본 맛을 낸다.\n3. 파프리카, 양파, 토마토 등 채소를 넣고 숨이 살짝 죽을 정도로 익힌다.\n4. 살사, 치즈, 라임, 고수 등으로 멕시칸 스타일의 맛을 더한다.\n5. 또띠아나 나초칩 위에 재료를 올리고 필요하면 치즈가 녹을 때까지 굽는다.\n6. 사워크림이나 살사를 곁들여 파히타를 완성한다."
+  },
+  {
+    "recipe_id": "R289",
+    "recipe_name_ko": "나초",
+    "recipe_name_en": "Nachos",
+    "cuisine": "Mexican",
+    "category": "Mexican",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "나초칩, 치즈, 할라피뇨, 살사, 사워크림",
+    "essential_ingredients_ko": "나초칩, 치즈, 할라피뇨, 살사",
+    "used_ingredients": [
+      {
+        "name": "나초칩",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "할라피뇨",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "살사",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "사워크림",
+        "amount": 40,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 나초칩, 치즈, 할라피뇨, 살사, 사워크림을 준비하고, 고기와 채소는 또띠아에 넣기 좋은 크기로 썬다.\n2. 팬에 기름을 두르고 고기나 콩을 먼저 볶아 기본 맛을 낸다.\n3. 파프리카, 양파, 토마토 등 채소를 넣고 숨이 살짝 죽을 정도로 익힌다.\n4. 살사, 치즈, 라임, 고수 등으로 멕시칸 스타일의 맛을 더한다.\n5. 또띠아나 나초칩 위에 재료를 올리고 필요하면 치즈가 녹을 때까지 굽는다.\n6. 사워크림이나 살사를 곁들여 나초를 완성한다."
+  },
+  {
+    "recipe_id": "R290",
+    "recipe_name_ko": "과카몰리",
+    "recipe_name_en": "Guacamole",
+    "cuisine": "Mexican",
+    "category": "Mexican",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "아보카도, 토마토, 양파, 라임, 고수",
+    "essential_ingredients_ko": "아보카도, 토마토, 양파, 라임",
+    "used_ingredients": [
+      {
+        "name": "아보카도",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "라임",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "고수",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 아보카도는 반으로 갈라 씨를 제거하고 과육을 볼에 담는다.\n2. 포크로 아보카도를 으깨되 약간의 식감이 남도록 한다.\n3. 토마토와 양파는 잘게 다지고 고수도 썰어 넣는다.\n4. 라임즙을 넣어 갈변을 막고 상큼한 맛을 더한다.\n5. 소금이나 고추로 간을 맞춘 뒤 전체를 가볍게 섞는다.\n6. 나초나 타코와 함께 곁들여 과카몰리를 완성한다."
+  },
+  {
+    "recipe_id": "R291",
+    "recipe_name_ko": "칠리콘카르네",
+    "recipe_name_en": "Chili Con Carne",
+    "cuisine": "Mexican",
+    "category": "Mexican",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "소고기, 강낭콩, 토마토, 양파, 칠리파우더",
+    "essential_ingredients_ko": "소고기, 강낭콩, 토마토, 양파",
+    "used_ingredients": [
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "강낭콩",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "칠리파우더",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 소고기, 강낭콩, 토마토, 양파, 칠리파우더를 준비하고, 고기와 채소는 또띠아에 넣기 좋은 크기로 썬다.\n2. 팬에 기름을 두르고 고기나 콩을 먼저 볶아 기본 맛을 낸다.\n3. 파프리카, 양파, 토마토 등 채소를 넣고 숨이 살짝 죽을 정도로 익힌다.\n4. 살사, 치즈, 라임, 고수 등으로 멕시칸 스타일의 맛을 더한다.\n5. 또띠아나 나초칩 위에 재료를 올리고 필요하면 치즈가 녹을 때까지 굽는다.\n6. 사워크림이나 살사를 곁들여 칠리콘카르네를 완성한다."
+  },
+  {
+    "recipe_id": "R292",
+    "recipe_name_ko": "타말레",
+    "recipe_name_en": "Tamales",
+    "cuisine": "Mexican",
+    "category": "Mexican",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "옥수수가루, 돼지고기, 칠리소스, 옥수수잎",
+    "essential_ingredients_ko": "옥수수가루, 돼지고기, 칠리소스, 옥수수잎",
+    "used_ingredients": [
+      {
+        "name": "옥수수가루",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "돼지고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "칠리소스",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "옥수수잎",
+        "amount": 4,
+        "unit": "장"
+      }
+    ],
+    "instructions_ko": "1. 옥수수가루, 돼지고기, 칠리소스, 옥수수잎을 준비하고, 고기와 채소는 또띠아에 넣기 좋은 크기로 썬다.\n2. 팬에 기름을 두르고 고기나 콩을 먼저 볶아 기본 맛을 낸다.\n3. 파프리카, 양파, 토마토 등 채소를 넣고 숨이 살짝 죽을 정도로 익힌다.\n4. 살사, 치즈, 라임, 고수 등으로 멕시칸 스타일의 맛을 더한다.\n5. 또띠아나 나초칩 위에 재료를 올리고 필요하면 치즈가 녹을 때까지 굽는다.\n6. 사워크림이나 살사를 곁들여 타말레를 완성한다."
+  },
+  {
+    "recipe_id": "R293",
+    "recipe_name_ko": "치미창가",
+    "recipe_name_en": "Chimichanga",
+    "cuisine": "Mexican",
+    "category": "Mexican",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "또띠아, 소고기, 콩, 치즈, 살사, 식용유",
+    "essential_ingredients_ko": "또띠아, 소고기, 콩, 치즈",
+    "used_ingredients": [
+      {
+        "name": "또띠아",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "소고기",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "콩",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "치즈",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "살사",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 또띠아, 소고기, 콩, 치즈, 살사, 식용유를 준비하고, 고기와 채소는 또띠아에 넣기 좋은 크기로 썬다.\n2. 팬에 기름을 두르고 고기나 콩을 먼저 볶아 기본 맛을 낸다.\n3. 파프리카, 양파, 토마토 등 채소를 넣고 숨이 살짝 죽을 정도로 익힌다.\n4. 살사, 치즈, 라임, 고수 등으로 멕시칸 스타일의 맛을 더한다.\n5. 또띠아나 나초칩 위에 재료를 올리고 필요하면 치즈가 녹을 때까지 굽는다.\n6. 사워크림이나 살사를 곁들여 치미창가를 완성한다."
+  },
+  {
+    "recipe_id": "R294",
+    "recipe_name_ko": "세비체",
+    "recipe_name_en": "Ceviche",
+    "cuisine": "Mexican",
+    "category": "Mexican",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 1,
+    "servings": 2,
+    "ingredients_ko": "흰살생선, 라임, 양파, 고수, 토마토, 고추",
+    "essential_ingredients_ko": "흰살생선, 라임, 양파, 고수",
+    "used_ingredients": [
+      {
+        "name": "흰살생선",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "라임",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "고수",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "고추",
+        "amount": 15,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 흰살생선은 신선한 것으로 준비해 작은 크기로 썬다.\n2. 라임즙에 생선을 재워 산으로 익히는 느낌이 나도록 잠시 둔다.\n3. 양파, 토마토, 고수, 고추를 잘게 썰어 넣는다.\n4. 전체를 가볍게 섞고 소금으로 간을 맞춘다.\n5. 냉장고에서 잠시 차갑게 두어 맛을 배게 한다.\n6. 접시에 담아 세비체를 완성한다."
+  },
+  {
+    "recipe_id": "R295",
+    "recipe_name_ko": "후무스",
+    "recipe_name_en": "Hummus",
+    "cuisine": "Mediterranean",
+    "category": "Mediterranean",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "병아리콩, 타히니, 올리브유, 레몬, 마늘",
+    "essential_ingredients_ko": "병아리콩, 타히니, 올리브유, 레몬",
+    "used_ingredients": [
+      {
+        "name": "병아리콩",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "타히니",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "올리브유",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "레몬",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 병아리콩은 삶은 것을 준비하거나 통조림을 헹궈 물기를 뺀다.\n2. 믹서에 병아리콩, 타히니, 올리브유, 레몬즙, 마늘을 넣는다.\n3. 부드러운 질감이 될 때까지 갈고, 되직하면 물을 조금씩 넣어 농도를 조절한다.\n4. 소금으로 간을 맞추고 레몬즙을 추가해 산미를 조절한다.\n5. 그릇에 담고 올리브유를 살짝 두른다.\n6. 빵이나 채소 스틱과 곁들여 후무스를 완성한다."
+  },
+  {
+    "recipe_id": "R296",
+    "recipe_name_ko": "팔라펠",
+    "recipe_name_en": "Falafel",
+    "cuisine": "Mediterranean",
+    "category": "Mediterranean",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "병아리콩, 양파, 마늘, 파슬리, 밀가루, 식용유",
+    "essential_ingredients_ko": "병아리콩, 양파, 마늘, 파슬리",
+    "used_ingredients": [
+      {
+        "name": "병아리콩",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "파슬리",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "밀가루",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "식용유",
+        "amount": 30,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 병아리콩은 불려서 준비하고 물기를 충분히 제거한다.\n2. 병아리콩, 양파, 마늘, 파슬리를 믹서에 넣어 너무 곱지 않게 간다.\n3. 밀가루와 소금을 넣어 반죽이 뭉쳐질 정도로 섞는다.\n4. 반죽을 한입 크기로 둥글게 빚는다.\n5. 달군 기름에 넣어 겉이 바삭해질 때까지 튀긴다.\n6. 소스나 샐러드와 함께 담아 팔라펠을 완성한다."
+  },
+  {
+    "recipe_id": "R297",
+    "recipe_name_ko": "타불레",
+    "recipe_name_en": "Tabbouleh",
+    "cuisine": "Mediterranean",
+    "category": "Mediterranean",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "파슬리, 불거, 토마토, 오이, 레몬, 올리브유",
+    "essential_ingredients_ko": "파슬리, 불거, 토마토, 오이",
+    "used_ingredients": [
+      {
+        "name": "파슬리",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "불거",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "오이",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "레몬",
+        "amount": 1,
+        "unit": "개"
+      },
+      {
+        "name": "올리브유",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 파슬리, 불거, 토마토, 오이, 레몬, 올리브유를 준비하고, 채소와 고기는 먹기 좋은 크기로 손질한다.\n2. 고기 요리는 마늘, 요거트소스, 향신료 등으로 밑간해 잡내를 줄인다.\n3. 팬이나 오븐에서 주재료를 노릇하게 익히고, 채소는 신선한 식감을 살려 준비한다.\n4. 또띠아나 빵이 들어가면 살짝 데워 부드럽게 만든다.\n5. 익힌 재료와 채소, 소스를 함께 담거나 말아준다.\n6. 레몬이나 요거트소스를 곁들여 타불레를 완성한다."
+  },
+  {
+    "recipe_id": "R298",
+    "recipe_name_ko": "샥슈카",
+    "recipe_name_en": "Shakshuka",
+    "cuisine": "Mediterranean",
+    "category": "Mediterranean",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "계란, 토마토, 양파, 파프리카, 마늘, 올리브유",
+    "essential_ingredients_ko": "계란, 토마토, 양파, 파프리카",
+    "used_ingredients": [
+      {
+        "name": "계란",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "파프리카",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "올리브유",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "instructions_ko": "1. 양파와 파프리카는 잘게 썰고, 토마토는 소스처럼 익기 좋게 준비한다.\n2. 팬에 올리브유를 두르고 양파, 파프리카, 마늘을 먼저 볶아 향을 낸다.\n3. 토마토를 넣고 중약불에서 끓여 걸쭉한 소스를 만든다.\n4. 소스 위에 홈을 만들고 계란을 하나씩 깨 넣는다.\n5. 뚜껑을 덮어 계란 흰자가 익을 때까지 약한 불로 익힌다.\n6. 빵이나 또띠아와 함께 곁들여 샥슈카를 완성한다."
+  },
+  {
+    "recipe_id": "R299",
+    "recipe_name_ko": "샤와르마",
+    "recipe_name_en": "Shawarma",
+    "cuisine": "Mediterranean",
+    "category": "Mediterranean",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 또띠아, 양상추, 토마토, 요거트소스, 마늘",
+    "essential_ingredients_ko": "닭고기, 또띠아, 양상추, 토마토",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "또띠아",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "양상추",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "요거트소스",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "마늘",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 또띠아, 양상추, 토마토, 요거트소스, 마늘을 준비하고, 채소와 고기는 먹기 좋은 크기로 손질한다.\n2. 고기 요리는 마늘, 요거트소스, 향신료 등으로 밑간해 잡내를 줄인다.\n3. 팬이나 오븐에서 주재료를 노릇하게 익히고, 채소는 신선한 식감을 살려 준비한다.\n4. 또띠아나 빵이 들어가면 살짝 데워 부드럽게 만든다.\n5. 익힌 재료와 채소, 소스를 함께 담거나 말아준다.\n6. 레몬이나 요거트소스를 곁들여 샤와르마를 완성한다."
+  },
+  {
+    "recipe_id": "R300",
+    "recipe_name_ko": "치킨케밥",
+    "recipe_name_en": "Chicken Kebab",
+    "cuisine": "Mediterranean",
+    "category": "Mediterranean",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "spicy_level_0_4": 0,
+    "servings": 2,
+    "ingredients_ko": "닭고기, 또띠아, 양상추, 토마토, 양파, 요거트소스",
+    "essential_ingredients_ko": "닭고기, 또띠아, 양상추, 토마토",
+    "used_ingredients": [
+      {
+        "name": "닭고기",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "또띠아",
+        "amount": 2,
+        "unit": "개"
+      },
+      {
+        "name": "양상추",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "토마토",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "양파",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "요거트소스",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "instructions_ko": "1. 닭고기, 또띠아, 양상추, 토마토, 양파, 요거트소스를 준비하고, 채소와 고기는 먹기 좋은 크기로 손질한다.\n2. 고기 요리는 마늘, 요거트소스, 향신료 등으로 밑간해 잡내를 줄인다.\n3. 팬이나 오븐에서 주재료를 노릇하게 익히고, 채소는 신선한 식감을 살려 준비한다.\n4. 또띠아나 빵이 들어가면 살짝 데워 부드럽게 만든다.\n5. 익힌 재료와 채소, 소스를 함께 담거나 말아준다.\n6. 레몬이나 요거트소스를 곁들여 치킨케밥을 완성한다."
   }
 ]
