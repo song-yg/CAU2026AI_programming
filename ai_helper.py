@@ -12,13 +12,15 @@ class AIHelper:
     def __init__(self):
         self.url = "https://openrouter.ai/api/v1/chat/completions"
 
-        # AI 모델 우선순위
-        # 1번 모델이 실패하면 2번, 2번이 실패하면 3번, 3번이 실패하면 4번 모델을 자동으로 시도합니다.
+        # AI 모델 호출 순서
+        # 앞 모델이 실패하면 다음 모델을 자동으로 시도합니다.
+        # 마지막 openrouter/free는 OpenRouter가 사용 가능한 무료 모델로 자동 연결해주는 예비 모델입니다.
         self.models = [
-            "google/gemini-pro-latest",
-            "openai/gpt-5.2-pro",
+            "deepseek/deepseek-chat-v3-0324",
             "nvidia/llama-3.1-nemotron-ultra-253b-v1:free",
-            "deepseek/deepseek-chat-v3-0324:free",
+            "deepseek/deepseek-r1:free",
+            "meta-llama/llama-3.3-70b-instruct:free",
+            "openrouter/free",
         ]
 
         # 기존 코드에서 self.model을 참조해도 깨지지 않게 첫 번째 모델을 넣어둡니다.
@@ -75,54 +77,63 @@ class AIHelper:
 
         return key
 
-    def print_ai_failure_message(self):
+    def get_ai_ready_problem(self):
         """
-        사용자에게 보여줄 AI 실패 메시지는 이 한 줄로 통일한다.
-        HTTP 응답 원문, API 오류 JSON, 예외 내용은 출력하지 않는다.
+        AI를 사용할 수 없는 이유를 사용자 친화적인 문장으로 반환합니다.
+        문제가 없으면 None을 반환합니다.
         """
 
-        print("AI 호출에 실패했습니다. Python 기본 기능만 사용합니다.")
-
-    def check_ai_ready(self, show_message=True):
         if requests is None:
-            if show_message:
-                self.print_ai_failure_message()
-            return False
+            return "AI 기능 사용에 필요한 프로그램 구성 요소가 없어 기본 기능으로 진행합니다."
 
         if self.api_key is None or self.api_key == "":
-            if show_message:
-                self.print_ai_failure_message()
-            return False
+            return "AI 키가 없어 AI 기능 없이 기본 기능으로 진행합니다."
 
         if not self.api_key.startswith("sk-or-"):
-            if show_message:
-                self.print_ai_failure_message()
-            return False
+            return "AI 키 형식이 올바르지 않아 AI 기능 없이 기본 기능으로 진행합니다."
 
         try:
             self.api_key.encode("latin-1")
         except Exception:
-            if show_message:
-                self.print_ai_failure_message()
-            return False
+            return "AI 키에 인식할 수 없는 문자가 포함되어 있어 기본 기능으로 진행합니다."
 
-        return True
+        return None
+
+    def check_ai_ready(self):
+        problem = self.get_ai_ready_problem()
+
+        if problem is None:
+            return True
+
+        return False
+
+    def print_ai_failure_message(self):
+        """
+        AI 호출이 실패했을 때 사용자에게 보여줄 메시지입니다.
+        API 오류 코드, 모델명, 긴 에러 원문은 보여주지 않습니다.
+        """
+
+        print("AI 추천 기능을 잠시 사용할 수 없어 기본 추천 방식으로 진행합니다.")
+
+    def print_ai_ready_problem(self):
+        problem = self.get_ai_ready_problem()
+
+        if problem is not None:
+            print(problem)
 
     def ask_ai(self, prompt):
         """
         일반 AI 요청 함수입니다.
 
-        작동 순서:
-        1. google/gemini-pro-latest 시도
-        2. 실패하면 openai/gpt-5.2-pro 시도
-        3. 실패하면 nvidia/llama-3.1-nemotron-ultra-253b-v1:free 시도
-        4. 실패하면 deepseek/deepseek-chat-v3-0324:free 시도
-
-        성공하면 AI 응답 문자열을 반환하고,
-        모든 모델이 실패하면 None을 반환합니다.
+        작동 방식:
+        1. self.models에 있는 모델을 순서대로 시도합니다.
+        2. 한 모델이 실패하면 다음 모델로 넘어갑니다.
+        3. 모든 모델이 실패하면 None을 반환합니다.
+        4. 실패 이유 JSON이나 긴 에러 로그는 출력하지 않습니다.
         """
 
-        if self.check_ai_ready(show_message=True) == False:
+        if self.check_ai_ready() == False:
+            self.print_ai_ready_problem()
             return None
 
         for model in self.models:
@@ -171,26 +182,32 @@ class AIHelper:
 
             result = response.json()
 
-            if "choices" not in result or len(result["choices"]) == 0:
+            if "choices" not in result:
                 return None
 
-            try:
-                content = result["choices"][0]["message"]["content"]
-
-                if content is None or str(content).strip() == "":
-                    return None
-
-                return content
-
-            except Exception:
+            if len(result["choices"]) == 0:
                 return None
+
+            message = result["choices"][0].get("message", {})
+            content = message.get("content", None)
+
+            if content is None:
+                return None
+
+            content = str(content).strip()
+
+            if content == "":
+                return None
+
+            return content
 
         except Exception:
             return None
 
     def extract_json_object(self, text):
         """
-        AI가 ```json ... ``` 또는 설명을 같이 보내도 JSON 부분만 최대한 뽑습니다.
+        AI가 ```json ... ``` 또는 설명 문장을 같이 보내도
+        JSON 부분만 최대한 뽑아냅니다.
         """
 
         if text is None:
@@ -217,26 +234,70 @@ class AIHelper:
         except Exception:
             return None
 
-    def convert_ingredient_unit(self, name, quantity, unit, expire_days, recipe_unit_context=""):
+    def make_recipe_context_text(self, recipe_context=None, allowed_names=None, allowed_units=None):
+        """
+        fridge_manager.py 쪽에서 recipes.json 기준 재료명/단위 정보를 넘겨주는 경우,
+        AI 프롬프트에 참고 정보로 넣기 위한 문자열을 만듭니다.
+        """
+
+        context_text = ""
+
+        if recipe_context is not None:
+            context_text = context_text + "\n[레시피 기준 참고 정보]\n"
+            context_text = context_text + str(recipe_context) + "\n"
+
+        if allowed_names is not None:
+            try:
+                names = list(allowed_names)
+                names = names[:200]
+                context_text = context_text + "\n[허용 가능한 재료명 일부]\n"
+                context_text = context_text + ", ".join(map(str, names)) + "\n"
+            except Exception:
+                pass
+
+        if allowed_units is not None:
+            try:
+                units = list(allowed_units)
+                context_text = context_text + "\n[허용 가능한 단위]\n"
+                context_text = context_text + ", ".join(map(str, units)) + "\n"
+            except Exception:
+                pass
+
+        return context_text
+
+    def convert_ingredient_unit(
+        self,
+        name,
+        quantity,
+        unit,
+        expire_days,
+        recipe_context=None,
+        allowed_names=None,
+        allowed_units=None,
+    ):
         """
         재료명과 단위를 AI에게 표준 형태로 정규화하게 합니다.
 
-        중요한 원칙:
-        - AI가 모르는 재료를 억지로 다른 음식으로 바꾸면 안 됩니다.
-        - 식재료가 아니거나 recipes.json 후보와 관계가 없으면 success=false를 반환하게 합니다.
+        예:
+        EGG 2 pcs -> 계란 2 개
+        달걀 한 판 -> 계란 30 개
+        파 1단 -> 대파 300 g
+        milk 1 pack -> 우유 1000 ml
 
-        반환값:
-        [재료명, 수량, 단위, 유통기한]
-
-        실패 시:
-        None
+        실패 시 None을 반환합니다.
         """
 
-        if self.check_ai_ready(show_message=True) == False:
+        if self.check_ai_ready() == False:
             return None
 
+        context_text = self.make_recipe_context_text(
+            recipe_context=recipe_context,
+            allowed_names=allowed_names,
+            allowed_units=allowed_units,
+        )
+
         prompt = """
-냉장고 재료 입력을 recipes.json에서 실제로 사용할 수 있는 표준 형태로 정규화해줘.
+냉장고 재료 입력을 레시피 계산용 표준 형태로 정규화해줘.
 반드시 JSON 하나만 출력해.
 
 입력:
@@ -245,38 +306,36 @@ class AIHelper:
 단위: """ + str(unit) + """
 유통기한까지 남은 날짜: """ + str(expire_days) + """
 
-recipes.json에서 실제로 쓰이는 재료명과 단위 후보:
-""" + str(recipe_unit_context) + """
-
-가장 중요한 규칙:
-- 입력 재료가 식재료가 아니면 절대 다른 재료로 바꾸지 말고 success=false를 출력해.
-- 입력 재료가 후보 목록의 재료와 의미상 명확히 같거나, 아주 가까운 오타/영어명/동의어일 때만 success=true를 출력해.
-- ekfrif, 피카츄, 젠슨황처럼 식재료가 아니거나 의미를 알 수 없는 입력은 success=false로 처리해.
-- 후보 목록에 없는 재료를 억지로 후보 목록의 다른 재료로 바꾸지 말고 success=false로 처리해.
-- 모르는 재료를 억지로 가장 비슷한 음식으로 추정하지 마.
-- 반드시 위 recipes.json 후보에 있는 재료명과 단위 조합에 맞춰서 변환해.
-- 사용자가 입력한 단위가 틀린 표기는 아니더라도 recipes.json에서 쓰이지 않는 단위면 recipes.json 단위로 바꿔.
-- 영어, 대문자, 명확한 오타, 동의어는 한국어 표준 재료명으로 바꿔.
-- 예: EGG, egg, eggs, 달걀, 삶은계란 -> 계란
+중요 규칙:
+- 입력이 실제 식재료라고 판단될 때만 success를 true로 해.
+- 식재료가 아닌 단어, 사람 이름, 캐릭터 이름, 의미 없는 문자열은 절대 억지로 식재료로 바꾸지 마.
+- 모르면 추측해서 다른 재료로 바꾸지 말고 success=false를 반환해.
+- 예: 피카츄, 젠슨황, ekfrif처럼 식재료로 확정할 수 없는 입력은 success=false.
+- 단, 한/영키 오입력이나 아주 가까운 오타는 보정 가능해.
+- 예: EGG, egg, eggs, 달걀, 걔란, eggg -> 계란
 - 예: 파, green onion, scallion -> 대파
 - 예: milk -> 우유
 - 예: tofu -> 두부
-- 예: asparagus -> 아스파라거스, broccoli -> 브로콜리
-- 출력 단위는 recipes.json 후보에 맞춰 g, ml, 개, 장, 토막 중 하나로 바꿔.
+- 예: onion -> 양파
+- 출력 단위는 가능하면 g, ml, 개, 장, 토막 중 하나로 바꿔.
+- 레시피 기준 단위와 맞출 수 있으면 그 단위로 바꿔.
 - 설명 문장 없이 JSON만 출력해.
 
 성공 예시:
 {"success":true,"name":"계란","quantity":2,"unit":"개","expire_days":5}
 {"success":true,"name":"대파","quantity":300,"unit":"g","expire_days":5}
 {"success":true,"name":"우유","quantity":1000,"unit":"ml","expire_days":5}
-{"success":true,"name":"라면","quantity":1,"unit":"개","expire_days":5}
 
 실패 예시:
-{"success":false,"reason":"식재료가 아니거나 recipes.json 후보와 관련 없는 입력"}
+{"success":false,"reason":"식재료로 판단할 수 없음"}
+{"success":false,"reason":"단위를 안전하게 변환할 수 없음"}
+
+""" + context_text + """
 
 출력 형식:
-성공하면 {"success":true,"name":"재료명","quantity":숫자,"unit":"단위","expire_days":숫자}
-실패하면 {"success":false,"reason":"간단한 이유"}
+{"success":true,"name":"재료명","quantity":숫자,"unit":"단위","expire_days":숫자}
+또는
+{"success":false,"reason":"실패 이유"}
 """
 
         for model in self.models:
@@ -287,9 +346,14 @@ recipes.json에서 실제로 쓰이는 재료명과 단위 후보:
                 continue
 
             try:
-                if "success" in data and data["success"] == False:
-                    continue
+                success = data.get("success", True)
+            except Exception:
+                success = True
 
+            if success == False:
+                continue
+
+            try:
                 converted_name = str(data["name"]).strip()
                 converted_quantity = float(data["quantity"])
                 converted_unit = str(data["unit"]).strip().lower()
@@ -309,6 +373,39 @@ recipes.json에서 실제로 쓰이는 재료명과 단위 후보:
             if converted_expire_days < 0:
                 continue
 
+            default_allowed_units = [
+                "g",
+                "kg",
+                "ml",
+                "l",
+                "개",
+                "장",
+                "토막",
+                "큰술",
+                "작은술",
+            ]
+
+            if allowed_units is not None:
+                try:
+                    allowed_unit_list = list(allowed_units)
+                except Exception:
+                    allowed_unit_list = default_allowed_units
+            else:
+                allowed_unit_list = default_allowed_units
+
+            if converted_unit not in allowed_unit_list:
+                continue
+
+            if allowed_names is not None:
+                try:
+                    allowed_name_list = list(allowed_names)
+
+                    if converted_name not in allowed_name_list:
+                        continue
+
+                except Exception:
+                    pass
+
             self.model = model
 
             return [
@@ -318,7 +415,6 @@ recipes.json에서 실제로 쓰이는 재료명과 단위 후보:
                 converted_expire_days,
             ]
 
-        self.print_ai_failure_message()
         return None
 
     def rerank_recipes(self, candidates, user_condition):
@@ -366,14 +462,20 @@ recipes.json에서 실제로 쓰이는 재료명과 단위 후보:
         return self.ask_ai(prompt)
 
     def rewrite_instructions(self, recipe, fridge_names):
+        recipe_name = getattr(recipe, "name", "레시피")
+        recipe_instructions = getattr(recipe, "instructions", None)
+
+        if recipe_instructions is None:
+            recipe_instructions = getattr(recipe, "instructions_ko", "")
+
         prompt = """
 다음 레시피를 사용자가 가진 재료 기준으로 다시 설명해줘.
 
 요리 이름:
-""" + recipe.name + """
+""" + str(recipe_name) + """
 
 원래 조리법:
-""" + recipe.instructions + """
+""" + str(recipe_instructions) + """
 
 사용자가 가진 재료:
 """ + str(fridge_names) + """
